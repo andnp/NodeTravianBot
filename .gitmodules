@@ -1,0 +1,3 @@
+[submodule "JavascriptNeuralNets"]
+	path = JavascriptNeuralNets
+	url = https://github.com/andnp/JavascriptNeuralNets.git
