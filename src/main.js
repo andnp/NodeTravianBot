@@ -1,3 +1,8 @@
+//-------Global Variables--------
+
+global.server = "http://ts2.travian.us";
+
+//-------------------------------
 var wio = require('webdriverio');
 var options = { desiredCapabilities: { browserName: 'chrome' } };
 var client = wio.remote(options);
@@ -10,10 +15,15 @@ var taskQueue = [];
 
 client.login().then(function(){
 	// begin execution of tasks in queue
-	setInterval(function(){
-		if(taskQueue.length > 0)
+	function executor(){
+		if(taskQueue.length > 0){
 			taskQueue.shift()();
-	}, 1000);
+		}
+		setTimeout(executor, 1000);
+	}
 
-	require('./controllers/auctionMarket.js')(client, taskQueue);
+	// client.placeAuctionBid(7, 500);
+	executor();
+	require('./controllers/mapScanner.js')(client, taskQueue);
+	// require('./controllers/auctionMarket.js')(client, taskQueue);
 });

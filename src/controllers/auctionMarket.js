@@ -16,7 +16,7 @@ function auctionMarket(client,taskQueue){
 					});
 				});
 		});
-	}, 10 * 1000);
+	}, 55 * 1000);
 }
 
 module.exports = auctionMarket;
