@@ -1,4 +1,3 @@
-var wio = require('webdriverio');
 var fs = require('fs');
 
 function login(client){

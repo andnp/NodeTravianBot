@@ -1,5 +1,3 @@
-var wio = require('webdriverio');
-
 openAuctionPage = function(){
 	return this.url('http://ts2.travian.us/hero_auction.php?action=buy');
 }
