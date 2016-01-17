@@ -25,5 +25,5 @@ client.login().then(function(){
 	// client.placeAuctionBid(7, 500);
 	executor();
 	require('./controllers/mapScanner.js')(client, taskQueue);
-	// require('./controllers/auctionMarket.js')(client, taskQueue);
+	require('./controllers/auctionMarket.js')(client, taskQueue);
 });
