@@ -3,9 +3,24 @@ var fs = require('fs');
 function Oasis(client, x, y){
 	console.log("found Oasis");
 	client.getText('//*[@id="troop_info"]', function(err, res){
-		if(res.indexOf("none") !== -1){
-			fs.appendFile('../oasis.json', JSON.stringify({coords: {x: x, y:y}}) + '\n');
+		var file = fs.readFileSync('../oasis.json', 'utf8');
+		var datapoints = JSON.parse(file || '[]');
+		var exists = false;
+		for(var i = 0; i < datapoints.length; i++){
+			if(datapoints[i].coords.x == x && datapoints[i].coords.y ==y){
+				exists = true;
+				datapoints[i].empty = res.indexOf('none') !== -1;
+				break;
+			}
 		}
+		if(!exists){
+			datapoints.push({
+				coords: {x: x, y: y},
+				empty: res.indexOf('none') !== -1
+			});
+		}
+
+		fs.writeFile('../oasis.json', JSON.stringify(datapoints));
 	});
 }
 
@@ -23,13 +38,28 @@ function Village(client, x, y){
 	})
 	.getText('//*[@id="village_info"]/tbody/tr[4]/td', function(err, res){
 		pop = res;
-		fs.appendFile('../villages.json', JSON.stringify({
-			coords: {x: x, y: y},
-			tribe: tribe,
-			alliance: alliance,
-			owner: owner,
-			population: pop
-		}) + '\n');
+		var file = fs.readFileSync('../villages.json', 'utf8');
+		var datapoints = JSON.parse(file);
+		var exists = false;
+		for(var i = 0; i < datapoints.length; i++){
+			if(datapoints[i].coords.x == x && datapoints[i].coords.y == y){
+				exists = true;
+				datapoints[i].alliance = alliance;
+				datapoints[i].pop = pop;
+				break;
+			}
+		}
+		if(!exists){
+			datapoints.push({
+				coords: {x: x, y: y},
+				tribe: tribe,
+				alliance: alliance,
+				owner: owner,
+				population: pop
+			});
+		}
+		fs.writeFile('../villages.json', JSON.stringify(datapoints), function(err){
+		});
 	});
 }
 
