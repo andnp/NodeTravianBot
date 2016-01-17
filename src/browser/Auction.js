@@ -1,15 +1,13 @@
-var wio = require('webdriverio');
-
-openAuctionPage = function(){
-	return this.url('http://ts2.travian.us/hero_auction.php?action=buy');
+var openAuctionPage = function(){
+	return this.url(global.server + '/hero_auction.php?action=buy');
 }
 
-openBidsPage = function(){
-	return this.url('http://ts2.travian.us/hero_auction.php?action=bids');
+var openBidsPage = function(){
+	return this.url(global.server + '/hero_auction.php?action=bids');
 }
 
-getAuctionsTable = function(){
-	return this.getText('//*[@id="auction"]/table/tbody/tr/td[2]', function(err, names){
+var getAuctionsTable = function(){
+	return this.openAuctionPage().getText('//*[@id="auction"]/table/tbody/tr/td[2]', function(err, names){
 		return this.getText('//*[@id="auction"]/table/tbody/tr/td[4]', function(err, costs){
 			return this.getText('//*[@id="auction"]/table/tbody/tr/td[5]', function(err, times){
 				var objects = [];
@@ -31,8 +29,16 @@ getAuctionsTable = function(){
 	});
 }
 
+var placeAuctionBid = function(itemNum, amount){
+	return this.openAuctionPage()
+		.click('//*[@id="auction"]/table/tbody/tr[' + (itemNum + 1) + ']/td[6]/a')
+		.setValue('//*[contains(@class, "maxBid")]', amount)
+		.click('//*[contains(@class, "submitBid")]');
+}
+
 module.exports = function(client){
 	client.addCommand('openAuctionPage', openAuctionPage);
 	client.addCommand('openBidsPage', openBidsPage);
 	client.addCommand('getAuctionsTable', getAuctionsTable);
+	client.addCommand('placeAuctionBid', placeAuctionBid);
 }

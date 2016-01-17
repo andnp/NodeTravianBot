@@ -55,6 +55,7 @@
 {"time":46,"number":10,"name":"Ointment","cost":1000,"day":8}
 {"time":35,"number":1,"name":"Book of Wisdom","cost":2122,"day":8}
 {"time":28,"number":1,"name":"Boots of the Mercenary","cost":1002,"day":8}
+<<<<<<< HEAD
 {"time":57,"number":5,"name":"Cage","cost":1000,"day":8}
 {"time":2,"number":5,"name":"Cage","cost":1000,"day":8}
 {"time":41,"number":5,"name":"Cage","cost":901,"day":8}
@@ -240,3 +241,4 @@
 {"time":28,"number":5,"name":"Cage","cost":1500,"day":9}
 {"time":43,"number":10,"name":"Cage","cost":3500,"day":9}
 {"time":51,"number":10,"name":"Ointment","cost":1200,"day":9}
+{"time":45,"number":10,"name":"Ointment","cost":907,"day":9}
