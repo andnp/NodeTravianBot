@@ -9,6 +9,7 @@ function auctionMarket(client,taskQueue){
 						if(item.time < 60){
 							var d = new Date();
 	 						item.day = d.getDate() - (new Date(2016, 1, 8)).getDate();
+	 						item.hour = d.getHours();
 	 						fs.appendFile("../items.json", JSON.stringify(item) + "\n", 'utf8', function(err){
 	 							if(err) console.log(err);
 	 						});
