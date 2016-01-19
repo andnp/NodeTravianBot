@@ -3,7 +3,7 @@ var fs = require('fs');
 function Oasis(client, x, y){
 	console.log("found Oasis");
 	client.getText('//*[@id="troop_info"]', function(err, res){
-		var file = fs.readFileSync('../oasis.json', 'utf8');
+		var file = fs.readFileSync('..'+ global.serverName + '/oasis.json', 'utf8');
 		var datapoints = JSON.parse(file || '[]');
 		var exists = false;
 		for(var i = 0; i < datapoints.length; i++){
@@ -20,7 +20,7 @@ function Oasis(client, x, y){
 			});
 		}
 
-		fs.writeFile('../oasis.json', JSON.stringify(datapoints));
+		fs.writeFile('../' + global.serverName + '/oasis.json', JSON.stringify(datapoints));
 	});
 }
 
@@ -38,7 +38,7 @@ function Village(client, x, y){
 	})
 	.getText('//*[@id="village_info"]/tbody/tr[4]/td', function(err, res){
 		pop = res;
-		var file = fs.readFileSync('../villages.json', 'utf8');
+		var file = fs.readFileSync('../' + global.serverName + '/villages.json', 'utf8');
 		var datapoints = JSON.parse(file);
 		var exists = false;
 		for(var i = 0; i < datapoints.length; i++){
@@ -58,7 +58,7 @@ function Village(client, x, y){
 				population: pop
 			});
 		}
-		fs.writeFile('../villages.json', JSON.stringify(datapoints), function(err){
+		fs.writeFile('../' + global.serverName + '/villages.json', JSON.stringify(datapoints), function(err){
 		});
 	});
 }
@@ -103,7 +103,8 @@ function controller(client, taskQueue){
 						}
 					});
 			});
-		},(Math.randomw() * 60) * 1000);
+			global.done = true;
+		},(Math.random() * 120) * 1000);
 	});
 };
 
