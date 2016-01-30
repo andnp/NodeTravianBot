@@ -1,1 +1,1215 @@
-[{"coords":{"x":-11,"y":37},"empty":false}]
+[
+	{
+		"coords": {
+			"x": -19,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 28.653097563788805,
+		"farm": true,
+		"checked": 1454097489804
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 25.709920264364882,
+		"farm": true,
+		"checked": 1454097508076
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 25.179356624028344,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -1,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 25.317977802344327,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 1,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 25.709920264364882,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 25.96150997149434,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 27
+		},
+		"empty": false,
+		"dist": 32.01562118716424,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 28
+		},
+		"empty": false,
+		"dist": 27.784887978899608,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 28
+		},
+		"empty": false,
+		"dist": 24.73863375370596,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 28
+		},
+		"empty": true,
+		"dist": 24,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 1,
+			"y": 28
+		},
+		"empty": true,
+		"dist": 24.73863375370596,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 28
+		},
+		"empty": false,
+		"dist": 25,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 28
+		},
+		"empty": false,
+		"dist": 34.655446902326915,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 29
+		},
+		"empty": false,
+		"dist": 23.769728648009426,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": 29
+		},
+		"empty": true,
+		"dist": 23.08679276123039,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 29
+		},
+		"empty": false,
+		"dist": 23,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 29
+		},
+		"empty": false,
+		"dist": 27.459060435491963,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 30
+		},
+		"empty": false,
+		"dist": 28.42534080710379,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 30
+		},
+		"empty": true,
+		"dist": 26.076809620810597,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -17,
+			"y": 30
+		},
+		"empty": false,
+		"dist": 25.059928172283335,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 30
+		},
+		"empty": false,
+		"dist": 22.561028345356956,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 30
+		},
+		"empty": true,
+		"dist": 22.20360331117452,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 3,
+			"y": 30
+		},
+		"empty": false,
+		"dist": 23.40939982143925,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 31
+		},
+		"empty": false,
+		"dist": 22.47220505424423,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 31
+		},
+		"empty": true,
+		"dist": 21.587033144922902,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 31
+		},
+		"empty": false,
+		"dist": 32.64965543462902,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 32
+		},
+		"empty": false,
+		"dist": 31.240998703626616,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 32
+		},
+		"empty": false,
+		"dist": 20.615528128088304,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -3,
+			"y": 32
+		},
+		"empty": true,
+		"dist": 20.09975124224178,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 33
+		},
+		"empty": true,
+		"dist": 24.839484696748443,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 33
+		},
+		"empty": false,
+		"dist": 19,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -30,
+			"y": 34
+		},
+		"empty": false,
+		"dist": 30.805843601498726,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 34
+		},
+		"empty": false,
+		"dist": 25.45584412271571,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 34
+		},
+		"empty": false,
+		"dist": 18.681541692269406,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 34
+		},
+		"empty": false,
+		"dist": 22.20360331117452,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 34
+		},
+		"empty": false,
+		"dist": 24.08318915758459,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 34
+		},
+		"empty": false,
+		"dist": 26.90724809414742,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 13,
+			"y": 35
+		},
+		"empty": false,
+		"dist": 24.758836806279895,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 36
+		},
+		"empty": false,
+		"dist": 28.0178514522438,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 36
+		},
+		"empty": true,
+		"dist": 24.08318915758459,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -22,
+			"y": 36
+		},
+		"empty": true,
+		"dist": 23.345235059857504,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 37
+		},
+		"empty": false,
+		"dist": 27.459060435491963,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 37
+		},
+		"empty": true,
+		"dist": 26.627053911388696,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 37
+		},
+		"empty": false,
+		"dist": 21.93171219946131,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 37
+		},
+		"empty": true,
+		"dist": 16.15549442140351,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 7,
+			"y": 37
+		},
+		"empty": true,
+		"dist": 19.209372712298546,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 13,
+			"y": 37
+		},
+		"empty": false,
+		"dist": 23.430749027719962,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 38
+		},
+		"empty": false,
+		"dist": 22.80350850198276,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -22,
+			"y": 38
+		},
+		"empty": false,
+		"dist": 22.02271554554524,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 38
+		},
+		"empty": false,
+		"dist": 21.2602916254693,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 38
+		},
+		"empty": true,
+		"dist": 17.204650534085253,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 39
+		},
+		"empty": false,
+		"dist": 20.615528128088304,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 39
+		},
+		"empty": false,
+		"dist": 16.401219466856727,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 39
+		},
+		"empty": true,
+		"dist": 15.264337522473747,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 39
+		},
+		"empty": false,
+		"dist": 24.698178070456937,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 39
+		},
+		"empty": false,
+		"dist": 25.553864678361276,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 41
+		},
+		"empty": true,
+		"dist": 26.40075756488817,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -3,
+			"y": 41
+		},
+		"empty": false,
+		"dist": 11.180339887498949,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 42
+		},
+		"empty": false,
+		"dist": 18.867962264113206,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 42
+		},
+		"empty": true,
+		"dist": 11.661903789690601,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 42
+		},
+		"empty": false,
+		"dist": 17.204650534085253,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 42
+		},
+		"empty": false,
+		"dist": 22.360679774997898,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 42
+		},
+		"empty": false,
+		"dist": 26.92582403567252,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -17,
+			"y": 43
+		},
+		"empty": false,
+		"dist": 15,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 43
+		},
+		"empty": false,
+		"dist": 10.816653826391969,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -4,
+			"y": 43
+		},
+		"empty": false,
+		"dist": 9.055385138137417,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 43
+		},
+		"empty": false,
+		"dist": 10.295630140987,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 43
+		},
+		"empty": true,
+		"dist": 11.40175425099138,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 43
+		},
+		"empty": false,
+		"dist": 17.4928556845359,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -26,
+			"y": 44
+		},
+		"empty": true,
+		"dist": 22.47220505424423,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 44
+		},
+		"empty": false,
+		"dist": 17,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -6,
+			"y": 44
+		},
+		"empty": true,
+		"dist": 8.06225774829855,
+		"farm": true,
+		"lastFarm": 1454096775388
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 44
+		},
+		"empty": true,
+		"dist": 8.54400374531753,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454095376442,
+		"isFull": 0.05333333333333334,
+		"lastFarm": 1454096898669
+	},
+	{
+		"coords": {
+			"x": 7,
+			"y": 44
+		},
+		"empty": false,
+		"dist": 14.422205101855956,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 44
+		},
+		"empty": false,
+		"dist": 16.1245154965971,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -18,
+			"y": 45
+		},
+		"empty": false,
+		"dist": 14.7648230602334,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 45
+		},
+		"empty": true,
+		"dist": 8.602325267042627,
+		"farm": true,
+		"lastFarm": 1454097198414
+	},
+	{
+		"coords": {
+			"x": -4,
+			"y": 45
+		},
+		"empty": false,
+		"dist": 7.0710678118654755,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 45
+		},
+		"empty": true,
+		"dist": 8.602325267042627,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 4,
+			"y": 45
+		},
+		"empty": false,
+		"dist": 11.40175425099138,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 45
+		},
+		"empty": false,
+		"dist": 22.135943621178654,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 19,
+			"y": 45
+		},
+		"empty": false,
+		"dist": 25,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -30,
+			"y": 46
+		},
+		"empty": false,
+		"dist": 25.709920264364882,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 46
+		},
+		"empty": true,
+		"dist": 18.973665961010276,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 46
+		},
+		"empty": false,
+		"dist": 16.15549442140351,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 46
+		},
+		"empty": false,
+		"dist": 10.816653826391969,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": 46
+		},
+		"empty": false,
+		"dist": 6.324555320336759,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454096670316,
+		"isFull": 0.6066666666666667
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 46
+		},
+		"empty": false,
+		"dist": 20.8806130178211,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 6,
+			"y": 47
+		},
+		"empty": false,
+		"dist": 12.083045973594572,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 12,
+			"y": 47
+		},
+		"empty": true,
+		"dist": 17.72004514666935,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 47
+		},
+		"empty": false,
+		"dist": 20.615528128088304,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 48
+		},
+		"empty": false,
+		"dist": 14.560219778561036,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -18,
+			"y": 48
+		},
+		"empty": false,
+		"dist": 13.601470508735444,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 48
+		},
+		"empty": false,
+		"dist": 9.848857801796104,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 5,
+			"y": 48
+		},
+		"empty": false,
+		"dist": 10.770329614269007,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 48
+		},
+		"empty": false,
+		"dist": 14.560219778561036,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 19,
+			"y": 48
+		},
+		"empty": false,
+		"dist": 24.331050121192877,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 14,
+			"y": 49
+		},
+		"empty": true,
+		"dist": 19.235384061671343,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 49
+		},
+		"empty": false,
+		"dist": 21.213203435596427,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 50
+		},
+		"empty": false,
+		"dist": 23.08679276123039,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 50
+		},
+		"empty": false,
+		"dist": 19.1049731745428,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 51
+		},
+		"empty": false,
+		"dist": 24.020824298928627,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -22,
+			"y": 51
+		},
+		"empty": false,
+		"dist": 17.029386365926403,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 51
+		},
+		"empty": false,
+		"dist": 5.0990195135927845,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 51
+		},
+		"empty": false,
+		"dist": 16.0312195418814,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -30,
+			"y": 52
+		},
+		"empty": false,
+		"dist": 25,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -18,
+			"y": 52
+		},
+		"empty": false,
+		"dist": 13,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 52
+		},
+		"empty": false,
+		"dist": 10,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -1,
+			"y": 52
+		},
+		"empty": true,
+		"dist": 4,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454095347614,
+		"isFull": 0.6466666666666666,
+		"lastFarm": 1454096716028
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 53
+		},
+		"empty": false,
+		"dist": 24.020824298928627,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -26,
+			"y": 54
+		},
+		"empty": false,
+		"dist": 21.095023109728988,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 54
+		},
+		"empty": true,
+		"dist": 3.605551275463989,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454095513451,
+		"isFull": 0.5466666666666666,
+		"lastFarm": 1454096657645
+	},
+	{
+		"coords": {
+			"x": 18,
+			"y": 54
+		},
+		"empty": false,
+		"dist": 23.08679276123039,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 55
+		},
+		"empty": false,
+		"dist": 19.235384061671343,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 55
+		},
+		"empty": false,
+		"dist": 18.24828759089466,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 55
+		},
+		"empty": false,
+		"dist": 15.297058540778355,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 55
+		},
+		"empty": false,
+		"dist": 9.486832980505138,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 55
+		},
+		"empty": false,
+		"dist": 5,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 59
+		},
+		"empty": true,
+		"dist": 9.899494936611665,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454093687424,
+		"isFull": 1
+	}
+]

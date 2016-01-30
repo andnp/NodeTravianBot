@@ -1,2 +1,1901 @@
 {"time":5,"number":1,"name":"Book of Wisdom","cost":1750,"day":10,"hour":21}
 {"time":34,"number":5,"name":"Ointment","cost":801,"day":10,"hour":21}
+{"time":7,"number":5,"name":"Cage","cost":2520,"day":10,"hour":21}
+{"time":54,"number":10,"name":"Ointment","cost":1251,"day":10,"hour":22}
+{"time":0,"number":10,"name":"Ointment","cost":1251,"day":10,"hour":22}
+{"time":59,"number":10,"name":"Ointment","cost":1212,"day":10,"hour":22}
+{"time":4,"number":10,"name":"Ointment","cost":1212,"day":10,"hour":22}
+{"time":30,"number":1,"name":"Light Segmented-armour","cost":6101,"day":10,"hour":22}
+{"time":16,"number":5,"name":"Ointment","cost":715,"day":10,"hour":22}
+{"time":30,"number":1,"name":"Small standard","cost":505,"day":10,"hour":22}
+{"time":13,"number":1,"name":"Book of Wisdom","cost":1751,"day":10,"hour":22}
+{"time":53,"number":5,"name":"Ointment","cost":802,"day":10,"hour":23}
+{"time":28,"number":30,"name":"Ointment","cost":6807,"day":10,"hour":23}
+{"time":18,"number":5,"name":"Cage","cost":2502,"day":11,"hour":0}
+{"time":50,"number":1,"name":"Small pennant","cost":201,"day":11,"hour":0}
+{"time":54,"number":5,"name":"Ointment","cost":778,"day":11,"hour":0}
+{"time":28,"number":1,"name":"Small standard","cost":501,"day":11,"hour":0}
+{"time":51,"number":10,"name":"Small Bandage","cost":700,"day":11,"hour":0}
+{"time":0,"number":10,"name":"Small Bandage","cost":700,"day":11,"hour":0}
+{"time":40,"number":5,"name":"Cage","cost":3542,"day":11,"hour":0}
+{"time":5,"number":1,"name":"Book of Wisdom","cost":1499,"day":11,"hour":1}
+{"time":16,"number":1,"name":"Book of Wisdom","cost":1499,"day":11,"hour":1}
+{"time":59,"number":10,"name":"Tablet of Law","cost":289,"day":11,"hour":1}
+{"time":0,"number":10,"name":"Tablet of Law","cost":289,"day":11,"hour":1}
+{"time":30,"number":1,"name":"Bucket","cost":8346,"day":11,"hour":1}
+{"time":30,"number":10,"name":"Ointment","cost":2000,"day":11,"hour":1}
+{"time":39,"number":1,"name":"Spear of the Spearman","cost":1678,"day":11,"hour":1}
+{"time":41,"number":10,"name":"Ointment","cost":1150,"day":11,"hour":1}
+{"time":52,"number":10,"name":"Small Bandage","cost":700,"day":11,"hour":2}
+{"time":33,"number":1,"name":"Boots of the Mercenary","cost":1800,"day":11,"hour":2}
+{"time":7,"number":1,"name":"Book of Wisdom","cost":1802,"day":11,"hour":2}
+{"time":55,"number":1,"name":"Bucket","cost":12345,"day":11,"hour":2}
+{"time":0,"number":1,"name":"Bucket","cost":12345,"day":11,"hour":2}
+{"time":2,"number":5,"name":"Cage","cost":2502,"day":11,"hour":2}
+{"time":26,"number":10,"name":"Ointment","cost":1888,"day":11,"hour":2}
+{"time":56,"number":50,"name":"Ointment","cost":8008,"day":11,"hour":2}
+{"time":0,"number":50,"name":"Ointment","cost":8008,"day":11,"hour":2}
+{"time":33,"number":1,"name":"Helmet of Regeneration","cost":3208,"day":11,"hour":2}
+{"time":10,"number":5,"name":"Ointment","cost":900,"day":11,"hour":2}
+{"time":15,"number":5,"name":"Ointment","cost":1014,"day":11,"hour":3}
+{"time":21,"number":1,"name":"Book of Wisdom","cost":1803,"day":11,"hour":3}
+{"time":45,"number":1,"name":"Book of Wisdom","cost":1889,"day":11,"hour":3}
+{"time":25,"number":10,"name":"Ointment","cost":1140,"day":11,"hour":3}
+{"time":19,"number":10,"name":"Ointment","cost":1140,"day":11,"hour":3}
+{"time":18,"number":10,"name":"Ointment","cost":1333,"day":11,"hour":3}
+{"time":29,"number":5,"name":"Ointment","cost":667,"day":11,"hour":3}
+{"time":11,"number":5,"name":"Cage","cost":4000,"day":11,"hour":3}
+{"time":6,"number":5,"name":"Cage","cost":4000,"day":11,"hour":3}
+{"time":28,"number":5,"name":"Ointment","cost":801,"day":11,"hour":3}
+{"time":14,"number":1,"name":"Book of Wisdom","cost":1621,"day":11,"hour":4}
+{"time":39,"number":1,"name":"Boots of Regeneration","cost":14700,"day":11,"hour":4}
+{"time":47,"number":10,"name":"Cage","cost":4040,"day":11,"hour":4}
+{"time":49,"number":10,"name":"Cage","cost":4000,"day":11,"hour":4}
+{"time":39,"number":1,"name":"Pouch of the Thief","cost":4710,"day":11,"hour":4}
+{"time":54,"number":5,"name":"Ointment","cost":777,"day":11,"hour":5}
+{"time":35,"number":5,"name":"Ointment","cost":801,"day":11,"hour":5}
+{"time":30,"number":1,"name":"Boots of the Mercenary","cost":568,"day":11,"hour":5}
+{"time":42,"number":10,"name":"Small Bandage","cost":800,"day":11,"hour":6}
+{"time":12,"number":5,"name":"Cage","cost":3001,"day":11,"hour":6}
+{"time":19,"number":10,"name":"Ointment","cost":1350,"day":11,"hour":7}
+{"time":34,"number":1,"name":"Helmet of the Gladiator","cost":21000,"day":11,"hour":7}
+{"time":34,"number":10,"name":"Ointment","cost":1350,"day":11,"hour":7}
+{"time":43,"number":1,"name":"Book of Wisdom","cost":1621,"day":11,"hour":7}
+{"time":39,"number":1,"name":"Book of Wisdom","cost":1621,"day":11,"hour":7}
+{"time":10,"number":5,"name":"Cage","cost":3001,"day":11,"hour":7}
+{"time":49,"number":30,"name":"Ointment","cost":6601,"day":11,"hour":7}
+{"time":7,"number":5,"name":"Cage","cost":3501,"day":11,"hour":7}
+{"time":3,"number":5,"name":"Cage","cost":3501,"day":11,"hour":7}
+{"time":3,"number":1,"name":"Book of Wisdom","cost":1737,"day":11,"hour":7}
+{"time":19,"number":10,"name":"Ointment","cost":1457,"day":11,"hour":7}
+{"time":56,"number":5,"name":"Cage","cost":2001,"day":11,"hour":8}
+{"time":0,"number":5,"name":"Cage","cost":2001,"day":11,"hour":8}
+{"time":59,"number":1,"name":"Small map","cost":5000,"day":11,"hour":8}
+{"time":3,"number":1,"name":"Small map","cost":5000,"day":11,"hour":8}
+{"time":53,"number":5,"name":"Cage","cost":2001,"day":11,"hour":8}
+{"time":28,"number":5,"name":"Cage","cost":2001,"day":11,"hour":8}
+{"time":23,"number":5,"name":"Cage","cost":2001,"day":11,"hour":8}
+{"time":24,"number":5,"name":"Cage","cost":2101,"day":11,"hour":8}
+{"time":20,"number":5,"name":"Cage","cost":2001,"day":11,"hour":8}
+{"time":22,"number":10,"name":"Ointment","cost":1360,"day":11,"hour":8}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1900,"day":11,"hour":8}
+{"time":28,"number":10,"name":"Ointment","cost":1360,"day":11,"hour":8}
+{"time":53,"number":10,"name":"Ointment","cost":1200,"day":11,"hour":8}
+{"time":38,"number":1,"name":"Small horn of the Natarian","cost":100,"day":11,"hour":8}
+{"time":8,"number":10,"name":"Ointment","cost":1555,"day":11,"hour":9}
+{"time":50,"number":10,"name":"Ointment","cost":1200,"day":11,"hour":9}
+{"time":55,"number":5,"name":"Cage","cost":1975,"day":11,"hour":9}
+{"time":0,"number":5,"name":"Cage","cost":1975,"day":11,"hour":9}
+{"time":11,"number":5,"name":"Tablet of Law","cost":101,"day":11,"hour":9}
+{"time":20,"number":5,"name":"Ointment","cost":333,"day":11,"hour":9}
+{"time":50,"number":10,"name":"Small Bandage","cost":313,"day":11,"hour":9}
+{"time":0,"number":10,"name":"Small Bandage","cost":313,"day":11,"hour":9}
+{"time":33,"number":5,"name":"Tablet of Law","cost":101,"day":11,"hour":9}
+{"time":9,"number":1,"name":"Helmet of the Gladiator","cost":19054,"day":11,"hour":9}
+{"time":13,"number":5,"name":"Ointment","cost":425,"day":11,"hour":9}
+{"time":6,"number":1,"name":"Book of Wisdom","cost":1000,"day":11,"hour":10}
+{"time":47,"number":1,"name":"Helmet of Regeneration","cost":4226,"day":11,"hour":10}
+{"time":8,"number":5,"name":"Tablet of Law","cost":66,"day":11,"hour":10}
+{"time":3,"number":5,"name":"Tablet of Law","cost":66,"day":11,"hour":10}
+{"time":12,"number":10,"name":"Ointment","cost":1001,"day":11,"hour":10}
+{"time":9,"number":1,"name":"Book of Wisdom","cost":1009,"day":11,"hour":10}
+{"time":59,"number":1,"name":"Book of Wisdom","cost":778,"day":11,"hour":10}
+{"time":4,"number":1,"name":"Book of Wisdom","cost":778,"day":11,"hour":10}
+{"time":55,"number":10,"name":"Small Bandage","cost":50,"day":11,"hour":10}
+{"time":0,"number":10,"name":"Small Bandage","cost":50,"day":11,"hour":10}
+{"time":20,"number":1,"name":"Light Breast-plate","cost":7861,"day":11,"hour":10}
+{"time":2,"number":1,"name":"Book of Wisdom","cost":778,"day":11,"hour":10}
+{"time":14,"number":1,"name":"Book of Wisdom","cost":778,"day":11,"hour":10}
+{"time":11,"number":10,"name":"Ointment","cost":1111,"day":11,"hour":10}
+{"time":49,"number":1,"name":"Book of Wisdom","cost":889,"day":11,"hour":11}
+{"time":46,"number":30,"name":"Ointment","cost":4501,"day":11,"hour":11}
+{"time":6,"number":10,"name":"Ointment","cost":1405,"day":11,"hour":11}
+{"time":3,"number":1,"name":"Bucket","cost":8503,"day":11,"hour":11}
+{"time":48,"number":10,"name":"Small Bandage","cost":601,"day":11,"hour":11}
+{"time":6,"number":10,"name":"Ointment","cost":1200,"day":11,"hour":11}
+{"time":37,"number":1,"name":"Book of Wisdom","cost":650,"day":11,"hour":11}
+{"time":9,"number":1,"name":"Book of Wisdom","cost":699,"day":11,"hour":11}
+{"time":50,"number":10,"name":"Ointment","cost":943,"day":11,"hour":11}
+{"time":0,"number":10,"name":"Ointment","cost":943,"day":11,"hour":11}
+{"time":40,"number":10,"name":"Ointment","cost":1021,"day":11,"hour":12}
+{"time":6,"number":10,"name":"Small Bandage","cost":501,"day":11,"hour":12}
+{"time":37,"number":5,"name":"Tablet of Law","cost":101,"day":11,"hour":12}
+{"time":44,"number":1,"name":"Short sword of the Imperatoris","cost":8888,"day":11,"hour":12}
+{"time":13,"number":5,"name":"Tablet of Law","cost":111,"day":11,"hour":12}
+{"time":1,"number":5,"name":"Ointment","cost":801,"day":11,"hour":12}
+{"time":24,"number":10,"name":"Ointment","cost":1801,"day":11,"hour":12}
+{"time":30,"number":5,"name":"Tablet of Law","cost":111,"day":11,"hour":12}
+{"time":12,"number":10,"name":"Ointment","cost":1500,"day":11,"hour":12}
+{"time":12,"number":30,"name":"Ointment","cost":4000,"day":11,"hour":12}
+{"time":38,"number":1,"name":"Small standard","cost":501,"day":11,"hour":12}
+{"time":19,"number":10,"name":"Small Bandage","cost":601,"day":11,"hour":12}
+{"time":54,"number":5,"name":"Tablet of Law","cost":56,"day":11,"hour":12}
+{"time":15,"number":10,"name":"Ointment","cost":1021,"day":11,"hour":12}
+{"time":31,"number":5,"name":"Cage","cost":1111,"day":11,"hour":12}
+{"time":42,"number":5,"name":"Cage","cost":1111,"day":11,"hour":12}
+{"time":48,"number":5,"name":"Cage","cost":1111,"day":11,"hour":12}
+{"time":43,"number":5,"name":"Cage","cost":1111,"day":11,"hour":12}
+{"time":25,"number":5,"name":"Tablet of Law","cost":5,"day":11,"hour":12}
+{"time":49,"number":5,"name":"Cage","cost":1111,"day":11,"hour":12}
+{"time":20,"number":5,"name":"Tablet of Law","cost":5,"day":11,"hour":12}
+{"time":44,"number":5,"name":"Cage","cost":1111,"day":11,"hour":12}
+{"time":0,"number":10,"name":"Ointment","cost":1488,"day":11,"hour":14}
+{"time":43,"number":10,"name":"Ointment","cost":1112,"day":11,"hour":14}
+{"time":16,"number":10,"name":"Ointment","cost":1020,"day":11,"hour":14}
+{"time":55,"number":30,"name":"Cage","cost":12501,"day":11,"hour":14}
+{"time":49,"number":30,"name":"Cage","cost":12501,"day":11,"hour":14}
+{"time":36,"number":10,"name":"Ointment","cost":1112,"day":11,"hour":14}
+{"time":11,"number":5,"name":"Ointment","cost":510,"day":11,"hour":14}
+{"time":35,"number":10,"name":"Ointment","cost":1020,"day":11,"hour":14}
+{"time":39,"number":1,"name":"Book of Wisdom","cost":1009,"day":11,"hour":14}
+{"time":52,"number":10,"name":"Ointment","cost":1020,"day":11,"hour":14}
+{"time":47,"number":10,"name":"Ointment","cost":1020,"day":11,"hour":14}
+{"time":42,"number":5,"name":"Cage","cost":1600,"day":11,"hour":14}
+{"time":7,"number":1,"name":"Book of Wisdom","cost":366,"day":11,"hour":14}
+{"time":15,"number":1,"name":"Book of Wisdom","cost":367,"day":11,"hour":14}
+{"time":21,"number":1,"name":"Helmet of the Horseman","cost":676,"day":11,"hour":14}
+{"time":35,"number":10,"name":"Cage","cost":2420,"day":11,"hour":14}
+{"time":51,"number":5,"name":"Cage","cost":1210,"day":11,"hour":14}
+{"time":50,"number":10,"name":"Ointment","cost":1021,"day":11,"hour":15}
+{"time":59,"number":5,"name":"Cage","cost":1499,"day":11,"hour":15}
+{"time":54,"number":5,"name":"Cage","cost":1499,"day":11,"hour":15}
+{"time":35,"number":5,"name":"Cage","cost":1232,"day":11,"hour":15}
+{"time":46,"number":10,"name":"Small Bandage","cost":361,"day":11,"hour":15}
+{"time":30,"number":5,"name":"Cage","cost":1111,"day":11,"hour":15}
+{"time":39,"number":10,"name":"Ointment","cost":1501,"day":11,"hour":15}
+{"time":18,"number":1,"name":"Bucket","cost":14158,"day":11,"hour":15}
+{"time":3,"number":5,"name":"Ointment","cost":400,"day":11,"hour":15}
+{"time":0,"number":5,"name":"Ointment","cost":400,"day":11,"hour":15}
+{"time":0,"number":5,"name":"Cage","cost":275,"day":11,"hour":15}
+{"time":7,"number":10,"name":"Ointment","cost":1500,"day":11,"hour":15}
+{"time":2,"number":10,"name":"Ointment","cost":1500,"day":11,"hour":15}
+{"time":1,"number":5,"name":"Ointment","cost":790,"day":11,"hour":15}
+{"time":33,"number":10,"name":"Ointment","cost":1021,"day":11,"hour":15}
+{"time":43,"number":10,"name":"Ointment","cost":1501,"day":11,"hour":15}
+{"time":51,"number":10,"name":"Small Bandage","cost":800,"day":11,"hour":15}
+{"time":0,"number":1,"name":"Short sword of the Teutonic Knight","cost":30000,"day":11,"hour":15}
+{"time":36,"number":1,"name":"Light Segmented-armour","cost":3527,"day":11,"hour":15}
+{"time":58,"number":1,"name":"Light Segmented-armour","cost":4001,"day":11,"hour":16}
+{"time":47,"number":10,"name":"Cage","cost":3001,"day":11,"hour":16}
+{"time":42,"number":10,"name":"Cage","cost":3001,"day":11,"hour":16}
+{"time":3,"number":1,"name":"Short sword of the Imperatoris","cost":14603,"day":11,"hour":16}
+{"time":26,"number":10,"name":"Ointment","cost":1021,"day":11,"hour":16}
+{"time":26,"number":10,"name":"Cage","cost":2421,"day":11,"hour":16}
+{"time":54,"number":10,"name":"Ointment","cost":900,"day":11,"hour":16}
+{"time":58,"number":1,"name":"Book of Wisdom","cost":1451,"day":11,"hour":16}
+{"time":8,"number":1,"name":"Book of Wisdom","cost":1500,"day":11,"hour":16}
+{"time":17,"number":5,"name":"Ointment","cost":350,"day":11,"hour":16}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1000,"day":11,"hour":16}
+{"time":6,"number":10,"name":"Ointment","cost":901,"day":11,"hour":16}
+{"time":4,"number":5,"name":"Ointment","cost":401,"day":11,"hour":16}
+{"time":51,"number":10,"name":"Ointment","cost":901,"day":11,"hour":16}
+{"time":46,"number":10,"name":"Ointment","cost":901,"day":11,"hour":16}
+{"time":12,"number":10,"name":"Ointment","cost":901,"day":11,"hour":16}
+{"time":56,"number":5,"name":"Ointment","cost":451,"day":11,"hour":16}
+{"time":19,"number":5,"name":"Ointment","cost":511,"day":11,"hour":16}
+{"time":35,"number":5,"name":"Cage","cost":714,"day":11,"hour":16}
+{"time":45,"number":5,"name":"Ointment","cost":461,"day":11,"hour":16}
+{"time":25,"number":5,"name":"Ointment","cost":489,"day":11,"hour":16}
+{"time":53,"number":10,"name":"Ointment","cost":1200,"day":11,"hour":16}
+{"time":39,"number":5,"name":"Ointment","cost":402,"day":11,"hour":16}
+{"time":32,"number":1,"name":"Armour of Regeneration","cost":6500,"day":11,"hour":16}
+{"time":27,"number":1,"name":"Armour of Regeneration","cost":6500,"day":11,"hour":16}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":778,"day":11,"hour":17}
+{"time":6,"number":5,"name":"Ointment","cost":618,"day":11,"hour":17}
+{"time":27,"number":10,"name":"Ointment","cost":1236,"day":11,"hour":17}
+{"time":21,"number":10,"name":"Ointment","cost":1236,"day":11,"hour":17}
+{"time":28,"number":5,"name":"Ointment","cost":600,"day":11,"hour":17}
+{"time":4,"number":10,"name":"Ointment","cost":1101,"day":11,"hour":17}
+{"time":23,"number":5,"name":"Ointment","cost":600,"day":11,"hour":17}
+{"time":18,"number":5,"name":"Ointment","cost":600,"day":11,"hour":17}
+{"time":28,"number":10,"name":"Cage","cost":2240,"day":11,"hour":17}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":999,"day":11,"hour":17}
+{"time":45,"number":1,"name":"Light Breast-plate","cost":5139,"day":11,"hour":17}
+{"time":37,"number":10,"name":"Ointment","cost":1601,"day":11,"hour":17}
+{"time":26,"number":1,"name":"Book of Wisdom","cost":852,"day":11,"hour":17}
+{"time":53,"number":5,"name":"Cage","cost":1826,"day":11,"hour":17}
+{"time":47,"number":5,"name":"Cage","cost":1826,"day":11,"hour":17}
+{"time":28,"number":10,"name":"Ointment","cost":1801,"day":11,"hour":18}
+{"time":11,"number":1,"name":"Book of Wisdom","cost":778,"day":11,"hour":18}
+{"time":28,"number":5,"name":"Cage","cost":1333,"day":11,"hour":18}
+{"time":30,"number":10,"name":"Cage","cost":2293,"day":11,"hour":18}
+{"time":45,"number":1,"name":"Small map","cost":6178,"day":11,"hour":18}
+{"time":42,"number":1,"name":"Small pennant","cost":655,"day":11,"hour":18}
+{"time":55,"number":10,"name":"Ointment","cost":2001,"day":11,"hour":18}
+{"time":49,"number":10,"name":"Ointment","cost":2001,"day":11,"hour":18}
+{"time":36,"number":10,"name":"Ointment","cost":1699,"day":11,"hour":19}
+{"time":58,"number":10,"name":"Cage","cost":2221,"day":11,"hour":19}
+{"time":11,"number":10,"name":"Cage","cost":2221,"day":11,"hour":19}
+{"time":18,"number":1,"name":"Book of Wisdom","cost":1251,"day":11,"hour":19}
+{"time":33,"number":10,"name":"Ointment","cost":1883,"day":11,"hour":19}
+{"time":28,"number":10,"name":"Ointment","cost":1883,"day":11,"hour":19}
+{"time":55,"number":10,"name":"Cage","cost":1163,"day":11,"hour":19}
+{"time":26,"number":5,"name":"Cage","cost":567,"day":11,"hour":19}
+{"time":21,"number":5,"name":"Cage","cost":567,"day":11,"hour":19}
+{"time":10,"number":10,"name":"Ointment","cost":1999,"day":11,"hour":19}
+{"time":46,"number":5,"name":"Cage","cost":612,"day":11,"hour":19}
+{"time":0,"number":5,"name":"Cage","cost":612,"day":11,"hour":19}
+{"time":0,"number":10,"name":"Ointment","cost":1458,"day":11,"hour":19}
+{"time":52,"number":1,"name":"Light Breast-plate","cost":12638,"day":11,"hour":19}
+{"time":51,"number":10,"name":"Small Bandage","cost":899,"day":11,"hour":19}
+{"time":24,"number":5,"name":"Ointment","cost":751,"day":11,"hour":20}
+{"time":19,"number":5,"name":"Ointment","cost":751,"day":11,"hour":20}
+{"time":9,"number":1,"name":"Small Spurs","cost":6501,"day":11,"hour":20}
+{"time":48,"number":1,"name":"Short-bow of the Theutates","cost":5112,"day":11,"hour":20}
+{"time":43,"number":1,"name":"Short-bow of the Theutates","cost":5112,"day":11,"hour":20}
+{"time":41,"number":10,"name":"Ointment","cost":1918,"day":11,"hour":20}
+{"time":21,"number":1,"name":"Book of Wisdom","cost":3000,"day":11,"hour":21}
+{"time":5,"number":5,"name":"Ointment","cost":1250,"day":11,"hour":22}
+{"time":43,"number":10,"name":"Ointment","cost":2100,"day":11,"hour":22}
+{"time":31,"number":10,"name":"Small Bandage","cost":803,"day":11,"hour":22}
+{"time":35,"number":30,"name":"Ointment","cost":6060,"day":11,"hour":22}
+{"time":29,"number":1,"name":"Bucket","cost":5500,"day":11,"hour":23}
+{"time":53,"number":1,"name":"Boots of the Mercenary","cost":5896,"day":11,"hour":23}
+{"time":49,"number":1,"name":"Boots of the Mercenary","cost":5896,"day":11,"hour":23}
+{"time":8,"number":5,"name":"Cage","cost":2001,"day":11,"hour":23}
+{"time":1,"number":1,"name":"Book of Wisdom","cost":2501,"day":11,"hour":23}
+{"time":4,"number":1,"name":"Book of Wisdom","cost":2200,"day":11,"hour":23}
+{"time":23,"number":5,"name":"Cage","cost":2001,"day":11,"hour":23}
+{"time":18,"number":5,"name":"Cage","cost":2001,"day":11,"hour":23}
+{"time":8,"number":5,"name":"Small Bandage","cost":343,"day":11,"hour":23}
+{"time":2,"number":5,"name":"Small Bandage","cost":343,"day":11,"hour":23}
+{"time":21,"number":10,"name":"Ointment","cost":1752,"day":11,"hour":23}
+{"time":16,"number":10,"name":"Ointment","cost":1752,"day":11,"hour":23}
+{"time":21,"number":1,"name":"Book of Wisdom","cost":2917,"day":12,"hour":0}
+{"time":28,"number":5,"name":"Cage","cost":2009,"day":12,"hour":0}
+{"time":33,"number":5,"name":"Ointment","cost":501,"day":12,"hour":0}
+{"time":59,"number":5,"name":"Tablet of Law","cost":101,"day":12,"hour":0}
+{"time":24,"number":10,"name":"Cage","cost":2261,"day":12,"hour":0}
+{"time":24,"number":10,"name":"Ointment","cost":1589,"day":12,"hour":0}
+{"time":30,"number":5,"name":"Ointment","cost":515,"day":12,"hour":1}
+{"time":36,"number":1,"name":"Small pennant","cost":476,"day":12,"hour":1}
+{"time":57,"number":5,"name":"Ointment","cost":515,"day":12,"hour":1}
+{"time":12,"number":5,"name":"Ointment","cost":515,"day":12,"hour":1}
+{"time":24,"number":1,"name":"Small pennant","cost":156,"day":12,"hour":1}
+{"time":49,"number":30,"name":"Ointment","cost":2952,"day":12,"hour":1}
+{"time":9,"number":1,"name":"Small map","cost":8047,"day":12,"hour":1}
+{"time":31,"number":10,"name":"Ointment","cost":871,"day":12,"hour":1}
+{"time":51,"number":10,"name":"Ointment","cost":1018,"day":12,"hour":2}
+{"time":7,"number":10,"name":"Ointment","cost":1018,"day":12,"hour":2}
+{"time":30,"number":10,"name":"Ointment","cost":1018,"day":12,"hour":2}
+{"time":33,"number":10,"name":"Cage","cost":2000,"day":12,"hour":2}
+{"time":30,"number":1,"name":"Helmet of Awareness","cost":5139,"day":12,"hour":3}
+{"time":10,"number":1,"name":"Small standard","cost":475,"day":12,"hour":3}
+{"time":47,"number":1,"name":"Light Segmented-armour","cost":5139,"day":12,"hour":3}
+{"time":22,"number":1,"name":"Book of Wisdom","cost":2000,"day":12,"hour":3}
+{"time":30,"number":1,"name":"Book of Wisdom","cost":1251,"day":12,"hour":3}
+{"time":28,"number":5,"name":"Ointment","cost":750,"day":12,"hour":3}
+{"time":55,"number":5,"name":"Ointment","cost":602,"day":12,"hour":4}
+{"time":0,"number":5,"name":"Ointment","cost":602,"day":12,"hour":4}
+{"time":6,"number":1,"name":"Book of Wisdom","cost":1251,"day":12,"hour":4}
+{"time":5,"number":1,"name":"Book of Wisdom","cost":890,"day":12,"hour":4}
+{"time":37,"number":10,"name":"Ointment","cost":621,"day":12,"hour":4}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":890,"day":12,"hour":4}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":890,"day":12,"hour":4}
+{"time":17,"number":1,"name":"Helmet of the Gladiator","cost":22575,"day":12,"hour":4}
+{"time":43,"number":1,"name":"Light Breast-plate","cost":8260,"day":12,"hour":9}
+{"time":33,"number":1,"name":"Light hammer of the Paladin","cost":3011,"day":12,"hour":9}
+{"time":28,"number":1,"name":"Light hammer of the Paladin","cost":3011,"day":12,"hour":9}
+{"time":57,"number":10,"name":"Cage","cost":1885,"day":12,"hour":9}
+{"time":52,"number":10,"name":"Cage","cost":1885,"day":12,"hour":9}
+{"time":43,"number":10,"name":"Ointment","cost":1644,"day":12,"hour":10}
+{"time":11,"number":30,"name":"Ointment","cost":4501,"day":12,"hour":10}
+{"time":33,"number":5,"name":"Ointment","cost":666,"day":12,"hour":10}
+{"time":33,"number":5,"name":"Cage","cost":2001,"day":12,"hour":11}
+{"time":28,"number":5,"name":"Cage","cost":2001,"day":12,"hour":11}
+{"time":25,"number":1,"name":"Book of Wisdom","cost":1000,"day":12,"hour":11}
+{"time":20,"number":1,"name":"Book of Wisdom","cost":1000,"day":12,"hour":11}
+{"time":43,"number":10,"name":"Ointment","cost":1113,"day":12,"hour":11}
+{"time":40,"number":10,"name":"Small Bandage","cost":646,"day":12,"hour":11}
+{"time":35,"number":10,"name":"Small Bandage","cost":646,"day":12,"hour":11}
+{"time":7,"number":10,"name":"Small Bandage","cost":646,"day":12,"hour":11}
+{"time":2,"number":10,"name":"Small Bandage","cost":646,"day":12,"hour":11}
+{"time":8,"number":1,"name":"Short sword of the Teutonic Knight","cost":3011,"day":12,"hour":11}
+{"time":2,"number":1,"name":"Short sword of the Teutonic Knight","cost":3011,"day":12,"hour":11}
+{"time":32,"number":5,"name":"Ointment","cost":461,"day":12,"hour":11}
+{"time":24,"number":5,"name":"Ointment","cost":688,"day":12,"hour":11}
+{"time":32,"number":5,"name":"Ointment","cost":461,"day":12,"hour":11}
+{"time":46,"number":10,"name":"Ointment","cost":921,"day":12,"hour":11}
+{"time":20,"number":5,"name":"Ointment","cost":688,"day":12,"hour":11}
+{"time":28,"number":5,"name":"Ointment","cost":461,"day":12,"hour":11}
+{"time":42,"number":10,"name":"Ointment","cost":921,"day":12,"hour":11}
+{"time":39,"number":1,"name":"Book of Wisdom","cost":889,"day":12,"hour":11}
+{"time":34,"number":1,"name":"Book of Wisdom","cost":889,"day":12,"hour":11}
+{"time":0,"number":10,"name":"Ointment","cost":921,"day":12,"hour":11}
+{"time":19,"number":30,"name":"Ointment","cost":3203,"day":12,"hour":12}
+{"time":18,"number":30,"name":"Ointment","cost":3203,"day":12,"hour":12}
+{"time":50,"number":10,"name":"Ointment","cost":1751,"day":12,"hour":12}
+{"time":45,"number":10,"name":"Ointment","cost":1751,"day":12,"hour":12}
+{"time":57,"number":10,"name":"Cage","cost":6001,"day":12,"hour":12}
+{"time":7,"number":10,"name":"Cage","cost":5002,"day":12,"hour":12}
+{"time":2,"number":10,"name":"Cage","cost":5002,"day":12,"hour":12}
+{"time":31,"number":1,"name":"Helmet of the Horseman","cost":999,"day":12,"hour":12}
+{"time":55,"number":1,"name":"Small shield","cost":39001,"day":12,"hour":12}
+{"time":23,"number":1,"name":"Short sword of the Imperatoris","cost":17000,"day":12,"hour":12}
+{"time":18,"number":1,"name":"Short sword of the Imperatoris","cost":17000,"day":12,"hour":12}
+{"time":54,"number":10,"name":"Ointment","cost":1651,"day":12,"hour":13}
+{"time":49,"number":10,"name":"Ointment","cost":1651,"day":12,"hour":13}
+{"time":57,"number":5,"name":"Ointment","cost":500,"day":12,"hour":13}
+{"time":6,"number":5,"name":"Ointment","cost":500,"day":12,"hour":13}
+{"time":35,"number":1,"name":"Helmet of the Gladiator","cost":22001,"day":12,"hour":13}
+{"time":20,"number":5,"name":"Ointment","cost":461,"day":12,"hour":13}
+{"time":31,"number":5,"name":"Ointment","cost":751,"day":12,"hour":13}
+{"time":36,"number":10,"name":"Ointment","cost":1251,"day":12,"hour":13}
+{"time":35,"number":5,"name":"Ointment","cost":461,"day":12,"hour":13}
+{"time":34,"number":5,"name":"Ointment","cost":700,"day":12,"hour":13}
+{"time":14,"number":10,"name":"Ointment","cost":921,"day":12,"hour":14}
+{"time":20,"number":5,"name":"Cage","cost":3346,"day":12,"hour":14}
+{"time":6,"number":1,"name":"Book of Wisdom","cost":1112,"day":12,"hour":14}
+{"time":51,"number":5,"name":"Ointment","cost":700,"day":12,"hour":14}
+{"time":0,"number":5,"name":"Ointment","cost":750,"day":12,"hour":14}
+{"time":42,"number":1,"name":"Light Breast-plate","cost":6464,"day":12,"hour":14}
+{"time":36,"number":10,"name":"Cage","cost":2060,"day":12,"hour":17}
+{"time":53,"number":10,"name":"Ointment","cost":1034,"day":12,"hour":17}
+{"time":0,"number":10,"name":"Ointment","cost":1034,"day":12,"hour":17}
+{"time":28,"number":5,"name":"Cage","cost":805,"day":12,"hour":17}
+{"time":30,"number":5,"name":"Ointment","cost":655,"day":12,"hour":17}
+{"time":48,"number":10,"name":"Ointment","cost":1089,"day":12,"hour":17}
+{"time":23,"number":5,"name":"Ointment","cost":700,"day":12,"hour":17}
+{"time":17,"number":10,"name":"Ointment","cost":1251,"day":12,"hour":17}
+{"time":35,"number":10,"name":"Ointment","cost":1251,"day":12,"hour":17}
+{"time":16,"number":5,"name":"Tablet of Law","cost":81,"day":12,"hour":17}
+{"time":32,"number":5,"name":"Cage","cost":901,"day":12,"hour":17}
+{"time":29,"number":5,"name":"Cage","cost":1400,"day":12,"hour":17}
+{"time":39,"number":5,"name":"Cage","cost":1400,"day":12,"hour":17}
+{"time":53,"number":10,"name":"Ointment","cost":1355,"day":12,"hour":17}
+{"time":0,"number":10,"name":"Ointment","cost":1355,"day":12,"hour":17}
+{"time":11,"number":5,"name":"Ointment","cost":700,"day":12,"hour":17}
+{"time":32,"number":1,"name":"Light Breast-plate","cost":25001,"day":12,"hour":17}
+{"time":53,"number":10,"name":"Cage","cost":1501,"day":12,"hour":18}
+{"time":0,"number":10,"name":"Cage","cost":1501,"day":12,"hour":18}
+{"time":38,"number":10,"name":"Small Bandage","cost":301,"day":12,"hour":18}
+{"time":9,"number":1,"name":"Book of Wisdom","cost":777,"day":12,"hour":18}
+{"time":36,"number":5,"name":"Ointment","cost":700,"day":12,"hour":18}
+{"time":40,"number":5,"name":"Tablet of Law","cost":101,"day":12,"hour":18}
+{"time":35,"number":1,"name":"Light lance of the Haeduan","cost":4000,"day":12,"hour":18}
+{"time":24,"number":10,"name":"Cage","cost":3454,"day":12,"hour":18}
+{"time":19,"number":1,"name":"Book of Wisdom","cost":2129,"day":12,"hour":18}
+{"time":29,"number":1,"name":"Book of Wisdom","cost":778,"day":12,"hour":19}
+{"time":47,"number":10,"name":"Ointment","cost":1057,"day":12,"hour":19}
+{"time":55,"number":10,"name":"Cage","cost":2601,"day":12,"hour":19}
+{"time":0,"number":10,"name":"Cage","cost":2601,"day":12,"hour":19}
+{"time":33,"number":5,"name":"Ointment","cost":485,"day":12,"hour":19}
+{"time":46,"number":10,"name":"Cage","cost":2000,"day":12,"hour":19}
+{"time":24,"number":1,"name":"Light lance of the Caesaris","cost":7750,"day":12,"hour":19}
+{"time":58,"number":1,"name":"Helmet of the Horseman","cost":1363,"day":12,"hour":19}
+{"time":3,"number":1,"name":"Helmet of the Horseman","cost":1363,"day":12,"hour":19}
+{"time":39,"number":30,"name":"Ointment","cost":4000,"day":12,"hour":19}
+{"time":45,"number":1,"name":"Light lance of the Haeduan","cost":4000,"day":12,"hour":19}
+{"time":53,"number":1,"name":"Armour of Regeneration","cost":6000,"day":12,"hour":19}
+{"time":0,"number":1,"name":"Armour of Regeneration","cost":6000,"day":12,"hour":20}
+{"time":21,"number":10,"name":"Ointment","cost":1291,"day":12,"hour":20}
+{"time":32,"number":1,"name":"Book of Wisdom","cost":1251,"day":12,"hour":20}
+{"time":33,"number":10,"name":"Ointment","cost":1251,"day":12,"hour":20}
+{"time":54,"number":10,"name":"Ointment","cost":1201,"day":12,"hour":20}
+{"time":0,"number":10,"name":"Ointment","cost":1201,"day":12,"hour":20}
+{"time":13,"number":1,"name":"Spear of the Phalanx","cost":21899,"day":12,"hour":20}
+{"time":10,"number":10,"name":"Cage","cost":3003,"day":12,"hour":20}
+{"time":59,"number":5,"name":"Ointment","cost":751,"day":12,"hour":20}
+{"time":4,"number":5,"name":"Ointment","cost":751,"day":12,"hour":20}
+{"time":39,"number":10,"name":"Ointment","cost":1489,"day":12,"hour":20}
+{"time":47,"number":5,"name":"Ointment","cost":868,"day":12,"hour":20}
+{"time":46,"number":5,"name":"Cage","cost":2502,"day":12,"hour":20}
+{"time":42,"number":1,"name":"Book of Wisdom","cost":999,"day":12,"hour":20}
+{"time":45,"number":10,"name":"Small Bandage","cost":456,"day":12,"hour":20}
+{"time":21,"number":10,"name":"Ointment","cost":1251,"day":12,"hour":21}
+{"time":38,"number":5,"name":"Tablet of Law","cost":135,"day":12,"hour":21}
+{"time":14,"number":10,"name":"Cage","cost":3000,"day":12,"hour":21}
+{"time":50,"number":5,"name":"Cage","cost":1001,"day":12,"hour":21}
+{"time":0,"number":5,"name":"Cage","cost":1001,"day":12,"hour":21}
+{"time":16,"number":10,"name":"Ointment","cost":1111,"day":12,"hour":21}
+{"time":12,"number":1,"name":"Small pennant","cost":1001,"day":12,"hour":21}
+{"time":59,"number":10,"name":"Ointment","cost":1500,"day":12,"hour":21}
+{"time":4,"number":10,"name":"Ointment","cost":1500,"day":12,"hour":21}
+{"time":21,"number":10,"name":"Ointment","cost":1501,"day":12,"hour":21}
+{"time":32,"number":10,"name":"Cage","cost":3501,"day":13,"hour":0}
+{"time":27,"number":10,"name":"Cage","cost":3452,"day":13,"hour":1}
+{"time":22,"number":10,"name":"Ointment","cost":1401,"day":13,"hour":1}
+{"time":47,"number":1,"name":"Book of Wisdom","cost":1023,"day":13,"hour":1}
+{"time":24,"number":5,"name":"Cage","cost":850,"day":13,"hour":2}
+{"time":29,"number":10,"name":"Ointment","cost":1401,"day":13,"hour":2}
+{"time":14,"number":5,"name":"Ointment","cost":800,"day":13,"hour":9}
+{"time":9,"number":10,"name":"Ointment","cost":1502,"day":13,"hour":9}
+{"time":39,"number":5,"name":"Ointment","cost":701,"day":13,"hour":9}
+{"time":33,"number":1,"name":"Book of Wisdom","cost":1300,"day":13,"hour":9}
+{"time":6,"number":5,"name":"Cage","cost":778,"day":13,"hour":9}
+{"time":53,"number":10,"name":"Ointment","cost":1502,"day":13,"hour":9}
+{"time":9,"number":10,"name":"Cage","cost":1102,"day":13,"hour":9}
+{"time":0,"number":10,"name":"Ointment","cost":1502,"day":13,"hour":9}
+{"time":10,"number":10,"name":"Ointment","cost":852,"day":13,"hour":9}
+{"time":16,"number":1,"name":"Light hammer of the Paladin","cost":5200,"day":13,"hour":9}
+{"time":37,"number":1,"name":"Small pennant","cost":899,"day":13,"hour":9}
+{"time":40,"number":30,"name":"Ointment","cost":4001,"day":13,"hour":9}
+{"time":20,"number":10,"name":"Ointment","cost":1000,"day":13,"hour":9}
+{"time":44,"number":1,"name":"Book of Wisdom","cost":1111,"day":13,"hour":10}
+{"time":7,"number":1,"name":"Pouch of the Thief","cost":8229,"day":13,"hour":10}
+{"time":54,"number":1,"name":"Book of Wisdom","cost":1123,"day":13,"hour":10}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1123,"day":13,"hour":10}
+{"time":56,"number":5,"name":"Ointment","cost":501,"day":13,"hour":10}
+{"time":0,"number":5,"name":"Ointment","cost":501,"day":13,"hour":10}
+{"time":40,"number":5,"name":"Cage","cost":756,"day":13,"hour":10}
+{"time":32,"number":10,"name":"Ointment","cost":1002,"day":13,"hour":10}
+{"time":59,"number":10,"name":"Small Bandage","cost":401,"day":13,"hour":10}
+{"time":3,"number":10,"name":"Small Bandage","cost":401,"day":13,"hour":10}
+{"time":33,"number":10,"name":"Ointment","cost":802,"day":13,"hour":10}
+{"time":40,"number":10,"name":"Ointment","cost":1002,"day":13,"hour":10}
+{"time":27,"number":5,"name":"Ointment","cost":701,"day":13,"hour":10}
+{"time":38,"number":30,"name":"Ointment","cost":5300,"day":13,"hour":10}
+{"time":56,"number":5,"name":"Ointment","cost":391,"day":13,"hour":10}
+{"time":2,"number":5,"name":"Ointment","cost":391,"day":13,"hour":10}
+{"time":8,"number":10,"name":"Ointment","cost":901,"day":13,"hour":10}
+{"time":15,"number":5,"name":"Cage","cost":1261,"day":13,"hour":10}
+{"time":30,"number":5,"name":"Ointment","cost":401,"day":13,"hour":11}
+{"time":35,"number":10,"name":"Ointment","cost":891,"day":13,"hour":11}
+{"time":19,"number":5,"name":"Small Bandage","cost":333,"day":13,"hour":11}
+{"time":8,"number":5,"name":"Ointment","cost":553,"day":13,"hour":11}
+{"time":59,"number":1,"name":"Helmet of Regeneration","cost":10974,"day":13,"hour":11}
+{"time":5,"number":1,"name":"Helmet of Regeneration","cost":10974,"day":13,"hour":11}
+{"time":56,"number":5,"name":"Small Bandage","cost":333,"day":13,"hour":11}
+{"time":2,"number":5,"name":"Small Bandage","cost":333,"day":13,"hour":11}
+{"time":43,"number":30,"name":"Ointment","cost":9001,"day":13,"hour":11}
+{"time":17,"number":1,"name":"Book of Wisdom","cost":1123,"day":13,"hour":11}
+{"time":41,"number":10,"name":"Cage","cost":1400,"day":13,"hour":11}
+{"time":0,"number":10,"name":"Cage","cost":1400,"day":13,"hour":11}
+{"time":16,"number":30,"name":"Ointment","cost":3031,"day":13,"hour":11}
+{"time":30,"number":1,"name":"Book of Wisdom","cost":1111,"day":13,"hour":11}
+{"time":35,"number":10,"name":"Cage","cost":1600,"day":13,"hour":11}
+{"time":40,"number":10,"name":"Cage","cost":1500,"day":13,"hour":11}
+{"time":44,"number":10,"name":"Ointment","cost":835,"day":13,"hour":11}
+{"time":0,"number":10,"name":"Ointment","cost":835,"day":13,"hour":12}
+{"time":26,"number":5,"name":"Cage","cost":601,"day":13,"hour":12}
+{"time":15,"number":1,"name":"Bucket","cost":6700,"day":13,"hour":12}
+{"time":21,"number":5,"name":"Cage","cost":651,"day":13,"hour":12}
+{"time":4,"number":1,"name":"Light Breast-plate","cost":37501,"day":13,"hour":12}
+{"time":51,"number":10,"name":"Ointment","cost":1020,"day":13,"hour":12}
+{"time":26,"number":10,"name":"Small Bandage","cost":899,"day":13,"hour":12}
+{"time":39,"number":5,"name":"Ointment","cost":701,"day":13,"hour":12}
+{"time":33,"number":1,"name":"Small shield","cost":20155,"day":13,"hour":12}
+{"time":59,"number":10,"name":"Small Bandage","cost":1000,"day":13,"hour":12}
+{"time":1,"number":10,"name":"Small Bandage","cost":1000,"day":13,"hour":12}
+{"time":44,"number":1,"name":"Small shield","cost":23765,"day":13,"hour":12}
+{"time":58,"number":10,"name":"Cage","cost":2089,"day":13,"hour":12}
+{"time":2,"number":10,"name":"Cage","cost":2089,"day":13,"hour":12}
+{"time":53,"number":1,"name":"Helmet of the Mercenary","cost":4000,"day":13,"hour":12}
+{"time":0,"number":1,"name":"Helmet of the Mercenary","cost":4000,"day":13,"hour":12}
+{"time":32,"number":5,"name":"Ointment","cost":555,"day":13,"hour":12}
+{"time":17,"number":10,"name":"Cage","cost":2067,"day":13,"hour":12}
+{"time":43,"number":5,"name":"Cage","cost":1029,"day":13,"hour":12}
+{"time":23,"number":5,"name":"Ointment","cost":751,"day":13,"hour":13}
+{"time":47,"number":5,"name":"Ointment","cost":751,"day":13,"hour":13}
+{"time":31,"number":10,"name":"Ointment","cost":1501,"day":13,"hour":13}
+{"time":31,"number":5,"name":"Ointment","cost":701,"day":13,"hour":13}
+{"time":29,"number":1,"name":"Book of Wisdom","cost":1111,"day":13,"hour":13}
+{"time":53,"number":1,"name":"Book of Wisdom","cost":1412,"day":13,"hour":13}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1412,"day":13,"hour":13}
+{"time":11,"number":1,"name":"Book of Wisdom","cost":1255,"day":13,"hour":13}
+{"time":19,"number":10,"name":"Ointment","cost":1501,"day":13,"hour":13}
+{"time":31,"number":1,"name":"Book of Wisdom","cost":1412,"day":13,"hour":13}
+{"time":20,"number":10,"name":"Cage","cost":2294,"day":13,"hour":14}
+{"time":11,"number":5,"name":"Ointment","cost":751,"day":13,"hour":14}
+{"time":49,"number":1,"name":"Book of Wisdom","cost":1900,"day":13,"hour":14}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1900,"day":13,"hour":14}
+{"time":20,"number":30,"name":"Ointment","cost":5000,"day":13,"hour":14}
+{"time":44,"number":1,"name":"Boots of the Mercenary","cost":3334,"day":13,"hour":14}
+{"time":56,"number":1,"name":"Pouch of the Thief","cost":1699,"day":13,"hour":14}
+{"time":1,"number":1,"name":"Pouch of the Thief","cost":1699,"day":13,"hour":14}
+{"time":5,"number":1,"name":"Small pennant","cost":600,"day":13,"hour":14}
+{"time":13,"number":10,"name":"Cage","cost":3552,"day":13,"hour":14}
+{"time":30,"number":1,"name":"Book of Wisdom","cost":1501,"day":13,"hour":14}
+{"time":54,"number":10,"name":"Ointment","cost":1701,"day":13,"hour":15}
+{"time":0,"number":10,"name":"Ointment","cost":1720,"day":13,"hour":15}
+{"time":52,"number":30,"name":"Ointment","cost":5200,"day":13,"hour":15}
+{"time":0,"number":30,"name":"Ointment","cost":5200,"day":13,"hour":15}
+{"time":20,"number":10,"name":"Ointment","cost":3010,"day":13,"hour":15}
+{"time":35,"number":10,"name":"Ointment","cost":2003,"day":13,"hour":15}
+{"time":42,"number":10,"name":"Ointment","cost":1439,"day":13,"hour":15}
+{"time":43,"number":10,"name":"Ointment","cost":1481,"day":13,"hour":15}
+{"time":45,"number":1,"name":"Book of Wisdom","cost":1356,"day":13,"hour":15}
+{"time":59,"number":10,"name":"Ointment","cost":1251,"day":13,"hour":15}
+{"time":3,"number":10,"name":"Ointment","cost":1251,"day":13,"hour":15}
+{"time":18,"number":5,"name":"Cage","cost":2000,"day":13,"hour":15}
+{"time":50,"number":10,"name":"Ointment","cost":1326,"day":13,"hour":15}
+{"time":0,"number":10,"name":"Ointment","cost":1326,"day":13,"hour":15}
+{"time":23,"number":1,"name":"Small pennant","cost":555,"day":13,"hour":15}
+{"time":56,"number":1,"name":"Bucket","cost":8021,"day":13,"hour":15}
+{"time":0,"number":1,"name":"Bucket","cost":8021,"day":13,"hour":15}
+{"time":56,"number":5,"name":"Cage","cost":2001,"day":13,"hour":16}
+{"time":8,"number":5,"name":"Cage","cost":2001,"day":13,"hour":16}
+{"time":15,"number":5,"name":"Ointment","cost":1100,"day":13,"hour":16}
+{"time":8,"number":1,"name":"Light scale Armour","cost":8800,"day":13,"hour":16}
+{"time":45,"number":1,"name":"Pouch of the Thief","cost":1200,"day":13,"hour":16}
+{"time":58,"number":1,"name":"Pouch of the Thief","cost":1303,"day":13,"hour":16}
+{"time":41,"number":1,"name":"Book of Wisdom","cost":1000,"day":13,"hour":16}
+{"time":33,"number":10,"name":"Ointment","cost":1325,"day":13,"hour":16}
+{"time":51,"number":1,"name":"Bucket","cost":9022,"day":13,"hour":16}
+{"time":0,"number":1,"name":"Bucket","cost":9022,"day":13,"hour":16}
+{"time":35,"number":1,"name":"Book of Wisdom","cost":889,"day":13,"hour":16}
+{"time":10,"number":1,"name":"Bucket","cost":11200,"day":13,"hour":16}
+{"time":34,"number":1,"name":"Book of Wisdom","cost":889,"day":13,"hour":17}
+{"time":43,"number":5,"name":"Ointment","cost":888,"day":13,"hour":17}
+{"time":27,"number":5,"name":"Ointment","cost":577,"day":13,"hour":17}
+{"time":19,"number":5,"name":"Cage","cost":2552,"day":13,"hour":17}
+{"time":31,"number":30,"name":"Ointment","cost":3750,"day":13,"hour":17}
+{"time":33,"number":10,"name":"Cage","cost":3452,"day":13,"hour":17}
+{"time":5,"number":5,"name":"Cage","cost":1101,"day":13,"hour":17}
+{"time":28,"number":5,"name":"Ointment","cost":750,"day":13,"hour":17}
+{"time":42,"number":10,"name":"Ointment","cost":1250,"day":13,"hour":17}
+{"time":43,"number":5,"name":"Cage","cost":1501,"day":13,"hour":17}
+{"time":5,"number":1,"name":"Book of Wisdom","cost":1001,"day":13,"hour":17}
+{"time":22,"number":1,"name":"Small map","cost":4511,"day":13,"hour":17}
+{"time":55,"number":1,"name":"Small standard","cost":401,"day":13,"hour":18}
+{"time":0,"number":1,"name":"Small standard","cost":401,"day":13,"hour":18}
+{"time":5,"number":5,"name":"Ointment","cost":701,"day":13,"hour":18}
+{"time":41,"number":5,"name":"Cage","cost":950,"day":13,"hour":18}
+{"time":59,"number":5,"name":"Ointment","cost":701,"day":13,"hour":18}
+{"time":4,"number":5,"name":"Ointment","cost":701,"day":13,"hour":18}
+{"time":7,"number":5,"name":"Ointment","cost":701,"day":13,"hour":18}
+{"time":16,"number":5,"name":"Ointment","cost":701,"day":13,"hour":18}
+{"time":47,"number":10,"name":"Ointment","cost":1725,"day":13,"hour":18}
+{"time":36,"number":5,"name":"Cage","cost":2501,"day":13,"hour":18}
+{"time":24,"number":1,"name":"Bucket","cost":9946,"day":13,"hour":18}
+{"time":51,"number":5,"name":"Cage","cost":2701,"day":13,"hour":18}
+{"time":0,"number":5,"name":"Cage","cost":2701,"day":13,"hour":18}
+{"time":24,"number":1,"name":"Small pennant","cost":999,"day":13,"hour":18}
+{"time":43,"number":10,"name":"Ointment","cost":1439,"day":13,"hour":19}
+{"time":10,"number":1,"name":"Small Spurs","cost":9600,"day":13,"hour":19}
+{"time":58,"number":10,"name":"Ointment","cost":1439,"day":13,"hour":19}
+{"time":33,"number":10,"name":"Ointment","cost":1572,"day":13,"hour":19}
+{"time":22,"number":10,"name":"Ointment","cost":1456,"day":13,"hour":19}
+{"time":54,"number":5,"name":"Ointment","cost":778,"day":13,"hour":19}
+{"time":0,"number":5,"name":"Ointment","cost":778,"day":13,"hour":19}
+{"time":15,"number":5,"name":"Cage","cost":1778,"day":13,"hour":19}
+{"time":41,"number":1,"name":"Boots of Regeneration","cost":23765,"day":13,"hour":19}
+{"time":28,"number":1,"name":"Book of Wisdom","cost":1301,"day":13,"hour":20}
+{"time":49,"number":10,"name":"Cage","cost":5002,"day":13,"hour":20}
+{"time":43,"number":5,"name":"Small Bandage","cost":211,"day":13,"hour":20}
+{"time":40,"number":5,"name":"Ointment","cost":1001,"day":13,"hour":20}
+{"time":59,"number":5,"name":"Ointment","cost":770,"day":13,"hour":20}
+{"time":2,"number":5,"name":"Ointment","cost":770,"day":13,"hour":20}
+{"time":28,"number":5,"name":"Tablet of Law","cost":179,"day":13,"hour":20}
+{"time":24,"number":1,"name":"Small pennant","cost":430,"day":13,"hour":20}
+{"time":56,"number":1,"name":"Book of Wisdom","cost":1301,"day":13,"hour":20}
+{"time":1,"number":1,"name":"Book of Wisdom","cost":1301,"day":13,"hour":20}
+{"time":11,"number":10,"name":"Ointment","cost":1251,"day":13,"hour":20}
+{"time":53,"number":5,"name":"Ointment","cost":750,"day":13,"hour":20}
+{"time":0,"number":5,"name":"Ointment","cost":750,"day":13,"hour":20}
+{"time":33,"number":1,"name":"Light Segmented-armour","cost":4102,"day":13,"hour":21}
+{"time":57,"number":5,"name":"Ointment","cost":751,"day":13,"hour":21}
+{"time":57,"number":5,"name":"Ointment","cost":789,"day":13,"hour":21}
+{"time":4,"number":5,"name":"Ointment","cost":789,"day":13,"hour":21}
+{"time":31,"number":5,"name":"Ointment","cost":751,"day":13,"hour":22}
+{"time":52,"number":5,"name":"Tablet of Law","cost":150,"day":13,"hour":22}
+{"time":0,"number":5,"name":"Tablet of Law","cost":150,"day":13,"hour":22}
+{"time":27,"number":1,"name":"Book of Wisdom","cost":1000,"day":13,"hour":22}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1000,"day":13,"hour":22}
+{"time":30,"number":1,"name":"Small map","cost":1902,"day":13,"hour":23}
+{"time":4,"number":10,"name":"Cage","cost":6501,"day":13,"hour":23}
+{"time":38,"number":5,"name":"Tablet of Law","cost":200,"day":13,"hour":23}
+{"time":44,"number":5,"name":"Ointment","cost":555,"day":13,"hour":23}
+{"time":5,"number":1,"name":"Book of Wisdom","cost":1000,"day":13,"hour":23}
+{"time":15,"number":1,"name":"Small pennant","cost":401,"day":14,"hour":0}
+{"time":49,"number":10,"name":"Ointment","cost":1111,"day":14,"hour":0}
+{"time":16,"number":5,"name":"Ointment","cost":1001,"day":14,"hour":0}
+{"time":7,"number":1,"name":"Helmet of the Horseman","cost":1103,"day":14,"hour":0}
+{"time":25,"number":1,"name":"Helmet of the Horseman","cost":2222,"day":14,"hour":0}
+{"time":47,"number":1,"name":"Small pennant","cost":456,"day":14,"hour":0}
+{"time":0,"number":1,"name":"Small pennant","cost":456,"day":14,"hour":0}
+{"time":13,"number":5,"name":"Tablet of Law","cost":57,"day":14,"hour":0}
+{"time":57,"number":1,"name":"Book of Wisdom","cost":1000,"day":14,"hour":0}
+{"time":1,"number":1,"name":"Book of Wisdom","cost":1000,"day":14,"hour":0}
+{"time":26,"number":5,"name":"Ointment","cost":801,"day":14,"hour":1}
+{"time":19,"number":5,"name":"Ointment","cost":573,"day":14,"hour":1}
+{"time":17,"number":5,"name":"Cage","cost":1777,"day":14,"hour":1}
+{"time":37,"number":5,"name":"Ointment","cost":461,"day":14,"hour":1}
+{"time":18,"number":5,"name":"Ointment","cost":461,"day":14,"hour":1}
+{"time":46,"number":10,"name":"Ointment","cost":960,"day":14,"hour":1}
+{"time":33,"number":1,"name":"Book of Wisdom","cost":1000,"day":14,"hour":1}
+{"time":7,"number":5,"name":"Cage","cost":2151,"day":14,"hour":1}
+{"time":33,"number":30,"name":"Ointment","cost":1666,"day":14,"hour":1}
+{"time":51,"number":30,"name":"Ointment","cost":2502,"day":14,"hour":1}
+{"time":0,"number":30,"name":"Ointment","cost":2752,"day":14,"hour":1}
+{"time":55,"number":5,"name":"Cage","cost":2502,"day":14,"hour":2}
+{"time":0,"number":5,"name":"Cage","cost":2502,"day":14,"hour":2}
+{"time":21,"number":5,"name":"Cage","cost":2260,"day":14,"hour":2}
+{"time":11,"number":5,"name":"Cage","cost":1193,"day":14,"hour":2}
+{"time":20,"number":1,"name":"Book of Wisdom","cost":1000,"day":14,"hour":3}
+{"time":16,"number":5,"name":"Ointment","cost":775,"day":14,"hour":5}
+{"time":7,"number":1,"name":"Book of Wisdom","cost":1005,"day":14,"hour":5}
+{"time":59,"number":5,"name":"Ointment","cost":775,"day":14,"hour":5}
+{"time":4,"number":5,"name":"Ointment","cost":775,"day":14,"hour":5}
+{"time":29,"number":5,"name":"Ointment","cost":800,"day":14,"hour":5}
+{"time":16,"number":10,"name":"Cage","cost":2801,"day":14,"hour":5}
+{"time":32,"number":50,"name":"Ointment","cost":4613,"day":14,"hour":5}
+{"time":13,"number":5,"name":"Cage","cost":911,"day":14,"hour":5}
+{"time":32,"number":5,"name":"Cage","cost":1111,"day":14,"hour":6}
+{"time":18,"number":10,"name":"Ointment","cost":1251,"day":14,"hour":6}
+{"time":52,"number":1,"name":"Helmet of Awareness","cost":4555,"day":14,"hour":6}
+{"time":0,"number":1,"name":"Helmet of Awareness","cost":4555,"day":14,"hour":6}
+{"time":18,"number":10,"name":"Ointment","cost":1355,"day":14,"hour":6}
+{"time":16,"number":10,"name":"Ointment","cost":1112,"day":14,"hour":6}
+{"time":47,"number":10,"name":"Ointment","cost":821,"day":14,"hour":6}
+{"time":0,"number":10,"name":"Ointment","cost":821,"day":14,"hour":6}
+{"time":28,"number":5,"name":"Ointment","cost":450,"day":14,"hour":6}
+{"time":6,"number":10,"name":"Ointment","cost":1112,"day":14,"hour":7}
+{"time":23,"number":10,"name":"Ointment","cost":1000,"day":14,"hour":7}
+{"time":32,"number":10,"name":"Ointment","cost":1000,"day":14,"hour":7}
+{"time":24,"number":10,"name":"Ointment","cost":1000,"day":14,"hour":7}
+{"time":40,"number":1,"name":"Book of Wisdom","cost":1002,"day":14,"hour":7}
+{"time":57,"number":1,"name":"Small horn of the Natarian","cost":100,"day":14,"hour":7}
+{"time":10,"number":1,"name":"Small horn of the Natarian","cost":111,"day":14,"hour":7}
+{"time":46,"number":10,"name":"Ointment","cost":1301,"day":14,"hour":7}
+{"time":40,"number":10,"name":"Ointment","cost":1256,"day":14,"hour":7}
+{"time":49,"number":10,"name":"Ointment","cost":1407,"day":14,"hour":7}
+{"time":10,"number":10,"name":"Ointment","cost":1401,"day":14,"hour":7}
+{"time":56,"number":10,"name":"Ointment","cost":1400,"day":14,"hour":7}
+{"time":1,"number":10,"name":"Ointment","cost":1400,"day":14,"hour":7}
+{"time":21,"number":5,"name":"Ointment","cost":556,"day":14,"hour":7}
+{"time":51,"number":10,"name":"Ointment","cost":1400,"day":14,"hour":7}
+{"time":51,"number":10,"name":"Ointment","cost":1400,"day":14,"hour":7}
+{"time":0,"number":10,"name":"Ointment","cost":1400,"day":14,"hour":7}
+{"time":0,"number":10,"name":"Ointment","cost":1400,"day":14,"hour":7}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":2300,"day":14,"hour":7}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":2300,"day":14,"hour":7}
+{"time":49,"number":10,"name":"Ointment","cost":1401,"day":14,"hour":7}
+{"time":25,"number":10,"name":"Ointment","cost":1300,"day":14,"hour":7}
+{"time":7,"number":1,"name":"Book of Wisdom","cost":3500,"day":14,"hour":7}
+{"time":53,"number":1,"name":"Book of Wisdom","cost":3500,"day":14,"hour":7}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":3500,"day":14,"hour":7}
+{"time":10,"number":10,"name":"Ointment","cost":1300,"day":14,"hour":7}
+{"time":10,"number":10,"name":"Ointment","cost":2001,"day":14,"hour":7}
+{"time":36,"number":10,"name":"Ointment","cost":2001,"day":14,"hour":7}
+{"time":44,"number":10,"name":"Ointment","cost":1500,"day":14,"hour":7}
+{"time":21,"number":1,"name":"Helmet of Regeneration","cost":8545,"day":14,"hour":7}
+{"time":47,"number":10,"name":"Ointment","cost":1300,"day":14,"hour":8}
+{"time":8,"number":5,"name":"Ointment","cost":700,"day":14,"hour":8}
+{"time":55,"number":10,"name":"Cage","cost":2703,"day":14,"hour":8}
+{"time":1,"number":10,"name":"Cage","cost":2703,"day":14,"hour":8}
+{"time":18,"number":5,"name":"Cage","cost":551,"day":14,"hour":9}
+{"time":42,"number":1,"name":"Helmet of the Mercenary","cost":4455,"day":14,"hour":9}
+{"time":49,"number":1,"name":"Book of Wisdom","cost":303,"day":14,"hour":9}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":303,"day":14,"hour":9}
+{"time":42,"number":5,"name":"Cage","cost":350,"day":14,"hour":9}
+{"time":12,"number":30,"name":"Ointment","cost":4201,"day":14,"hour":9}
+{"time":28,"number":10,"name":"Ointment","cost":806,"day":14,"hour":9}
+{"time":37,"number":5,"name":"Cage","cost":300,"day":14,"hour":9}
+{"time":36,"number":30,"name":"Ointment","cost":2000,"day":14,"hour":9}
+{"time":30,"number":10,"name":"Ointment","cost":502,"day":14,"hour":9}
+{"time":33,"number":5,"name":"Cage","cost":400,"day":14,"hour":10}
+{"time":22,"number":5,"name":"Ointment","cost":265,"day":14,"hour":10}
+{"time":23,"number":10,"name":"Small Bandage","cost":334,"day":14,"hour":10}
+{"time":50,"number":10,"name":"Ointment","cost":751,"day":14,"hour":10}
+{"time":8,"number":5,"name":"Cage","cost":551,"day":14,"hour":10}
+{"time":17,"number":5,"name":"Cage","cost":551,"day":14,"hour":10}
+{"time":15,"number":5,"name":"Ointment","cost":410,"day":14,"hour":10}
+{"time":37,"number":1,"name":"Book of Wisdom","cost":500,"day":14,"hour":10}
+{"time":57,"number":5,"name":"Ointment","cost":250,"day":14,"hour":10}
+{"time":41,"number":5,"name":"Ointment","cost":404,"day":14,"hour":10}
+{"time":49,"number":5,"name":"Ointment","cost":223,"day":14,"hour":10}
+{"time":0,"number":5,"name":"Ointment","cost":223,"day":14,"hour":10}
+{"time":57,"number":5,"name":"Ointment","cost":301,"day":14,"hour":10}
+{"time":3,"number":5,"name":"Ointment","cost":301,"day":14,"hour":10}
+{"time":40,"number":5,"name":"Cage","cost":601,"day":14,"hour":10}
+{"time":43,"number":5,"name":"Cage","cost":801,"day":14,"hour":10}
+{"time":46,"number":5,"name":"Cage","cost":601,"day":14,"hour":10}
+{"time":50,"number":10,"name":"Ointment","cost":1000,"day":14,"hour":10}
+{"time":25,"number":10,"name":"Ointment","cost":1251,"day":14,"hour":10}
+{"time":38,"number":5,"name":"Ointment","cost":235,"day":14,"hour":10}
+{"time":22,"number":10,"name":"Ointment","cost":1251,"day":14,"hour":10}
+{"time":26,"number":10,"name":"Ointment","cost":235,"day":14,"hour":10}
+{"time":34,"number":1,"name":"Light scale Armour","cost":8833,"day":14,"hour":10}
+{"time":22,"number":10,"name":"Ointment","cost":800,"day":14,"hour":10}
+{"time":55,"number":5,"name":"Cage","cost":700,"day":14,"hour":10}
+{"time":38,"number":1,"name":"Book of Wisdom","cost":451,"day":14,"hour":10}
+{"time":43,"number":5,"name":"Tablet of Law","cost":111,"day":14,"hour":10}
+{"time":57,"number":1,"name":"Book of Wisdom","cost":601,"day":14,"hour":10}
+{"time":3,"number":1,"name":"Book of Wisdom","cost":601,"day":14,"hour":10}
+{"time":15,"number":10,"name":"Ointment","cost":951,"day":14,"hour":10}
+{"time":22,"number":10,"name":"Ointment","cost":951,"day":14,"hour":10}
+{"time":28,"number":10,"name":"Ointment","cost":951,"day":14,"hour":10}
+{"time":34,"number":10,"name":"Ointment","cost":951,"day":14,"hour":10}
+{"time":54,"number":10,"name":"Ointment","cost":951,"day":14,"hour":10}
+{"time":0,"number":10,"name":"Ointment","cost":951,"day":14,"hour":10}
+{"time":53,"number":1,"name":"Short sword of the Teutonic Knight","cost":2500,"day":14,"hour":10}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":299,"day":14,"hour":10}
+{"time":0,"number":1,"name":"Short sword of the Teutonic Knight","cost":2500,"day":14,"hour":10}
+{"time":57,"number":1,"name":"Helmet of Regeneration","cost":8211,"day":14,"hour":10}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":299,"day":14,"hour":10}
+{"time":2,"number":1,"name":"Helmet of Regeneration","cost":8211,"day":14,"hour":10}
+{"time":25,"number":5,"name":"Cage","cost":2501,"day":14,"hour":10}
+{"time":50,"number":1,"name":"Book of Wisdom","cost":299,"day":14,"hour":10}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":299,"day":14,"hour":11}
+{"time":23,"number":10,"name":"Ointment","cost":701,"day":14,"hour":11}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":57,"day":14,"hour":11}
+{"time":57,"number":5,"name":"Ointment","cost":7,"day":14,"hour":11}
+{"time":2,"number":1,"name":"Book of Wisdom","cost":57,"day":14,"hour":11}
+{"time":4,"number":5,"name":"Ointment","cost":7,"day":14,"hour":11}
+{"time":20,"number":1,"name":"Book of Wisdom","cost":501,"day":14,"hour":11}
+{"time":50,"number":10,"name":"Ointment","cost":651,"day":14,"hour":11}
+{"time":38,"number":10,"name":"Ointment","cost":801,"day":14,"hour":11}
+{"time":22,"number":1,"name":"Book of Wisdom","cost":753,"day":14,"hour":11}
+{"time":49,"number":10,"name":"Cage","cost":3001,"day":14,"hour":11}
+{"time":0,"number":10,"name":"Cage","cost":3002,"day":14,"hour":11}
+{"time":55,"number":5,"name":"Ointment","cost":556,"day":14,"hour":11}
+{"time":1,"number":5,"name":"Ointment","cost":556,"day":14,"hour":11}
+{"time":10,"number":5,"name":"Ointment","cost":556,"day":14,"hour":11}
+{"time":21,"number":10,"name":"Ointment","cost":1001,"day":14,"hour":11}
+{"time":49,"number":1,"name":"Book of Wisdom","cost":606,"day":14,"hour":11}
+{"time":32,"number":5,"name":"Ointment","cost":504,"day":14,"hour":11}
+{"time":32,"number":1,"name":"Book of Wisdom","cost":753,"day":14,"hour":11}
+{"time":47,"number":10,"name":"Ointment","cost":1003,"day":14,"hour":11}
+{"time":36,"number":10,"name":"Ointment","cost":1003,"day":14,"hour":11}
+{"time":3,"number":10,"name":"Ointment","cost":1003,"day":14,"hour":11}
+{"time":11,"number":5,"name":"Cage","cost":1755,"day":14,"hour":11}
+{"time":4,"number":1,"name":"Bucket","cost":10001,"day":14,"hour":11}
+{"time":20,"number":10,"name":"Cage","cost":2555,"day":14,"hour":11}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":900,"day":14,"hour":11}
+{"time":43,"number":1,"name":"Book of Wisdom","cost":503,"day":14,"hour":11}
+{"time":39,"number":10,"name":"Ointment","cost":10,"day":14,"hour":11}
+{"time":56,"number":5,"name":"Ointment","cost":5,"day":14,"hour":11}
+{"time":0,"number":5,"name":"Ointment","cost":5,"day":14,"hour":11}
+{"time":52,"number":1,"name":"Small shield","cost":13246,"day":14,"hour":11}
+{"time":2,"number":1,"name":"Small shield","cost":13246,"day":14,"hour":11}
+{"time":57,"number":1,"name":"Book of Wisdom","cost":58,"day":14,"hour":11}
+{"time":1,"number":1,"name":"Book of Wisdom","cost":58,"day":14,"hour":11}
+{"time":56,"number":5,"name":"Cage","cost":1022,"day":14,"hour":11}
+{"time":0,"number":5,"name":"Cage","cost":1022,"day":14,"hour":11}
+{"time":37,"number":1,"name":"Light lance of the Caesaris","cost":3718,"day":14,"hour":11}
+{"time":38,"number":10,"name":"Ointment","cost":704,"day":14,"hour":11}
+{"time":44,"number":5,"name":"Cage","cost":899,"day":14,"hour":11}
+{"time":12,"number":1,"name":"Light Breast-plate","cost":5001,"day":14,"hour":12}
+{"time":45,"number":10,"name":"Ointment","cost":995,"day":14,"hour":12}
+{"time":27,"number":10,"name":"Ointment","cost":899,"day":14,"hour":12}
+{"time":13,"number":5,"name":"Cage","cost":1301,"day":14,"hour":12}
+{"time":38,"number":5,"name":"Cage","cost":1301,"day":14,"hour":12}
+{"time":49,"number":10,"name":"Ointment","cost":1078,"day":14,"hour":12}
+{"time":59,"number":5,"name":"Ointment","cost":556,"day":14,"hour":12}
+{"time":0,"number":10,"name":"Ointment","cost":1078,"day":14,"hour":12}
+{"time":26,"number":5,"name":"Ointment","cost":622,"day":14,"hour":12}
+{"time":12,"number":5,"name":"Cage","cost":1034,"day":14,"hour":12}
+{"time":7,"number":5,"name":"Ointment","cost":556,"day":14,"hour":12}
+{"time":31,"number":5,"name":"Ointment","cost":602,"day":14,"hour":12}
+{"time":13,"number":5,"name":"Ointment","cost":602,"day":14,"hour":12}
+{"time":13,"number":5,"name":"Cage","cost":2150,"day":14,"hour":12}
+{"time":46,"number":1,"name":"Book of Wisdom","cost":1100,"day":14,"hour":12}
+{"time":0,"number":5,"name":"Cage","cost":826,"day":15,"hour":18}
+{"time":46,"number":5,"name":"Tablet of Law","cost":111,"day":15,"hour":18}
+{"time":56,"number":1,"name":"Small Spurs","cost":3947,"day":15,"hour":18}
+{"time":15,"number":10,"name":"Ointment","cost":899,"day":15,"hour":19}
+{"time":11,"number":5,"name":"Ointment","cost":403,"day":15,"hour":19}
+{"time":43,"number":30,"name":"Ointment","cost":5000,"day":15,"hour":19}
+{"time":8,"number":5,"name":"Ointment","cost":489,"day":15,"hour":19}
+{"time":56,"number":1,"name":"Helmet of the Mercenary","cost":700,"day":15,"hour":19}
+{"time":0,"number":1,"name":"Helmet of the Mercenary","cost":710,"day":15,"hour":19}
+{"time":9,"number":1,"name":"Light scale Armour","cost":4448,"day":15,"hour":19}
+{"time":28,"number":1,"name":"Book of Wisdom","cost":889,"day":15,"hour":19}
+{"time":40,"number":10,"name":"Scroll","cost":15213,"day":15,"hour":19}
+{"time":11,"number":5,"name":"Cage","cost":2500,"day":15,"hour":19}
+{"time":44,"number":1,"name":"Book of Wisdom","cost":555,"day":15,"hour":19}
+{"time":45,"number":10,"name":"Ointment","cost":999,"day":15,"hour":20}
+{"time":11,"number":5,"name":"Cage","cost":1601,"day":15,"hour":20}
+{"time":39,"number":1,"name":"Small map","cost":4000,"day":15,"hour":20}
+{"time":59,"number":5,"name":"Cage","cost":1590,"day":15,"hour":20}
+{"time":4,"number":5,"name":"Cage","cost":1590,"day":15,"hour":20}
+{"time":44,"number":10,"name":"Tablet of Law","cost":184,"day":15,"hour":20}
+{"time":13,"number":5,"name":"Ointment","cost":1001,"day":15,"hour":22}
+{"time":16,"number":1,"name":"Bucket","cost":5556,"day":15,"hour":22}
+{"time":21,"number":1,"name":"Book of Wisdom","cost":760,"day":15,"hour":23}
+{"time":43,"number":10,"name":"Scroll","cost":5001,"day":15,"hour":23}
+{"time":42,"number":10,"name":"Ointment","cost":1001,"day":15,"hour":23}
+{"time":41,"number":1,"name":"Artwork","cost":16667,"day":15,"hour":23}
+{"time":23,"number":1,"name":"Artwork","cost":16665,"day":15,"hour":23}
+{"time":9,"number":5,"name":"Ointment","cost":701,"day":15,"hour":23}
+{"time":56,"number":10,"name":"Cage","cost":1943,"day":15,"hour":23}
+{"time":2,"number":10,"name":"Cage","cost":1943,"day":15,"hour":23}
+{"time":17,"number":5,"name":"Cage","cost":750,"day":15,"hour":23}
+{"time":26,"number":10,"name":"Ointment","cost":850,"day":15,"hour":23}
+{"time":5,"number":5,"name":"Ointment","cost":328,"day":16,"hour":11}
+{"time":33,"number":1,"name":"Short sword of the Legionnaire","cost":4261,"day":16,"hour":11}
+{"time":30,"number":10,"name":"Ointment","cost":628,"day":16,"hour":11}
+{"time":49,"number":1,"name":"Walking-staff of the Druidrider","cost":1501,"day":16,"hour":11}
+{"time":0,"number":1,"name":"Walking-staff of the Druidrider","cost":1501,"day":16,"hour":11}
+{"time":30,"number":10,"name":"Ointment","cost":1101,"day":16,"hour":11}
+{"time":13,"number":1,"name":"Light Segmented-armour","cost":4071,"day":16,"hour":11}
+{"time":22,"number":10,"name":"Cage","cost":3001,"day":16,"hour":11}
+{"time":38,"number":10,"name":"Ointment","cost":1000,"day":16,"hour":11}
+{"time":54,"number":1,"name":"Book of Wisdom","cost":755,"day":16,"hour":11}
+{"time":1,"number":1,"name":"Book of Wisdom","cost":755,"day":16,"hour":11}
+{"time":17,"number":1,"name":"Helmet of the Gladiator","cost":13964,"day":16,"hour":11}
+{"time":5,"number":1,"name":"Artwork","cost":9878,"day":16,"hour":11}
+{"time":10,"number":10,"name":"Small Bandage","cost":951,"day":16,"hour":11}
+{"time":21,"number":10,"name":"Ointment","cost":1001,"day":16,"hour":11}
+{"time":35,"number":10,"name":"Ointment","cost":628,"day":16,"hour":11}
+{"time":40,"number":10,"name":"Small Bandage","cost":333,"day":16,"hour":11}
+{"time":19,"number":1,"name":"Light Segmented-armour","cost":3323,"day":16,"hour":12}
+{"time":16,"number":5,"name":"Ointment","cost":667,"day":16,"hour":12}
+{"time":0,"number":1,"name":"Helmet of Regeneration","cost":3716,"day":16,"hour":12}
+{"time":17,"number":5,"name":"Cage","cost":1778,"day":16,"hour":12}
+{"time":35,"number":1,"name":"Artwork","cost":9333,"day":16,"hour":12}
+{"time":21,"number":1,"name":"Book of Wisdom","cost":1011,"day":16,"hour":12}
+{"time":22,"number":50,"name":"Ointment","cost":7500,"day":16,"hour":12}
+{"time":56,"number":10,"name":"Ointment","cost":1500,"day":16,"hour":12}
+{"time":0,"number":10,"name":"Ointment","cost":1500,"day":16,"hour":12}
+{"time":35,"number":5,"name":"Cage","cost":1151,"day":16,"hour":12}
+{"time":42,"number":5,"name":"Cage","cost":756,"day":16,"hour":12}
+{"time":14,"number":5,"name":"Ointment","cost":334,"day":16,"hour":12}
+{"time":14,"number":10,"name":"Ointment","cost":628,"day":16,"hour":12}
+{"time":43,"number":1,"name":"Book of Wisdom","cost":1000,"day":16,"hour":12}
+{"time":25,"number":10,"name":"Ointment","cost":1122,"day":16,"hour":13}
+{"time":4,"number":5,"name":"Tablet of Law","cost":40,"day":16,"hour":13}
+{"time":27,"number":5,"name":"Ointment","cost":328,"day":16,"hour":13}
+{"time":8,"number":1,"name":"Short sword of the Imperatoris","cost":2551,"day":16,"hour":13}
+{"time":44,"number":1,"name":"Helmet of Regeneration","cost":3501,"day":16,"hour":13}
+{"time":44,"number":1,"name":"Book of Wisdom","cost":1002,"day":16,"hour":13}
+{"time":30,"number":1,"name":"Helmet of Regeneration","cost":4001,"day":16,"hour":13}
+{"time":17,"number":10,"name":"Ointment","cost":1800,"day":16,"hour":13}
+{"time":51,"number":10,"name":"Ointment","cost":2222,"day":16,"hour":13}
+{"time":48,"number":10,"name":"Ointment","cost":1800,"day":16,"hour":13}
+{"time":0,"number":10,"name":"Ointment","cost":1800,"day":16,"hour":13}
+{"time":10,"number":10,"name":"Scroll","cost":10001,"day":16,"hour":13}
+{"time":28,"number":10,"name":"Ointment","cost":2552,"day":16,"hour":13}
+{"time":58,"number":5,"name":"Cage","cost":976,"day":16,"hour":13}
+{"time":2,"number":5,"name":"Cage","cost":976,"day":16,"hour":13}
+{"time":51,"number":1,"name":"Book of Wisdom","cost":801,"day":16,"hour":13}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":801,"day":16,"hour":13}
+{"time":40,"number":5,"name":"Cage","cost":1502,"day":16,"hour":14}
+{"time":27,"number":10,"name":"Ointment","cost":956,"day":16,"hour":14}
+{"time":10,"number":1,"name":"Book of Wisdom","cost":801,"day":16,"hour":14}
+{"time":4,"number":10,"name":"Ointment","cost":801,"day":16,"hour":14}
+{"time":24,"number":10,"name":"Ointment","cost":889,"day":16,"hour":14}
+{"time":17,"number":1,"name":"Small standard","cost":751,"day":16,"hour":14}
+{"time":22,"number":10,"name":"Ointment","cost":1255,"day":16,"hour":14}
+{"time":22,"number":1,"name":"Short sword of the Imperian","cost":2551,"day":16,"hour":14}
+{"time":38,"number":5,"name":"Ointment","cost":356,"day":16,"hour":14}
+{"time":50,"number":10,"name":"Scroll","cost":6106,"day":16,"hour":14}
+{"time":0,"number":10,"name":"Scroll","cost":6106,"day":16,"hour":14}
+{"time":33,"number":5,"name":"Ointment","cost":328,"day":16,"hour":14}
+{"time":15,"number":5,"name":"Cage","cost":1300,"day":16,"hour":14}
+{"time":24,"number":30,"name":"Scroll","cost":17801,"day":16,"hour":14}
+{"time":41,"number":5,"name":"Small Bandage","cost":352,"day":16,"hour":14}
+{"time":59,"number":5,"name":"Scroll","cost":1501,"day":16,"hour":14}
+{"time":5,"number":5,"name":"Scroll","cost":1501,"day":16,"hour":14}
+{"time":36,"number":1,"name":"Book of Wisdom","cost":1001,"day":16,"hour":15}
+{"time":38,"number":10,"name":"Ointment","cost":775,"day":16,"hour":15}
+{"time":30,"number":1,"name":"Book of Wisdom","cost":556,"day":16,"hour":15}
+{"time":58,"number":1,"name":"Small shield","cost":10110,"day":16,"hour":15}
+{"time":41,"number":10,"name":"Ointment","cost":1499,"day":16,"hour":15}
+{"time":34,"number":1,"name":"Small shield","cost":12001,"day":16,"hour":15}
+{"time":39,"number":10,"name":"Ointment","cost":1667,"day":16,"hour":15}
+{"time":10,"number":1,"name":"Bucket","cost":4501,"day":16,"hour":15}
+{"time":16,"number":5,"name":"Cage","cost":1200,"day":16,"hour":15}
+{"time":9,"number":10,"name":"Ointment","cost":1552,"day":16,"hour":15}
+{"time":47,"number":1,"name":"Boots of the Mercenary","cost":1001,"day":16,"hour":15}
+{"time":52,"number":5,"name":"Cage","cost":1501,"day":16,"hour":16}
+{"time":0,"number":5,"name":"Cage","cost":1501,"day":16,"hour":16}
+{"time":18,"number":10,"name":"Ointment","cost":1552,"day":16,"hour":16}
+{"time":19,"number":1,"name":"Bucket","cost":4502,"day":16,"hour":16}
+{"time":10,"number":5,"name":"Ointment","cost":447,"day":16,"hour":16}
+{"time":19,"number":1,"name":"Book of Wisdom","cost":500,"day":16,"hour":16}
+{"time":50,"number":1,"name":"Boots of Regeneration","cost":9001,"day":16,"hour":16}
+{"time":22,"number":1,"name":"Helmet of the Horseman","cost":1251,"day":16,"hour":16}
+{"time":36,"number":1,"name":"Book of Wisdom","cost":500,"day":16,"hour":16}
+{"time":46,"number":10,"name":"Cage","cost":2001,"day":16,"hour":16}
+{"time":50,"number":5,"name":"Ointment","cost":512,"day":16,"hour":16}
+{"time":0,"number":5,"name":"Ointment","cost":512,"day":16,"hour":16}
+{"time":37,"number":1,"name":"Boots of Regeneration","cost":11112,"day":16,"hour":16}
+{"time":7,"number":10,"name":"Ointment","cost":1255,"day":16,"hour":16}
+{"time":36,"number":5,"name":"Cage","cost":1500,"day":16,"hour":16}
+{"time":37,"number":1,"name":"Book of Wisdom","cost":556,"day":16,"hour":16}
+{"time":23,"number":10,"name":"Ointment","cost":1501,"day":16,"hour":16}
+{"time":34,"number":10,"name":"Ointment","cost":1000,"day":16,"hour":16}
+{"time":17,"number":1,"name":"Book of Wisdom","cost":556,"day":16,"hour":16}
+{"time":17,"number":5,"name":"Ointment","cost":547,"day":16,"hour":16}
+{"time":31,"number":5,"name":"Cage","cost":1500,"day":16,"hour":17}
+{"time":47,"number":10,"name":"Ointment","cost":409,"day":16,"hour":17}
+{"time":6,"number":1,"name":"Book of Wisdom","cost":1250,"day":16,"hour":17}
+{"time":20,"number":10,"name":"Ointment","cost":2000,"day":16,"hour":17}
+{"time":52,"number":10,"name":"Ointment","cost":1000,"day":16,"hour":17}
+{"time":0,"number":10,"name":"Ointment","cost":1000,"day":16,"hour":17}
+{"time":8,"number":5,"name":"Ointment","cost":800,"day":16,"hour":17}
+{"time":9,"number":5,"name":"Ointment","cost":403,"day":16,"hour":17}
+{"time":38,"number":10,"name":"Ointment","cost":956,"day":16,"hour":17}
+{"time":48,"number":1,"name":"Artwork","cost":13177,"day":16,"hour":17}
+{"time":58,"number":5,"name":"Ointment","cost":334,"day":16,"hour":17}
+{"time":2,"number":5,"name":"Ointment","cost":334,"day":16,"hour":17}
+{"time":46,"number":1,"name":"Small horn of the Natarian","cost":100,"day":16,"hour":17}
+{"time":54,"number":1,"name":"Bucket","cost":5556,"day":16,"hour":17}
+{"time":0,"number":1,"name":"Bucket","cost":5556,"day":16,"hour":17}
+{"time":55,"number":10,"name":"Ointment","cost":1155,"day":16,"hour":17}
+{"time":5,"number":5,"name":"Cage","cost":1997,"day":16,"hour":17}
+{"time":20,"number":10,"name":"Ointment","cost":956,"day":16,"hour":18}
+{"time":26,"number":10,"name":"Ointment","cost":956,"day":16,"hour":18}
+{"time":11,"number":10,"name":"Ointment","cost":1300,"day":16,"hour":18}
+{"time":19,"number":10,"name":"Ointment","cost":1300,"day":16,"hour":18}
+{"time":37,"number":1,"name":"Small standard","cost":900,"day":16,"hour":18}
+{"time":27,"number":10,"name":"Ointment","cost":1100,"day":16,"hour":18}
+{"time":32,"number":10,"name":"Ointment","cost":1100,"day":16,"hour":18}
+{"time":44,"number":10,"name":"Ointment","cost":1100,"day":16,"hour":18}
+{"time":47,"number":1,"name":"Short sword of the Imperian","cost":2000,"day":16,"hour":18}
+{"time":22,"number":10,"name":"Cage","cost":1997,"day":16,"hour":18}
+{"time":17,"number":1,"name":"Small horn of the Natarian","cost":111,"day":16,"hour":18}
+{"time":27,"number":5,"name":"Tablet of Law","cost":19,"day":16,"hour":18}
+{"time":18,"number":10,"name":"Ointment","cost":800,"day":16,"hour":18}
+{"time":29,"number":10,"name":"Ointment","cost":800,"day":16,"hour":18}
+{"time":13,"number":10,"name":"Ointment","cost":900,"day":16,"hour":18}
+{"time":17,"number":1,"name":"Short sword of the Praetorian","cost":2326,"day":16,"hour":18}
+{"time":20,"number":1,"name":"Small pennant","cost":403,"day":16,"hour":18}
+{"time":57,"number":1,"name":"Helmet of the Horseman","cost":1431,"day":16,"hour":18}
+{"time":3,"number":1,"name":"Helmet of the Horseman","cost":1431,"day":16,"hour":18}
+{"time":38,"number":5,"name":"Small Bandage","cost":226,"day":16,"hour":18}
+{"time":23,"number":50,"name":"Ointment","cost":7001,"day":16,"hour":18}
+{"time":17,"number":5,"name":"Cage","cost":1901,"day":16,"hour":19}
+{"time":16,"number":1,"name":"Book of Wisdom","cost":933,"day":16,"hour":19}
+{"time":14,"number":5,"name":"Cage","cost":1374,"day":16,"hour":19}
+{"time":35,"number":1,"name":"Artwork","cost":15500,"day":16,"hour":19}
+{"time":15,"number":1,"name":"Helmet of the Mercenary","cost":778,"day":16,"hour":19}
+{"time":51,"number":5,"name":"Cage","cost":2001,"day":16,"hour":19}
+{"time":0,"number":5,"name":"Cage","cost":2001,"day":16,"hour":19}
+{"time":9,"number":1,"name":"Book of Wisdom","cost":1000,"day":16,"hour":19}
+{"time":59,"number":5,"name":"Cage","cost":1300,"day":16,"hour":19}
+{"time":6,"number":5,"name":"Cage","cost":1444,"day":16,"hour":19}
+{"time":16,"number":10,"name":"Cage","cost":2444,"day":16,"hour":19}
+{"time":27,"number":5,"name":"Ointment","cost":740,"day":16,"hour":20}
+{"time":37,"number":5,"name":"Cage","cost":800,"day":16,"hour":20}
+{"time":43,"number":1,"name":"Short sword of the Imperatoris","cost":6000,"day":16,"hour":20}
+{"time":53,"number":30,"name":"Ointment","cost":7501,"day":16,"hour":20}
+{"time":0,"number":30,"name":"Ointment","cost":7501,"day":16,"hour":20}
+{"time":14,"number":1,"name":"Bucket","cost":4502,"day":16,"hour":20}
+{"time":36,"number":30,"name":"Scroll","cost":23001,"day":16,"hour":20}
+{"time":38,"number":10,"name":"Ointment","cost":885,"day":16,"hour":20}
+{"time":54,"number":30,"name":"Scroll","cost":25001,"day":16,"hour":20}
+{"time":0,"number":30,"name":"Scroll","cost":25001,"day":16,"hour":20}
+{"time":32,"number":10,"name":"Ointment","cost":1112,"day":16,"hour":21}
+{"time":51,"number":5,"name":"Cage","cost":1574,"day":16,"hour":21}
+{"time":0,"number":5,"name":"Cage","cost":1574,"day":16,"hour":21}
+{"time":38,"number":5,"name":"Cage","cost":1002,"day":16,"hour":21}
+{"time":36,"number":5,"name":"Ointment","cost":700,"day":16,"hour":21}
+{"time":42,"number":10,"name":"Ointment","cost":1000,"day":16,"hour":21}
+{"time":26,"number":10,"name":"Cage","cost":2700,"day":16,"hour":21}
+{"time":30,"number":30,"name":"Ointment","cost":3000,"day":16,"hour":21}
+{"time":56,"number":10,"name":"Tablet of Law","cost":153,"day":16,"hour":21}
+{"time":2,"number":10,"name":"Tablet of Law","cost":153,"day":16,"hour":21}
+{"time":44,"number":10,"name":"Tablet of Law","cost":45,"day":16,"hour":22}
+{"time":44,"number":10,"name":"Ointment","cost":1000,"day":16,"hour":22}
+{"time":24,"number":10,"name":"Ointment","cost":1100,"day":16,"hour":22}
+{"time":11,"number":5,"name":"Small Bandage","cost":201,"day":16,"hour":22}
+{"time":29,"number":5,"name":"Cage","cost":1427,"day":16,"hour":23}
+{"time":57,"number":10,"name":"Ointment","cost":1006,"day":16,"hour":23}
+{"time":2,"number":10,"name":"Ointment","cost":1006,"day":16,"hour":23}
+{"time":22,"number":10,"name":"Ointment","cost":1001,"day":16,"hour":23}
+{"time":19,"number":5,"name":"Ointment","cost":800,"day":16,"hour":23}
+{"time":34,"number":1,"name":"Boots of Regeneration","cost":15001,"day":16,"hour":23}
+{"time":23,"number":1,"name":"Light lance of the Caesaris","cost":2101,"day":16,"hour":23}
+{"time":56,"number":5,"name":"Ointment","cost":501,"day":16,"hour":23}
+{"time":1,"number":5,"name":"Ointment","cost":501,"day":16,"hour":23}
+{"time":15,"number":1,"name":"Light lance of the Haeduan","cost":2330,"day":16,"hour":23}
+{"time":32,"number":1,"name":"Light lance of the Haeduan","cost":2935,"day":16,"hour":23}
+{"time":18,"number":10,"name":"Ointment","cost":975,"day":17,"hour":0}
+{"time":17,"number":1,"name":"Book of Wisdom","cost":1052,"day":17,"hour":2}
+{"time":7,"number":1,"name":"Book of Wisdom","cost":965,"day":17,"hour":2}
+{"time":30,"number":10,"name":"Ointment","cost":904,"day":17,"hour":2}
+{"time":26,"number":30,"name":"Ointment","cost":3511,"day":17,"hour":2}
+{"time":48,"number":5,"name":"Cage","cost":800,"day":17,"hour":3}
+{"time":22,"number":10,"name":"Ointment","cost":853,"day":17,"hour":3}
+{"time":4,"number":5,"name":"Ointment","cost":250,"day":17,"hour":3}
+{"time":47,"number":5,"name":"Scroll","cost":1200,"day":17,"hour":3}
+{"time":17,"number":5,"name":"Ointment","cost":250,"day":17,"hour":3}
+{"time":7,"number":10,"name":"Small Bandage","cost":256,"day":17,"hour":3}
+{"time":15,"number":10,"name":"Ointment","cost":500,"day":17,"hour":3}
+{"time":7,"number":1,"name":"Small horn of the Natarian","cost":101,"day":17,"hour":3}
+{"time":31,"number":10,"name":"Ointment","cost":350,"day":17,"hour":3}
+{"time":13,"number":1,"name":"Small map","cost":3500,"day":17,"hour":3}
+{"time":42,"number":10,"name":"Small Bandage","cost":523,"day":17,"hour":3}
+{"time":24,"number":10,"name":"Ointment","cost":457,"day":17,"hour":4}
+{"time":44,"number":10,"name":"Cage","cost":2831,"day":17,"hour":4}
+{"time":6,"number":5,"name":"Cage","cost":756,"day":17,"hour":4}
+{"time":58,"number":5,"name":"Ointment","cost":250,"day":17,"hour":4}
+{"time":1,"number":5,"name":"Ointment","cost":250,"day":17,"hour":4}
+{"time":51,"number":5,"name":"Ointment","cost":250,"day":17,"hour":4}
+{"time":0,"number":5,"name":"Ointment","cost":250,"day":17,"hour":4}
+{"time":42,"number":5,"name":"Cage","cost":756,"day":17,"hour":4}
+{"time":39,"number":10,"name":"Cage","cost":1571,"day":17,"hour":4}
+{"time":20,"number":10,"name":"Ointment","cost":501,"day":17,"hour":5}
+{"time":37,"number":1,"name":"Small horn of the Natarian","cost":100,"day":17,"hour":5}
+{"time":30,"number":5,"name":"Cage","cost":988,"day":17,"hour":5}
+{"time":34,"number":10,"name":"Cage","cost":1550,"day":17,"hour":5}
+{"time":47,"number":5,"name":"Cage","cost":749,"day":17,"hour":5}
+{"time":0,"number":5,"name":"Cage","cost":749,"day":17,"hour":6}
+{"time":28,"number":1,"name":"Light scale Armour","cost":4069,"day":17,"hour":6}
+{"time":10,"number":1,"name":"Small standard","cost":101,"day":17,"hour":6}
+{"time":40,"number":1,"name":"Pouch of the Thief","cost":1001,"day":17,"hour":6}
+{"time":44,"number":10,"name":"Ointment","cost":699,"day":17,"hour":6}
+{"time":16,"number":1,"name":"Book of Wisdom","cost":1002,"day":17,"hour":6}
+{"time":32,"number":5,"name":"Ointment","cost":399,"day":17,"hour":6}
+{"time":22,"number":1,"name":"Helmet of the Horseman","cost":556,"day":17,"hour":6}
+{"time":11,"number":1,"name":"Light Segmented-armour","cost":3400,"day":17,"hour":7}
+{"time":56,"number":10,"name":"Tablet of Law","cost":102,"day":17,"hour":7}
+{"time":2,"number":10,"name":"Tablet of Law","cost":102,"day":17,"hour":7}
+{"time":19,"number":1,"name":"Boots of the Mercenary","cost":1004,"day":17,"hour":9}
+{"time":40,"number":1,"name":"Helmet of the Gladiator","cost":8502,"day":17,"hour":9}
+{"time":48,"number":30,"name":"Scroll","cost":46033,"day":17,"hour":10}
+{"time":0,"number":30,"name":"Scroll","cost":46033,"day":17,"hour":10}
+{"time":13,"number":1,"name":"Small Spurs","cost":2222,"day":17,"hour":10}
+{"time":53,"number":10,"name":"Ointment","cost":1000,"day":17,"hour":10}
+{"time":0,"number":10,"name":"Ointment","cost":1000,"day":17,"hour":10}
+{"time":25,"number":10,"name":"Ointment","cost":1001,"day":17,"hour":10}
+{"time":23,"number":10,"name":"Ointment","cost":1001,"day":17,"hour":10}
+{"time":59,"number":10,"name":"Ointment","cost":334,"day":17,"hour":10}
+{"time":4,"number":10,"name":"Ointment","cost":334,"day":17,"hour":10}
+{"time":14,"number":1,"name":"Helmet of the Mercenary","cost":1900,"day":17,"hour":10}
+{"time":11,"number":1,"name":"Small shield","cost":13132,"day":17,"hour":10}
+{"time":40,"number":1,"name":"Light Segmented-armour","cost":5556,"day":17,"hour":10}
+{"time":18,"number":1,"name":"Bucket","cost":8000,"day":17,"hour":10}
+{"time":20,"number":5,"name":"Cage","cost":1501,"day":17,"hour":10}
+{"time":33,"number":1,"name":"Helmet of Awareness","cost":5044,"day":17,"hour":10}
+{"time":41,"number":10,"name":"Cage","cost":3778,"day":17,"hour":10}
+{"time":53,"number":5,"name":"Small Bandage","cost":222,"day":17,"hour":11}
+{"time":52,"number":5,"name":"Cage","cost":1439,"day":17,"hour":11}
+{"time":0,"number":5,"name":"Cage","cost":1439,"day":17,"hour":11}
+{"time":44,"number":1,"name":"Bucket","cost":3334,"day":17,"hour":11}
+{"time":46,"number":5,"name":"Small Bandage","cost":235,"day":17,"hour":11}
+{"time":23,"number":10,"name":"Ointment","cost":1501,"day":17,"hour":11}
+{"time":22,"number":10,"name":"Ointment","cost":1668,"day":17,"hour":11}
+{"time":43,"number":10,"name":"Ointment","cost":1937,"day":17,"hour":11}
+{"time":22,"number":1,"name":"Pouch of the Thief","cost":501,"day":17,"hour":11}
+{"time":37,"number":10,"name":"Ointment","cost":1989,"day":17,"hour":11}
+{"time":11,"number":1,"name":"Pouch of the Thief","cost":501,"day":17,"hour":11}
+{"time":17,"number":10,"name":"Ointment","cost":1700,"day":17,"hour":11}
+{"time":14,"number":30,"name":"Ointment","cost":4501,"day":17,"hour":11}
+{"time":43,"number":10,"name":"Ointment","cost":1968,"day":17,"hour":11}
+{"time":31,"number":10,"name":"Ointment","cost":2004,"day":17,"hour":11}
+{"time":41,"number":5,"name":"Cage","cost":1671,"day":17,"hour":11}
+{"time":44,"number":5,"name":"Ointment","cost":800,"day":17,"hour":12}
+{"time":34,"number":1,"name":"Book of Wisdom","cost":1002,"day":17,"hour":12}
+{"time":18,"number":1,"name":"Boots of Regeneration","cost":12685,"day":17,"hour":12}
+{"time":56,"number":1,"name":"Book of Wisdom","cost":999,"day":17,"hour":12}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":999,"day":17,"hour":12}
+{"time":57,"number":1,"name":"Artwork","cost":28001,"day":17,"hour":12}
+{"time":7,"number":1,"name":"Artwork","cost":28001,"day":17,"hour":12}
+{"time":6,"number":1,"name":"Small horn of the Natarian","cost":555,"day":17,"hour":12}
+{"time":36,"number":5,"name":"Ointment","cost":551,"day":17,"hour":12}
+{"time":18,"number":10,"name":"Ointment","cost":2223,"day":17,"hour":12}
+{"time":45,"number":1,"name":"Small Spurs","cost":5245,"day":17,"hour":12}
+{"time":10,"number":5,"name":"Cage","cost":2556,"day":17,"hour":12}
+{"time":21,"number":10,"name":"Cage","cost":4227,"day":17,"hour":12}
+{"time":36,"number":1,"name":"Walking-staff of the Druidrider","cost":4679,"day":17,"hour":12}
+{"time":19,"number":5,"name":"Ointment","cost":1112,"day":17,"hour":13}
+{"time":50,"number":10,"name":"Small Bandage","cost":888,"day":17,"hour":13}
+{"time":8,"number":1,"name":"Bucket","cost":6782,"day":17,"hour":13}
+{"time":32,"number":1,"name":"Bucket","cost":6782,"day":17,"hour":13}
+{"time":10,"number":10,"name":"Scroll","cost":21000,"day":17,"hour":13}
+{"time":40,"number":10,"name":"Small Bandage","cost":958,"day":17,"hour":13}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":1502,"day":17,"hour":13}
+{"time":56,"number":5,"name":"Ointment","cost":666,"day":17,"hour":13}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1502,"day":17,"hour":13}
+{"time":0,"number":5,"name":"Ointment","cost":666,"day":17,"hour":13}
+{"time":47,"number":1,"name":"Small pennant","cost":153,"day":17,"hour":13}
+{"time":25,"number":1,"name":"Small pennant","cost":720,"day":17,"hour":13}
+{"time":14,"number":1,"name":"Helmet of the Mercenary","cost":5001,"day":17,"hour":13}
+{"time":14,"number":10,"name":"Ointment","cost":2123,"day":17,"hour":13}
+{"time":25,"number":10,"name":"Ointment","cost":2213,"day":17,"hour":13}
+{"time":35,"number":10,"name":"Ointment","cost":2213,"day":17,"hour":13}
+{"time":24,"number":30,"name":"Ointment","cost":10000,"day":17,"hour":14}
+{"time":35,"number":1,"name":"Light scale Armour","cost":5000,"day":17,"hour":14}
+{"time":24,"number":30,"name":"Ointment","cost":4418,"day":17,"hour":14}
+{"time":26,"number":5,"name":"Cage","cost":3000,"day":17,"hour":14}
+{"time":47,"number":30,"name":"Ointment","cost":4872,"day":17,"hour":15}
+{"time":0,"number":30,"name":"Ointment","cost":4872,"day":17,"hour":15}
+{"time":9,"number":10,"name":"Ointment","cost":2307,"day":17,"hour":15}
+{"time":31,"number":10,"name":"Cage","cost":3446,"day":17,"hour":15}
+{"time":30,"number":1,"name":"Boots of the Mercenary","cost":1001,"day":17,"hour":15}
+{"time":43,"number":1,"name":"Bucket","cost":10001,"day":17,"hour":15}
+{"time":21,"number":1,"name":"Club of the Clubswinger","cost":15319,"day":17,"hour":18}
+{"time":58,"number":10,"name":"Ointment","cost":1255,"day":17,"hour":18}
+{"time":1,"number":10,"name":"Ointment","cost":1500,"day":17,"hour":18}
+{"time":24,"number":5,"name":"Cage","cost":999,"day":17,"hour":18}
+{"time":38,"number":1,"name":"Boots of the Mercenary","cost":551,"day":17,"hour":18}
+{"time":43,"number":5,"name":"Ointment","cost":667,"day":17,"hour":18}
+{"time":13,"number":5,"name":"Cage","cost":1457,"day":17,"hour":18}
+{"time":36,"number":5,"name":"Small Bandage","cost":333,"day":17,"hour":18}
+{"time":54,"number":5,"name":"Cage","cost":2112,"day":17,"hour":18}
+{"time":0,"number":5,"name":"Cage","cost":2112,"day":17,"hour":18}
+{"time":55,"number":1,"name":"Pouch of the Thief","cost":1000,"day":17,"hour":19}
+{"time":0,"number":1,"name":"Pouch of the Thief","cost":1000,"day":17,"hour":19}
+{"time":42,"number":10,"name":"Ointment","cost":1700,"day":17,"hour":19}
+{"time":27,"number":5,"name":"Cage","cost":1999,"day":17,"hour":19}
+{"time":33,"number":10,"name":"Ointment","cost":1868,"day":17,"hour":19}
+{"time":19,"number":5,"name":"Ointment","cost":556,"day":17,"hour":19}
+{"time":23,"number":1,"name":"Book of Wisdom","cost":1299,"day":17,"hour":19}
+{"time":22,"number":1,"name":"Book of Wisdom","cost":778,"day":17,"hour":19}
+{"time":32,"number":10,"name":"Ointment","cost":2000,"day":17,"hour":19}
+{"time":44,"number":10,"name":"Ointment","cost":1701,"day":17,"hour":19}
+{"time":35,"number":5,"name":"Cage","cost":2500,"day":17,"hour":19}
+{"time":48,"number":10,"name":"Ointment","cost":1701,"day":17,"hour":19}
+{"time":14,"number":1,"name":"Book of Wisdom","cost":1299,"day":17,"hour":19}
+{"time":38,"number":1,"name":"Small pennant","cost":183,"day":17,"hour":20}
+{"time":53,"number":5,"name":"Cage","cost":1351,"day":17,"hour":23}
+{"time":0,"number":5,"name":"Cage","cost":1351,"day":18,"hour":0}
+{"time":49,"number":5,"name":"Tablet of Law","cost":87,"day":18,"hour":0}
+{"time":0,"number":5,"name":"Tablet of Law","cost":87,"day":18,"hour":0}
+{"time":16,"number":5,"name":"Ointment","cost":475,"day":18,"hour":0}
+{"time":20,"number":1,"name":"Light lance of the Caesaris","cost":2750,"day":18,"hour":0}
+{"time":9,"number":1,"name":"Bucket","cost":9001,"day":18,"hour":0}
+{"time":21,"number":1,"name":"Helmet of the Horseman","cost":2276,"day":18,"hour":0}
+{"time":7,"number":1,"name":"Boots of Regeneration","cost":4800,"day":18,"hour":0}
+{"time":26,"number":1,"name":"Book of Wisdom","cost":851,"day":18,"hour":1}
+{"time":19,"number":1,"name":"Book of Wisdom","cost":851,"day":18,"hour":1}
+{"time":48,"number":10,"name":"Small Bandage","cost":981,"day":18,"hour":2}
+{"time":0,"number":10,"name":"Small Bandage","cost":981,"day":18,"hour":2}
+{"time":7,"number":10,"name":"Ointment","cost":1406,"day":18,"hour":2}
+{"time":11,"number":10,"name":"Ointment","cost":1102,"day":18,"hour":2}
+{"time":43,"number":5,"name":"Cage","cost":4000,"day":18,"hour":2}
+{"time":17,"number":1,"name":"Book of Wisdom","cost":3000,"day":18,"hour":3}
+{"time":22,"number":1,"name":"Short sword of the Imperatoris","cost":11000,"day":18,"hour":3}
+{"time":54,"number":10,"name":"Ointment","cost":1000,"day":18,"hour":3}
+{"time":0,"number":10,"name":"Ointment","cost":1000,"day":18,"hour":3}
+{"time":52,"number":5,"name":"Cage","cost":1301,"day":18,"hour":3}
+{"time":0,"number":5,"name":"Cage","cost":1301,"day":18,"hour":3}
+{"time":7,"number":10,"name":"Ointment","cost":1000,"day":18,"hour":3}
+{"time":45,"number":1,"name":"Walking-staff of the Druidrider","cost":1598,"day":18,"hour":3}
+{"time":15,"number":5,"name":"Cage","cost":1351,"day":18,"hour":3}
+{"time":51,"number":5,"name":"Small Bandage","cost":333,"day":18,"hour":4}
+{"time":0,"number":5,"name":"Small Bandage","cost":333,"day":18,"hour":4}
+{"time":24,"number":10,"name":"Cage","cost":1888,"day":18,"hour":4}
+{"time":22,"number":10,"name":"Ointment","cost":890,"day":18,"hour":4}
+{"time":32,"number":10,"name":"Ointment","cost":937,"day":18,"hour":4}
+{"time":34,"number":5,"name":"Ointment","cost":458,"day":18,"hour":4}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":889,"day":18,"hour":4}
+{"time":58,"number":5,"name":"Tablet of Law","cost":6,"day":18,"hour":4}
+{"time":5,"number":5,"name":"Tablet of Law","cost":6,"day":18,"hour":4}
+{"time":25,"number":1,"name":"Small map","cost":2277,"day":18,"hour":5}
+{"time":53,"number":5,"name":"Cage","cost":1201,"day":18,"hour":5}
+{"time":0,"number":5,"name":"Cage","cost":1201,"day":18,"hour":5}
+{"time":54,"number":1,"name":"Book of Wisdom","cost":1051,"day":18,"hour":5}
+{"time":2,"number":1,"name":"Book of Wisdom","cost":1051,"day":18,"hour":5}
+{"time":59,"number":1,"name":"Short sword of the Legionnaire","cost":2900,"day":18,"hour":5}
+{"time":6,"number":1,"name":"Short sword of the Legionnaire","cost":2900,"day":18,"hour":5}
+{"time":40,"number":5,"name":"Cage","cost":942,"day":18,"hour":5}
+{"time":52,"number":5,"name":"Cage","cost":756,"day":18,"hour":5}
+{"time":55,"number":10,"name":"Scroll","cost":22066,"day":18,"hour":5}
+{"time":0,"number":5,"name":"Cage","cost":756,"day":18,"hour":5}
+{"time":0,"number":10,"name":"Scroll","cost":22066,"day":18,"hour":5}
+{"time":11,"number":1,"name":"Artwork","cost":13500,"day":18,"hour":5}
+{"time":57,"number":5,"name":"Cage","cost":756,"day":18,"hour":6}
+{"time":3,"number":5,"name":"Cage","cost":756,"day":18,"hour":6}
+{"time":10,"number":5,"name":"Cage","cost":1001,"day":18,"hour":6}
+{"time":43,"number":10,"name":"Ointment","cost":1118,"day":18,"hour":6}
+{"time":16,"number":5,"name":"Cage","cost":756,"day":18,"hour":6}
+{"time":26,"number":5,"name":"Ointment","cost":667,"day":18,"hour":6}
+{"time":54,"number":10,"name":"Ointment","cost":876,"day":18,"hour":6}
+{"time":0,"number":10,"name":"Ointment","cost":876,"day":18,"hour":6}
+{"time":56,"number":1,"name":"Small horn of the Natarian","cost":102,"day":18,"hour":6}
+{"time":2,"number":1,"name":"Small horn of the Natarian","cost":102,"day":18,"hour":6}
+{"time":53,"number":5,"name":"Ointment","cost":651,"day":18,"hour":7}
+{"time":0,"number":5,"name":"Ointment","cost":651,"day":18,"hour":7}
+{"time":15,"number":1,"name":"Artwork","cost":15000,"day":18,"hour":7}
+{"time":51,"number":10,"name":"Ointment","cost":1301,"day":18,"hour":7}
+{"time":6,"number":5,"name":"Cage","cost":1200,"day":18,"hour":7}
+{"time":31,"number":10,"name":"Ointment","cost":1303,"day":18,"hour":7}
+{"time":12,"number":5,"name":"Small Bandage","cost":515,"day":18,"hour":7}
+{"time":9,"number":5,"name":"Cage","cost":1200,"day":18,"hour":7}
+{"time":55,"number":1,"name":"Small map","cost":789,"day":18,"hour":7}
+{"time":0,"number":1,"name":"Small map","cost":789,"day":18,"hour":7}
+{"time":37,"number":5,"name":"Ointment","cost":778,"day":18,"hour":7}
+{"time":39,"number":1,"name":"Book of Wisdom","cost":789,"day":18,"hour":8}
+{"time":43,"number":10,"name":"Ointment","cost":1502,"day":18,"hour":12}
+{"time":45,"number":10,"name":"Ointment","cost":1502,"day":18,"hour":12}
+{"time":46,"number":5,"name":"Cage","cost":2001,"day":18,"hour":12}
+{"time":24,"number":5,"name":"Cage","cost":2751,"day":18,"hour":12}
+{"time":24,"number":1,"name":"Bucket","cost":6555,"day":18,"hour":12}
+{"time":10,"number":5,"name":"Cage","cost":1455,"day":18,"hour":12}
+{"time":33,"number":10,"name":"Ointment","cost":1501,"day":18,"hour":13}
+{"time":10,"number":10,"name":"Cage","cost":5002,"day":18,"hour":13}
+{"time":2,"number":5,"name":"Ointment","cost":801,"day":18,"hour":13}
+{"time":45,"number":10,"name":"Ointment","cost":2050,"day":18,"hour":13}
+{"time":21,"number":5,"name":"Ointment","cost":901,"day":18,"hour":13}
+{"time":19,"number":1,"name":"Small map","cost":1100,"day":18,"hour":13}
+{"time":24,"number":30,"name":"Ointment","cost":7345,"day":18,"hour":14}
+{"time":26,"number":10,"name":"Ointment","cost":1356,"day":18,"hour":14}
+{"time":29,"number":10,"name":"Small Bandage","cost":751,"day":18,"hour":14}
+{"time":31,"number":10,"name":"Ointment","cost":1800,"day":18,"hour":14}
+{"time":45,"number":5,"name":"Ointment","cost":1000,"day":18,"hour":14}
+{"time":44,"number":5,"name":"Cage","cost":3001,"day":18,"hour":14}
+{"time":43,"number":5,"name":"Cage","cost":3001,"day":18,"hour":14}
+{"time":57,"number":5,"name":"Cage","cost":3001,"day":18,"hour":14}
+{"time":1,"number":5,"name":"Cage","cost":3001,"day":18,"hour":14}
+{"time":5,"number":10,"name":"Ointment","cost":2401,"day":18,"hour":14}
+{"time":48,"number":10,"name":"Cage","cost":6001,"day":18,"hour":14}
+{"time":40,"number":1,"name":"Book of Wisdom","cost":1502,"day":18,"hour":14}
+{"time":59,"number":10,"name":"Ointment","cost":2202,"day":18,"hour":14}
+{"time":6,"number":10,"name":"Ointment","cost":2202,"day":18,"hour":14}
+{"time":18,"number":5,"name":"Ointment","cost":801,"day":18,"hour":14}
+{"time":34,"number":10,"name":"Ointment","cost":2000,"day":18,"hour":14}
+{"time":38,"number":10,"name":"Small Bandage","cost":899,"day":18,"hour":14}
+{"time":46,"number":5,"name":"Cage","cost":2700,"day":18,"hour":14}
+{"time":46,"number":30,"name":"Scroll","cost":41023,"day":18,"hour":14}
+{"time":25,"number":5,"name":"Ointment","cost":1250,"day":18,"hour":14}
+{"time":40,"number":10,"name":"Ointment","cost":2302,"day":18,"hour":14}
+{"time":35,"number":1,"name":"Bucket","cost":7051,"day":18,"hour":14}
+{"time":24,"number":10,"name":"Ointment","cost":1603,"day":18,"hour":14}
+{"time":54,"number":10,"name":"Cage","cost":6900,"day":18,"hour":14}
+{"time":0,"number":10,"name":"Cage","cost":6900,"day":18,"hour":14}
+{"time":58,"number":5,"name":"Cage","cost":2500,"day":18,"hour":15}
+{"time":4,"number":5,"name":"Cage","cost":2500,"day":18,"hour":15}
+{"time":32,"number":10,"name":"Small Bandage","cost":699,"day":18,"hour":15}
+{"time":28,"number":5,"name":"Cage","cost":2201,"day":18,"hour":15}
+{"time":46,"number":5,"name":"Scroll","cost":7001,"day":18,"hour":15}
+{"time":57,"number":10,"name":"Ointment","cost":2203,"day":18,"hour":15}
+{"time":12,"number":10,"name":"Ointment","cost":2203,"day":18,"hour":15}
+{"time":21,"number":1,"name":"Small pennant","cost":184,"day":18,"hour":15}
+{"time":4,"number":30,"name":"Scroll","cost":47501,"day":18,"hour":15}
+{"time":6,"number":1,"name":"Book of Wisdom","cost":1300,"day":18,"hour":15}
+{"time":40,"number":10,"name":"Ointment","cost":2103,"day":18,"hour":15}
+{"time":8,"number":50,"name":"Ointment","cost":12001,"day":18,"hour":15}
+{"time":33,"number":5,"name":"Ointment","cost":668,"day":18,"hour":15}
+{"time":39,"number":10,"name":"Ointment","cost":2000,"day":18,"hour":15}
+{"time":40,"number":1,"name":"Book of Wisdom","cost":999,"day":18,"hour":15}
+{"time":47,"number":1,"name":"Book of Wisdom","cost":1251,"day":18,"hour":15}
+{"time":34,"number":10,"name":"Ointment","cost":1099,"day":18,"hour":15}
+{"time":34,"number":10,"name":"Ointment","cost":700,"day":18,"hour":15}
+{"time":53,"number":10,"name":"Ointment","cost":1099,"day":18,"hour":15}
+{"time":0,"number":10,"name":"Ointment","cost":1099,"day":18,"hour":15}
+{"time":29,"number":5,"name":"Cage","cost":2301,"day":18,"hour":15}
+{"time":38,"number":5,"name":"Cage","cost":2301,"day":18,"hour":15}
+{"time":32,"number":5,"name":"Cage","cost":2301,"day":18,"hour":15}
+{"time":12,"number":5,"name":"Ointment","cost":563,"day":18,"hour":15}
+{"time":28,"number":10,"name":"Ointment","cost":899,"day":18,"hour":15}
+{"time":52,"number":5,"name":"Cage","cost":2301,"day":18,"hour":16}
+{"time":58,"number":5,"name":"Small Bandage","cost":767,"day":18,"hour":16}
+{"time":14,"number":5,"name":"Cage","cost":2301,"day":18,"hour":16}
+{"time":20,"number":5,"name":"Small Bandage","cost":767,"day":18,"hour":16}
+{"time":48,"number":10,"name":"Small Bandage","cost":955,"day":19,"hour":1}
+{"time":0,"number":10,"name":"Small Bandage","cost":955,"day":19,"hour":1}
+{"time":50,"number":1,"name":"Helmet of Regeneration","cost":5001,"day":19,"hour":1}
+{"time":0,"number":1,"name":"Helmet of Regeneration","cost":5001,"day":19,"hour":1}
+{"time":14,"number":10,"name":"Ointment","cost":1212,"day":19,"hour":1}
+{"time":13,"number":1,"name":"Small standard","cost":100,"day":19,"hour":2}
+{"time":12,"number":10,"name":"Ointment","cost":1553,"day":19,"hour":2}
+{"time":39,"number":1,"name":"Book of Wisdom","cost":1051,"day":19,"hour":2}
+{"time":50,"number":5,"name":"Cage","cost":1200,"day":19,"hour":2}
+{"time":0,"number":5,"name":"Cage","cost":1200,"day":19,"hour":2}
+{"time":57,"number":1,"name":"Helmet of the Horseman","cost":126,"day":19,"hour":2}
+{"time":11,"number":1,"name":"Helmet of the Horseman","cost":126,"day":19,"hour":2}
+{"time":57,"number":1,"name":"Book of Wisdom","cost":1301,"day":19,"hour":2}
+{"time":2,"number":1,"name":"Book of Wisdom","cost":1301,"day":19,"hour":2}
+{"time":45,"number":10,"name":"Ointment","cost":1356,"day":19,"hour":2}
+{"time":49,"number":5,"name":"Cage","cost":1201,"day":19,"hour":3}
+{"time":0,"number":5,"name":"Cage","cost":1201,"day":19,"hour":3}
+{"time":38,"number":10,"name":"Ointment","cost":1439,"day":19,"hour":3}
+{"time":12,"number":10,"name":"Ointment","cost":1212,"day":19,"hour":3}
+{"time":41,"number":5,"name":"Ointment","cost":700,"day":19,"hour":3}
+{"time":50,"number":5,"name":"Ointment","cost":700,"day":19,"hour":3}
+{"time":0,"number":5,"name":"Ointment","cost":700,"day":19,"hour":3}
+{"time":16,"number":10,"name":"Scroll","cost":12069,"day":19,"hour":3}
+{"time":38,"number":1,"name":"Artwork","cost":12218,"day":19,"hour":3}
+{"time":30,"number":10,"name":"Ointment","cost":1000,"day":19,"hour":4}
+{"time":9,"number":10,"name":"Cage","cost":2457,"day":19,"hour":4}
+{"time":13,"number":1,"name":"Small standard","cost":100,"day":19,"hour":4}
+{"time":48,"number":10,"name":"Cage","cost":1968,"day":19,"hour":4}
+{"time":10,"number":1,"name":"Light scale Armour","cost":5001,"day":19,"hour":4}
+{"time":38,"number":1,"name":"Bucket","cost":4445,"day":19,"hour":5}
+{"time":14,"number":5,"name":"Cage","cost":1501,"day":19,"hour":5}
+{"time":19,"number":5,"name":"Cage","cost":1501,"day":19,"hour":6}
+{"time":40,"number":1,"name":"Book of Wisdom","cost":1301,"day":19,"hour":6}
+{"time":5,"number":1,"name":"Small pennant","cost":756,"day":19,"hour":6}
+{"time":26,"number":10,"name":"Ointment","cost":1865,"day":19,"hour":6}
+{"time":11,"number":5,"name":"Cage","cost":1501,"day":19,"hour":6}
+{"time":21,"number":30,"name":"Ointment","cost":3001,"day":19,"hour":6}
+{"time":43,"number":5,"name":"Ointment","cost":500,"day":19,"hour":7}
+{"time":7,"number":5,"name":"Ointment","cost":550,"day":19,"hour":7}
+{"time":9,"number":10,"name":"Ointment","cost":1000,"day":19,"hour":7}
+{"time":19,"number":5,"name":"Small Bandage","cost":501,"day":19,"hour":7}
+{"time":17,"number":5,"name":"Ointment","cost":556,"day":19,"hour":7}
+{"time":12,"number":1,"name":"Artwork","cost":9987,"day":19,"hour":7}
+{"time":19,"number":10,"name":"Cage","cost":2400,"day":19,"hour":8}
+{"time":22,"number":5,"name":"Small Bandage","cost":800,"day":19,"hour":8}
+{"time":25,"number":1,"name":"Small map","cost":1502,"day":19,"hour":8}
+{"time":41,"number":5,"name":"Tablet of Law","cost":202,"day":19,"hour":8}
+{"time":55,"number":10,"name":"Ointment","cost":2050,"day":19,"hour":8}
+{"time":57,"number":1,"name":"Pouch of the Thief","cost":550,"day":19,"hour":8}
+{"time":0,"number":10,"name":"Ointment","cost":2050,"day":19,"hour":8}
+{"time":2,"number":1,"name":"Pouch of the Thief","cost":550,"day":19,"hour":8}
+{"time":7,"number":5,"name":"Cage","cost":1500,"day":19,"hour":8}
+{"time":50,"number":1,"name":"Book of Wisdom","cost":1303,"day":19,"hour":8}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1303,"day":19,"hour":8}
+{"time":59,"number":10,"name":"Small Bandage","cost":1501,"day":19,"hour":8}
+{"time":1,"number":10,"name":"Small Bandage","cost":1501,"day":19,"hour":8}
+{"time":31,"number":5,"name":"Ointment","cost":667,"day":19,"hour":8}
+{"time":38,"number":1,"name":"Helmet of Awareness","cost":3506,"day":19,"hour":8}
+{"time":48,"number":10,"name":"Ointment","cost":2204,"day":19,"hour":8}
+{"time":9,"number":5,"name":"Ointment","cost":1000,"day":19,"hour":9}
+{"time":29,"number":10,"name":"Ointment","cost":2218,"day":19,"hour":9}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":727,"day":19,"hour":9}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":727,"day":19,"hour":9}
+{"time":41,"number":10,"name":"Ointment","cost":1683,"day":19,"hour":9}
+{"time":10,"number":10,"name":"Small Bandage","cost":1400,"day":19,"hour":9}
+{"time":23,"number":10,"name":"Ointment","cost":2215,"day":19,"hour":9}
+{"time":26,"number":5,"name":"Cage","cost":1834,"day":19,"hour":9}
+{"time":28,"number":5,"name":"Ointment","cost":1126,"day":19,"hour":9}
+{"time":31,"number":5,"name":"Ointment","cost":668,"day":19,"hour":10}
+{"time":47,"number":5,"name":"Ointment","cost":668,"day":19,"hour":10}
+{"time":45,"number":5,"name":"Ointment","cost":1082,"day":19,"hour":10}
+{"time":50,"number":10,"name":"Small Bandage","cost":513,"day":19,"hour":10}
+{"time":0,"number":10,"name":"Small Bandage","cost":513,"day":19,"hour":10}
+{"time":54,"number":5,"name":"Ointment","cost":778,"day":19,"hour":10}
+{"time":0,"number":5,"name":"Ointment","cost":778,"day":19,"hour":10}
+{"time":55,"number":1,"name":"Light scale Armour","cost":5200,"day":19,"hour":10}
+{"time":0,"number":1,"name":"Light scale Armour","cost":5200,"day":19,"hour":10}
+{"time":43,"number":5,"name":"Cage","cost":2500,"day":19,"hour":10}
+{"time":43,"number":10,"name":"Ointment","cost":1501,"day":19,"hour":10}
+{"time":9,"number":10,"name":"Ointment","cost":1501,"day":19,"hour":11}
+{"time":17,"number":5,"name":"Ointment","cost":668,"day":19,"hour":11}
+{"time":58,"number":50,"name":"Ointment","cost":6515,"day":19,"hour":11}
+{"time":1,"number":50,"name":"Ointment","cost":6515,"day":19,"hour":11}
+{"time":26,"number":5,"name":"Scroll","cost":5001,"day":19,"hour":11}
+{"time":49,"number":30,"name":"Scroll","cost":30224,"day":19,"hour":11}
+{"time":3,"number":30,"name":"Scroll","cost":30224,"day":19,"hour":11}
+{"time":10,"number":5,"name":"Ointment","cost":668,"day":19,"hour":11}
+{"time":28,"number":10,"name":"Cage","cost":2046,"day":19,"hour":11}
+{"time":44,"number":5,"name":"Ointment","cost":669,"day":19,"hour":11}
+{"time":0,"number":5,"name":"Ointment","cost":669,"day":19,"hour":11}
+{"time":55,"number":1,"name":"Bucket","cost":10001,"day":19,"hour":11}
+{"time":2,"number":1,"name":"Bucket","cost":10001,"day":19,"hour":11}
+{"time":12,"number":1,"name":"Book of Wisdom","cost":1200,"day":19,"hour":11}
+{"time":49,"number":5,"name":"Ointment","cost":778,"day":19,"hour":11}
+{"time":3,"number":5,"name":"Ointment","cost":780,"day":19,"hour":11}
+{"time":13,"number":10,"name":"Small Bandage","cost":780,"day":19,"hour":11}
+{"time":52,"number":10,"name":"Ointment","cost":1601,"day":19,"hour":11}
+{"time":0,"number":10,"name":"Ointment","cost":1601,"day":19,"hour":11}
+{"time":40,"number":1,"name":"Artwork","cost":11112,"day":19,"hour":12}
+{"time":5,"number":10,"name":"Ointment","cost":1601,"day":19,"hour":12}
+{"time":43,"number":1,"name":"Helmet of the Mercenary","cost":300,"day":19,"hour":12}
+{"time":44,"number":10,"name":"Ointment","cost":2001,"day":19,"hour":12}
+{"time":36,"number":5,"name":"Cage","cost":1023,"day":19,"hour":12}
+{"time":43,"number":1,"name":"Book of Wisdom","cost":1301,"day":19,"hour":12}
+{"time":39,"number":10,"name":"Ointment","cost":1403,"day":19,"hour":12}
+{"time":39,"number":10,"name":"Ointment","cost":1403,"day":19,"hour":12}
+{"time":13,"number":1,"name":"Small Spurs","cost":1866,"day":19,"hour":12}
+{"time":21,"number":5,"name":"Cage","cost":1023,"day":19,"hour":12}
+{"time":47,"number":1,"name":"Book of Wisdom","cost":2002,"day":19,"hour":12}
+{"time":6,"number":5,"name":"Cage","cost":2222,"day":19,"hour":12}
+{"time":29,"number":10,"name":"Cage","cost":2222,"day":19,"hour":12}
+{"time":14,"number":10,"name":"Ointment","cost":1701,"day":19,"hour":13}
+{"time":20,"number":5,"name":"Cage","cost":2222,"day":19,"hour":13}
+{"time":57,"number":5,"name":"Cage","cost":2223,"day":19,"hour":13}
+{"time":58,"number":5,"name":"Cage","cost":2223,"day":19,"hour":13}
+{"time":3,"number":5,"name":"Cage","cost":2223,"day":19,"hour":13}
+{"time":4,"number":5,"name":"Cage","cost":2223,"day":19,"hour":13}
+{"time":17,"number":1,"name":"Book of Wisdom","cost":1552,"day":19,"hour":13}
+{"time":16,"number":1,"name":"Pouch of the Thief","cost":2223,"day":19,"hour":13}
+{"time":15,"number":1,"name":"Bucket","cost":9001,"day":19,"hour":13}
+{"time":36,"number":10,"name":"Ointment","cost":2026,"day":19,"hour":13}
+{"time":47,"number":1,"name":"Book of Wisdom","cost":2201,"day":19,"hour":13}
+{"time":49,"number":5,"name":"Cage","cost":2041,"day":19,"hour":13}
+{"time":0,"number":5,"name":"Cage","cost":2041,"day":19,"hour":13}
+{"time":22,"number":10,"name":"Small Bandage","cost":1461,"day":19,"hour":13}
+{"time":18,"number":5,"name":"Small Bandage","cost":1001,"day":19,"hour":13}
+{"time":42,"number":1,"name":"Book of Wisdom","cost":1100,"day":19,"hour":13}
+{"time":28,"number":5,"name":"Ointment","cost":815,"day":19,"hour":13}
+{"time":37,"number":50,"name":"Ointment","cost":12000,"day":19,"hour":13}
+{"time":54,"number":1,"name":"Small standard","cost":139,"day":19,"hour":13}
+{"time":0,"number":1,"name":"Small standard","cost":139,"day":19,"hour":13}
+{"time":57,"number":5,"name":"Cage","cost":2041,"day":19,"hour":14}
+{"time":2,"number":5,"name":"Cage","cost":2041,"day":19,"hour":14}
+{"time":51,"number":10,"name":"Ointment","cost":1465,"day":19,"hour":14}
+{"time":0,"number":10,"name":"Ointment","cost":1465,"day":19,"hour":14}
+{"time":30,"number":10,"name":"Ointment","cost":1465,"day":19,"hour":14}
+{"time":0,"number":10,"name":"Ointment","cost":1502,"day":19,"hour":14}
+{"time":16,"number":10,"name":"Ointment","cost":1466,"day":19,"hour":14}
+{"time":29,"number":5,"name":"Cage","cost":1561,"day":19,"hour":14}
+{"time":43,"number":5,"name":"Ointment","cost":1000,"day":19,"hour":14}
+{"time":34,"number":1,"name":"Helmet of the Horseman","cost":1000,"day":19,"hour":14}
+{"time":18,"number":5,"name":"Ointment","cost":1000,"day":19,"hour":14}
+{"time":48,"number":1,"name":"Artwork","cost":12218,"day":19,"hour":14}
+{"time":20,"number":1,"name":"Artwork","cost":9299,"day":19,"hour":14}
+{"time":26,"number":1,"name":"Book of Wisdom","cost":555,"day":19,"hour":14}
+{"time":44,"number":5,"name":"Cage","cost":801,"day":19,"hour":14}
+{"time":4,"number":5,"name":"Scroll","cost":6069,"day":19,"hour":14}
+{"time":6,"number":50,"name":"Ointment","cost":10990,"day":19,"hour":14}
+{"time":30,"number":10,"name":"Ointment","cost":1050,"day":19,"hour":14}
+{"time":55,"number":10,"name":"Ointment","cost":1446,"day":19,"hour":15}
+{"time":0,"number":10,"name":"Ointment","cost":1446,"day":19,"hour":15}
+{"time":0,"number":10,"name":"Ointment","cost":1501,"day":19,"hour":15}
+{"time":45,"number":10,"name":"Cage","cost":1217,"day":19,"hour":15}
+{"time":55,"number":10,"name":"Ointment","cost":1424,"day":19,"hour":15}
+{"time":57,"number":5,"name":"Cage","cost":757,"day":19,"hour":15}
+{"time":1,"number":10,"name":"Ointment","cost":1424,"day":19,"hour":15}
+{"time":2,"number":5,"name":"Cage","cost":757,"day":19,"hour":15}
+{"time":15,"number":10,"name":"Small Bandage","cost":868,"day":19,"hour":15}
+{"time":31,"number":10,"name":"Cage","cost":2196,"day":19,"hour":15}
+{"time":8,"number":1,"name":"Armour of Regeneration","cost":17000,"day":19,"hour":15}
+{"time":23,"number":10,"name":"Scroll","cost":3334,"day":19,"hour":15}
+{"time":43,"number":10,"name":"Ointment","cost":2247,"day":19,"hour":15}
+{"time":34,"number":30,"name":"Ointment","cost":7240,"day":19,"hour":16}
+{"time":34,"number":5,"name":"Scroll","cost":1112,"day":19,"hour":16}
+{"time":9,"number":5,"name":"Small Bandage","cost":500,"day":19,"hour":16}
+{"time":44,"number":5,"name":"Small Bandage","cost":628,"day":19,"hour":16}
+{"time":35,"number":5,"name":"Ointment","cost":615,"day":19,"hour":16}
+{"time":58,"number":10,"name":"Cage","cost":2001,"day":19,"hour":16}
+{"time":13,"number":10,"name":"Cage","cost":2001,"day":19,"hour":16}
+{"time":28,"number":1,"name":"Artwork","cost":8388,"day":19,"hour":16}
+{"time":47,"number":30,"name":"Scroll","cost":12121,"day":19,"hour":16}
+{"time":8,"number":10,"name":"Ointment","cost":1700,"day":19,"hour":16}
+{"time":23,"number":30,"name":"Scroll","cost":12111,"day":19,"hour":16}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":843,"day":19,"hour":16}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":843,"day":19,"hour":16}
+{"time":14,"number":10,"name":"Small Bandage","cost":868,"day":19,"hour":17}
+{"time":31,"number":10,"name":"Ointment","cost":2101,"day":19,"hour":17}
+{"time":23,"number":1,"name":"Artwork","cost":9300,"day":19,"hour":17}
+{"time":57,"number":5,"name":"Ointment","cost":651,"day":19,"hour":17}
+{"time":1,"number":5,"name":"Ointment","cost":700,"day":19,"hour":17}
+{"time":5,"number":5,"name":"Ointment","cost":725,"day":19,"hour":17}
+{"time":30,"number":5,"name":"Ointment","cost":725,"day":19,"hour":17}
+{"time":50,"number":5,"name":"Tablet of Law","cost":51,"day":19,"hour":17}
+{"time":38,"number":5,"name":"Tablet of Law","cost":56,"day":19,"hour":17}
+{"time":58,"number":1,"name":"Short sword of the Praetorian","cost":1463,"day":19,"hour":17}
+{"time":3,"number":1,"name":"Short sword of the Praetorian","cost":1463,"day":19,"hour":17}
+{"time":16,"number":5,"name":"Ointment","cost":801,"day":19,"hour":17}
+{"time":47,"number":5,"name":"Ointment","cost":778,"day":19,"hour":17}
+{"time":36,"number":5,"name":"Ointment","cost":851,"day":19,"hour":17}
+{"time":27,"number":10,"name":"Ointment","cost":1259,"day":19,"hour":17}
+{"time":38,"number":5,"name":"Cage","cost":1363,"day":19,"hour":17}
+{"time":0,"number":5,"name":"Cage","cost":1363,"day":19,"hour":17}
+{"time":53,"number":1,"name":"Helmet of Regeneration","cost":8727,"day":19,"hour":17}
+{"time":26,"number":1,"name":"Helmet of Regeneration","cost":8727,"day":19,"hour":17}
+{"time":8,"number":1,"name":"Helmet of Regeneration","cost":8727,"day":19,"hour":17}
+{"time":19,"number":10,"name":"Cage","cost":3501,"day":19,"hour":18}
+{"time":30,"number":10,"name":"Cage","cost":3801,"day":19,"hour":18}
+{"time":34,"number":5,"name":"Ointment","cost":778,"day":19,"hour":18}
+{"time":3,"number":5,"name":"Ointment","cost":551,"day":19,"hour":18}
+{"time":25,"number":10,"name":"Ointment","cost":1011,"day":19,"hour":18}
+{"time":35,"number":5,"name":"Ointment","cost":431,"day":19,"hour":18}
+{"time":0,"number":5,"name":"Small Bandage","cost":667,"day":19,"hour":18}
+{"time":56,"number":1,"name":"Book of Wisdom","cost":3334,"day":19,"hour":18}
+{"time":29,"number":1,"name":"Book of Wisdom","cost":3334,"day":19,"hour":18}
+{"time":6,"number":1,"name":"Light Segmented-armour","cost":4954,"day":19,"hour":19}
+{"time":36,"number":1,"name":"Hatchet of the Axeman","cost":5621,"day":19,"hour":19}
+{"time":30,"number":30,"name":"Ointment","cost":8000,"day":19,"hour":19}
+{"time":54,"number":1,"name":"Small shield","cost":16867,"day":19,"hour":19}
+{"time":0,"number":1,"name":"Small shield","cost":16867,"day":19,"hour":19}
+{"time":16,"number":1,"name":"Book of Wisdom","cost":1800,"day":19,"hour":19}
+{"time":21,"number":50,"name":"Ointment","cost":10001,"day":19,"hour":19}
+{"time":52,"number":1,"name":"Light Segmented-armour","cost":4374,"day":19,"hour":19}
+{"time":0,"number":1,"name":"Light Segmented-armour","cost":4374,"day":19,"hour":19}
+{"time":9,"number":10,"name":"Small Bandage","cost":1500,"day":19,"hour":20}
+{"time":59,"number":10,"name":"Ointment","cost":1001,"day":19,"hour":20}
+{"time":4,"number":10,"name":"Ointment","cost":1001,"day":19,"hour":20}
+{"time":19,"number":5,"name":"Small Bandage","cost":636,"day":19,"hour":20}
+{"time":16,"number":5,"name":"Tablet of Law","cost":36,"day":19,"hour":20}
+{"time":7,"number":10,"name":"Ointment","cost":1400,"day":19,"hour":20}
+{"time":0,"number":5,"name":"Cage","cost":2500,"day":19,"hour":21}
+{"time":57,"number":5,"name":"Ointment","cost":672,"day":19,"hour":21}
+{"time":0,"number":5,"name":"Ointment","cost":672,"day":19,"hour":21}
+{"time":17,"number":1,"name":"Small pennant","cost":401,"day":19,"hour":21}
+{"time":26,"number":5,"name":"Ointment","cost":900,"day":19,"hour":21}
+{"time":43,"number":10,"name":"Ointment","cost":1750,"day":19,"hour":21}
+{"time":0,"number":10,"name":"Ointment","cost":1750,"day":19,"hour":21}
+{"time":35,"number":5,"name":"Tablet of Law","cost":28,"day":19,"hour":22}
+{"time":47,"number":1,"name":"Bucket","cost":10001,"day":19,"hour":22}
+{"time":44,"number":5,"name":"Tablet of Law","cost":103,"day":19,"hour":23}
+{"time":5,"number":5,"name":"Small Bandage","cost":636,"day":19,"hour":23}
+{"time":25,"number":10,"name":"Cage","cost":4000,"day":19,"hour":23}
+{"time":14,"number":1,"name":"Helmet of the Horseman","cost":1004,"day":19,"hour":23}
+{"time":51,"number":1,"name":"Book of Wisdom","cost":4002,"day":20,"hour":0}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":4002,"day":20,"hour":0}
+{"time":10,"number":10,"name":"Ointment","cost":1700,"day":20,"hour":0}
+{"time":20,"number":1,"name":"Helmet of the Horseman","cost":556,"day":20,"hour":0}
+{"time":39,"number":1,"name":"Bucket","cost":5556,"day":20,"hour":0}
+{"time":13,"number":10,"name":"Ointment","cost":1401,"day":20,"hour":0}
+{"time":34,"number":1,"name":"Small pennant","cost":335,"day":20,"hour":1}
+{"time":31,"number":10,"name":"Cage","cost":3246,"day":20,"hour":1}
+{"time":46,"number":10,"name":"Ointment","cost":1437,"day":20,"hour":2}
+{"time":59,"number":10,"name":"Cage","cost":4001,"day":20,"hour":2}
+{"time":1,"number":10,"name":"Cage","cost":4001,"day":20,"hour":2}
+{"time":46,"number":1,"name":"Light Breast-plate","cost":11227,"day":20,"hour":2}
+{"time":59,"number":10,"name":"Small Bandage","cost":1002,"day":20,"hour":2}
+{"time":3,"number":10,"name":"Small Bandage","cost":1002,"day":20,"hour":2}
+{"time":5,"number":1,"name":"Helmet of the Mercenary","cost":3001,"day":20,"hour":2}
+{"time":59,"number":5,"name":"Tablet of Law","cost":333,"day":20,"hour":2}
+{"time":4,"number":5,"name":"Tablet of Law","cost":333,"day":20,"hour":2}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":1751,"day":20,"hour":3}
+{"time":26,"number":1,"name":"Armour of Regeneration","cost":12100,"day":20,"hour":3}
+{"time":47,"number":5,"name":"Ointment","cost":701,"day":20,"hour":3}
+{"time":38,"number":1,"name":"Book of Wisdom","cost":1698,"day":20,"hour":3}
+{"time":54,"number":10,"name":"Tablet of Law","cost":300,"day":20,"hour":3}
+{"time":1,"number":10,"name":"Tablet of Law","cost":300,"day":20,"hour":3}
+{"time":23,"number":30,"name":"Ointment","cost":4000,"day":20,"hour":3}
+{"time":48,"number":5,"name":"Ointment","cost":501,"day":20,"hour":3}
+{"time":37,"number":10,"name":"Ointment","cost":1112,"day":20,"hour":4}
+{"time":20,"number":30,"name":"Ointment","cost":4599,"day":20,"hour":4}
+{"time":53,"number":10,"name":"Cage","cost":4201,"day":20,"hour":4}
+{"time":1,"number":10,"name":"Cage","cost":4201,"day":20,"hour":4}
+{"time":25,"number":5,"name":"Cage","cost":1101,"day":20,"hour":4}
+{"time":46,"number":1,"name":"Artwork","cost":9974,"day":20,"hour":4}
+{"time":20,"number":30,"name":"Ointment","cost":3166,"day":20,"hour":4}
+{"time":42,"number":10,"name":"Ointment","cost":1200,"day":20,"hour":4}
+{"time":48,"number":1,"name":"Light Breast-plate","cost":8387,"day":20,"hour":5}
+{"time":6,"number":10,"name":"Small Bandage","cost":1002,"day":20,"hour":5}
+{"time":21,"number":5,"name":"Cage","cost":1300,"day":20,"hour":5}
+{"time":2,"number":5,"name":"Cage","cost":1200,"day":20,"hour":5}
+{"time":26,"number":5,"name":"Cage","cost":1200,"day":20,"hour":5}
+{"time":24,"number":10,"name":"Scroll","cost":5001,"day":20,"hour":6}
+{"time":28,"number":1,"name":"Book of Wisdom","cost":1751,"day":20,"hour":6}
+{"time":39,"number":5,"name":"Ointment","cost":478,"day":20,"hour":6}
+{"time":21,"number":10,"name":"Ointment","cost":1380,"day":20,"hour":7}
+{"time":42,"number":10,"name":"Small Bandage","cost":1003,"day":20,"hour":7}
+{"time":20,"number":5,"name":"Cage","cost":1001,"day":20,"hour":7}
+{"time":30,"number":1,"name":"Book of Wisdom","cost":1699,"day":20,"hour":7}
+{"time":6,"number":10,"name":"Ointment","cost":1474,"day":20,"hour":7}
+{"time":55,"number":1,"name":"Small pennant","cost":165,"day":20,"hour":7}
+{"time":0,"number":1,"name":"Small pennant","cost":165,"day":20,"hour":7}
+{"time":38,"number":1,"name":"Spear of the Spearman","cost":3001,"day":20,"hour":7}
+{"time":0,"number":1,"name":"Spear of the Spearman","cost":3001,"day":20,"hour":7}
+{"time":9,"number":5,"name":"Tablet of Law","cost":139,"day":20,"hour":7}
+{"time":48,"number":5,"name":"Ointment","cost":626,"day":20,"hour":7}
+{"time":0,"number":5,"name":"Ointment","cost":626,"day":20,"hour":7}
+{"time":34,"number":30,"name":"Ointment","cost":3603,"day":20,"hour":7}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":1699,"day":20,"hour":7}
+{"time":0,"number":1,"name":"Walking-staff of the Druidrider","cost":2525,"day":20,"hour":8}
+{"time":21,"number":1,"name":"Book of Wisdom","cost":1005,"day":20,"hour":8}
+{"time":51,"number":1,"name":"Short-bow of the Theutates","cost":3002,"day":20,"hour":8}
+{"time":0,"number":1,"name":"Short-bow of the Theutates","cost":3002,"day":20,"hour":8}
+{"time":7,"number":30,"name":"Ointment","cost":7100,"day":20,"hour":8}
+{"time":9,"number":10,"name":"Ointment","cost":1678,"day":20,"hour":8}
+{"time":9,"number":10,"name":"Ointment","cost":1733,"day":20,"hour":8}
+{"time":25,"number":10,"name":"Ointment","cost":1966,"day":20,"hour":8}
+{"time":41,"number":10,"name":"Small Bandage","cost":899,"day":20,"hour":8}
+{"time":42,"number":5,"name":"Cage","cost":1600,"day":20,"hour":9}
+{"time":8,"number":5,"name":"Small Bandage","cost":444,"day":20,"hour":9}
+{"time":37,"number":1,"name":"Bucket","cost":3752,"day":20,"hour":9}
+{"time":42,"number":1,"name":"Short-bow of the Theutates","cost":1813,"day":20,"hour":9}
+{"time":21,"number":10,"name":"Cage","cost":3802,"day":20,"hour":9}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":1006,"day":20,"hour":9}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1006,"day":20,"hour":9}
+{"time":33,"number":10,"name":"Scroll","cost":4444,"day":20,"hour":9}
+{"time":13,"number":5,"name":"Ointment","cost":1000,"day":20,"hour":9}
+{"time":15,"number":5,"name":"Cage","cost":1501,"day":20,"hour":9}
+{"time":53,"number":5,"name":"Cage","cost":1464,"day":20,"hour":9}
+{"time":4,"number":5,"name":"Cage","cost":1464,"day":20,"hour":9}
+{"time":32,"number":5,"name":"Tablet of Law","cost":54,"day":20,"hour":9}
+{"time":49,"number":10,"name":"Ointment","cost":1666,"day":20,"hour":9}
+{"time":0,"number":10,"name":"Ointment","cost":1666,"day":20,"hour":9}
+{"time":32,"number":10,"name":"Scroll","cost":5005,"day":20,"hour":9}
+{"time":33,"number":10,"name":"Small Bandage","cost":1102,"day":20,"hour":10}
+{"time":37,"number":10,"name":"Ointment","cost":1700,"day":20,"hour":10}
+{"time":59,"number":5,"name":"Tablet of Law","cost":78,"day":20,"hour":10}
+{"time":15,"number":5,"name":"Tablet of Law","cost":78,"day":20,"hour":10}
+{"time":16,"number":1,"name":"Small pennant","cost":124,"day":20,"hour":10}
+{"time":42,"number":30,"name":"Ointment","cost":5100,"day":20,"hour":11}
+{"time":51,"number":10,"name":"Scroll","cost":5555,"day":20,"hour":11}
+{"time":0,"number":10,"name":"Scroll","cost":5555,"day":20,"hour":11}
+{"time":22,"number":1,"name":"Light Segmented-armour","cost":6450,"day":20,"hour":11}
+{"time":51,"number":5,"name":"Ointment","cost":999,"day":20,"hour":11}
+{"time":0,"number":5,"name":"Ointment","cost":999,"day":20,"hour":11}
+{"time":49,"number":5,"name":"Scroll","cost":4025,"day":20,"hour":11}
+{"time":1,"number":5,"name":"Scroll","cost":4025,"day":20,"hour":11}
+{"time":22,"number":10,"name":"Scroll","cost":6001,"day":20,"hour":11}
+{"time":33,"number":1,"name":"Light Segmented-armour","cost":6451,"day":20,"hour":11}
+{"time":23,"number":30,"name":"Ointment","cost":6000,"day":20,"hour":11}
+{"time":23,"number":10,"name":"Ointment","cost":1666,"day":20,"hour":12}
+{"time":56,"number":10,"name":"Ointment","cost":1802,"day":20,"hour":12}
+{"time":0,"number":10,"name":"Ointment","cost":1802,"day":20,"hour":12}
+{"time":35,"number":1,"name":"Book of Wisdom","cost":1752,"day":20,"hour":12}
+{"time":20,"number":10,"name":"Ointment","cost":1802,"day":20,"hour":12}
+{"time":26,"number":10,"name":"Ointment","cost":1701,"day":20,"hour":12}
+{"time":46,"number":1,"name":"Hatchet of the Axeman","cost":4231,"day":20,"hour":12}
+{"time":50,"number":10,"name":"Cage","cost":2200,"day":20,"hour":12}
+{"time":48,"number":5,"name":"Tablet of Law","cost":41,"day":20,"hour":12}
+{"time":0,"number":5,"name":"Tablet of Law","cost":41,"day":20,"hour":12}
+{"time":24,"number":10,"name":"Ointment","cost":1316,"day":20,"hour":12}
+{"time":56,"number":10,"name":"Ointment","cost":1111,"day":20,"hour":12}
+{"time":4,"number":10,"name":"Ointment","cost":1111,"day":20,"hour":12}
+{"time":47,"number":10,"name":"Ointment","cost":1111,"day":20,"hour":12}
+{"time":58,"number":5,"name":"Scroll","cost":4001,"day":20,"hour":12}
+{"time":28,"number":5,"name":"Scroll","cost":4001,"day":20,"hour":12}
+{"time":38,"number":1,"name":"Small horn of the Natarian","cost":100,"day":20,"hour":12}
+{"time":26,"number":5,"name":"Cage","cost":1112,"day":20,"hour":12}
+{"time":46,"number":1,"name":"Book of Wisdom","cost":1752,"day":20,"hour":12}
+{"time":48,"number":1,"name":"Small shield","cost":6057,"day":20,"hour":12}
+{"time":46,"number":1,"name":"Small shield","cost":10000,"day":20,"hour":13}
+{"time":0,"number":1,"name":"Small shield","cost":10000,"day":20,"hour":13}
+{"time":20,"number":1,"name":"Small pennant","cost":201,"day":20,"hour":13}
+{"time":23,"number":10,"name":"Cage","cost":2601,"day":20,"hour":13}
+{"time":39,"number":5,"name":"Tablet of Law","cost":123,"day":20,"hour":13}
+{"time":54,"number":50,"name":"Ointment","cost":6301,"day":20,"hour":13}
+{"time":52,"number":10,"name":"Cage","cost":3201,"day":20,"hour":13}
+{"time":56,"number":1,"name":"Short-bow of the Theutates","cost":1780,"day":20,"hour":13}
+{"time":15,"number":5,"name":"Scroll","cost":3501,"day":20,"hour":13}
+{"time":51,"number":10,"name":"Ointment","cost":1500,"day":20,"hour":13}
+{"time":29,"number":10,"name":"Ointment","cost":1300,"day":20,"hour":14}
+{"time":8,"number":10,"name":"Ointment","cost":1300,"day":20,"hour":14}
+{"time":51,"number":1,"name":"Book of Wisdom","cost":1753,"day":20,"hour":14}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1753,"day":20,"hour":14}
+{"time":55,"number":10,"name":"Cage","cost":3115,"day":20,"hour":14}
+{"time":0,"number":10,"name":"Cage","cost":3115,"day":20,"hour":14}
+{"time":52,"number":30,"name":"Ointment","cost":3001,"day":20,"hour":14}
+{"time":30,"number":5,"name":"Scroll","cost":2223,"day":20,"hour":14}
+{"time":49,"number":30,"name":"Ointment","cost":4700,"day":20,"hour":14}
+{"time":31,"number":1,"name":"Book of Wisdom","cost":801,"day":20,"hour":14}
+{"time":17,"number":1,"name":"Helmet of the Gladiator","cost":20001,"day":20,"hour":14}
+{"time":22,"number":10,"name":"Cage","cost":6309,"day":20,"hour":14}
+{"time":0,"number":5,"name":"Small Bandage","cost":350,"day":20,"hour":14}
+{"time":42,"number":5,"name":"Cage","cost":1050,"day":20,"hour":14}
+{"time":48,"number":10,"name":"Ointment","cost":1300,"day":20,"hour":14}
+{"time":50,"number":10,"name":"Cage","cost":2000,"day":20,"hour":14}
+{"time":25,"number":10,"name":"Ointment","cost":1001,"day":20,"hour":15}
+{"time":38,"number":1,"name":"Pouch of the Thief","cost":151,"day":20,"hour":15}
+{"time":12,"number":1,"name":"Pouch of the Thief","cost":151,"day":20,"hour":15}
+{"time":41,"number":10,"name":"Ointment","cost":1112,"day":20,"hour":15}
+{"time":48,"number":10,"name":"Ointment","cost":1001,"day":20,"hour":15}
+{"time":4,"number":10,"name":"Ointment","cost":1001,"day":20,"hour":15}
+{"time":23,"number":10,"name":"Ointment","cost":989,"day":20,"hour":15}
+{"time":20,"number":10,"name":"Ointment","cost":1001,"day":20,"hour":15}
+{"time":0,"number":10,"name":"Ointment","cost":1001,"day":20,"hour":15}
+{"time":48,"number":10,"name":"Cage","cost":2020,"day":20,"hour":15}
+{"time":15,"number":10,"name":"Cage","cost":2020,"day":20,"hour":15}
+{"time":0,"number":10,"name":"Cage","cost":2020,"day":20,"hour":15}
+{"time":42,"number":5,"name":"Small Bandage","cost":112,"day":20,"hour":15}
+{"time":40,"number":10,"name":"Cage","cost":4756,"day":20,"hour":15}
+{"time":58,"number":10,"name":"Small Bandage","cost":500,"day":20,"hour":15}
+{"time":59,"number":5,"name":"Cage","cost":1744,"day":20,"hour":15}
+{"time":6,"number":10,"name":"Small Bandage","cost":500,"day":20,"hour":15}
+{"time":7,"number":5,"name":"Cage","cost":1744,"day":20,"hour":15}
+{"time":11,"number":1,"name":"Pouch of the Thief","cost":3750,"day":20,"hour":15}
+{"time":12,"number":10,"name":"Ointment","cost":1217,"day":20,"hour":15}
+{"time":53,"number":5,"name":"Cage","cost":2002,"day":20,"hour":15}
+{"time":3,"number":5,"name":"Cage","cost":2002,"day":20,"hour":15}
+{"time":28,"number":1,"name":"Boots of Regeneration","cost":11111,"day":20,"hour":16}
+{"time":39,"number":10,"name":"Ointment","cost":2100,"day":20,"hour":16}
+{"time":20,"number":1,"name":"Book of Wisdom","cost":3501,"day":20,"hour":17}
+{"time":3,"number":1,"name":"Book of Wisdom","cost":3501,"day":20,"hour":17}
+{"time":48,"number":5,"name":"Ointment","cost":501,"day":20,"hour":17}
+{"time":0,"number":5,"name":"Ointment","cost":501,"day":20,"hour":17}
+{"time":42,"number":5,"name":"Cage","cost":2222,"day":20,"hour":17}
+{"time":15,"number":5,"name":"Cage","cost":2222,"day":20,"hour":17}
+{"time":15,"number":10,"name":"Cage","cost":4444,"day":20,"hour":17}
+{"time":0,"number":10,"name":"Cage","cost":4444,"day":20,"hour":17}
+{"time":58,"number":10,"name":"Ointment","cost":2544,"day":20,"hour":17}
+{"time":5,"number":10,"name":"Ointment","cost":2544,"day":20,"hour":17}
+{"time":54,"number":5,"name":"Ointment","cost":299,"day":20,"hour":17}
+{"time":1,"number":5,"name":"Ointment","cost":299,"day":20,"hour":17}
+{"time":43,"number":5,"name":"Small Bandage","cost":256,"day":20,"hour":17}
+{"time":14,"number":5,"name":"Small Bandage","cost":256,"day":20,"hour":17}
+{"time":29,"number":5,"name":"Cage","cost":2222,"day":20,"hour":17}
+{"time":48,"number":10,"name":"Ointment","cost":3000,"day":20,"hour":18}
+{"time":41,"number":10,"name":"Small Bandage","cost":500,"day":20,"hour":18}
+{"time":18,"number":10,"name":"Ointment","cost":1655,"day":20,"hour":18}
+{"time":24,"number":10,"name":"Ointment","cost":1201,"day":20,"hour":18}
+{"time":9,"number":10,"name":"Ointment","cost":1201,"day":20,"hour":18}
+{"time":11,"number":1,"name":"Short sword of the Imperatoris","cost":2501,"day":20,"hour":18}
+{"time":51,"number":10,"name":"Cage","cost":4445,"day":20,"hour":18}
+{"time":31,"number":10,"name":"Ointment","cost":1011,"day":20,"hour":18}
+{"time":8,"number":1,"name":"Book of Wisdom","cost":2000,"day":20,"hour":18}
+{"time":36,"number":5,"name":"Ointment","cost":201,"day":20,"hour":18}
+{"time":43,"number":1,"name":"Artwork","cost":12112,"day":20,"hour":19}
+{"time":56,"number":10,"name":"Cage","cost":1671,"day":20,"hour":19}
+{"time":0,"number":10,"name":"Cage","cost":1671,"day":20,"hour":19}
+{"time":17,"number":10,"name":"Ointment","cost":1878,"day":20,"hour":19}
+{"time":56,"number":10,"name":"Cage","cost":1851,"day":20,"hour":19}
+{"time":2,"number":10,"name":"Cage","cost":1851,"day":20,"hour":19}
+{"time":40,"number":5,"name":"Cage","cost":1201,"day":20,"hour":19}
+{"time":4,"number":5,"name":"Cage","cost":701,"day":20,"hour":19}
+{"time":24,"number":1,"name":"Small shield","cost":16766,"day":20,"hour":19}
+{"time":35,"number":10,"name":"Cage","cost":1451,"day":20,"hour":19}
+{"time":27,"number":5,"name":"Cage","cost":751,"day":20,"hour":19}
+{"time":55,"number":10,"name":"Cage","cost":1151,"day":20,"hour":19}
+{"time":4,"number":10,"name":"Cage","cost":1151,"day":20,"hour":19}
+{"time":53,"number":5,"name":"Cage","cost":500,"day":20,"hour":20}
+{"time":0,"number":5,"name":"Cage","cost":500,"day":20,"hour":20}
+{"time":43,"number":10,"name":"Cage","cost":2566,"day":20,"hour":20}
+{"time":56,"number":5,"name":"Cage","cost":2501,"day":20,"hour":20}
+{"time":1,"number":5,"name":"Cage","cost":2501,"day":20,"hour":20}
+{"time":55,"number":1,"name":"Artwork","cost":9999,"day":20,"hour":20}
+{"time":1,"number":1,"name":"Artwork","cost":9999,"day":20,"hour":20}
+{"time":42,"number":5,"name":"Small Bandage","cost":601,"day":20,"hour":20}
+{"time":23,"number":5,"name":"Small Bandage","cost":601,"day":20,"hour":20}
+{"time":0,"number":5,"name":"Small Bandage","cost":601,"day":20,"hour":20}
+{"time":39,"number":10,"name":"Cage","cost":3001,"day":20,"hour":21}
+{"time":22,"number":10,"name":"Cage","cost":3100,"day":20,"hour":21}
+{"time":58,"number":1,"name":"Book of Wisdom","cost":1300,"day":20,"hour":21}
+{"time":15,"number":1,"name":"Book of Wisdom","cost":3501,"day":20,"hour":21}
+{"time":41,"number":10,"name":"Ointment","cost":2000,"day":20,"hour":21}
+{"time":10,"number":1,"name":"Helmet of the Horseman","cost":450,"day":20,"hour":21}
+{"time":9,"number":1,"name":"Book of Wisdom","cost":1251,"day":20,"hour":21}
+{"time":55,"number":10,"name":"Cage","cost":1827,"day":20,"hour":21}
+{"time":1,"number":10,"name":"Cage","cost":1827,"day":20,"hour":21}
+{"time":37,"number":10,"name":"Small Bandage","cost":555,"day":20,"hour":21}
+{"time":55,"number":10,"name":"Ointment","cost":2000,"day":20,"hour":21}
+{"time":0,"number":10,"name":"Ointment","cost":2000,"day":20,"hour":21}
+{"time":51,"number":10,"name":"Ointment","cost":2003,"day":20,"hour":21}
+{"time":0,"number":10,"name":"Ointment","cost":2003,"day":20,"hour":21}
+{"time":54,"number":1,"name":"Small Spurs","cost":5000,"day":20,"hour":21}
+{"time":0,"number":1,"name":"Small Spurs","cost":5000,"day":20,"hour":21}
+{"time":28,"number":10,"name":"Small Bandage","cost":888,"day":20,"hour":22}
+{"time":48,"number":10,"name":"Ointment","cost":1748,"day":20,"hour":22}
+{"time":4,"number":10,"name":"Ointment","cost":1748,"day":20,"hour":22}
+{"time":54,"number":1,"name":"Book of Wisdom","cost":1000,"day":20,"hour":22}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":1000,"day":20,"hour":22}
+{"time":45,"number":10,"name":"Ointment","cost":2000,"day":20,"hour":22}
+{"time":19,"number":1,"name":"Book of Wisdom","cost":800,"day":20,"hour":22}
+{"time":51,"number":5,"name":"Small Bandage","cost":364,"day":20,"hour":23}
+{"time":0,"number":5,"name":"Small Bandage","cost":364,"day":20,"hour":23}
+{"time":16,"number":5,"name":"Ointment","cost":602,"day":20,"hour":23}
+{"time":29,"number":1,"name":"Book of Wisdom","cost":1284,"day":20,"hour":23}
+{"time":37,"number":10,"name":"Cage","cost":3590,"day":20,"hour":23}
+{"time":30,"number":5,"name":"Ointment","cost":766,"day":20,"hour":23}
+{"time":58,"number":10,"name":"Scroll","cost":5003,"day":20,"hour":23}
+{"time":1,"number":10,"name":"Scroll","cost":5003,"day":21,"hour":0}
+{"time":55,"number":1,"name":"Armour of Regeneration","cost":10948,"day":21,"hour":0}
+{"time":0,"number":1,"name":"Armour of Regeneration","cost":10948,"day":21,"hour":0}
+{"time":31,"number":1,"name":"Book of Wisdom","cost":667,"day":21,"hour":0}
+{"time":29,"number":10,"name":"Scroll","cost":1601,"day":21,"hour":1}
+{"time":8,"number":1,"name":"Light hammer of the Paladin","cost":2500,"day":21,"hour":1}
+{"time":14,"number":1,"name":"Light Breast-plate","cost":10001,"day":21,"hour":1}
+{"time":9,"number":10,"name":"Ointment","cost":1517,"day":21,"hour":1}
+{"time":44,"number":10,"name":"Ointment","cost":1517,"day":21,"hour":1}
+{"time":51,"number":1,"name":"Book of Wisdom","cost":666,"day":21,"hour":1}
+{"time":0,"number":1,"name":"Book of Wisdom","cost":666,"day":21,"hour":1}
+{"time":6,"number":10,"name":"Ointment","cost":767,"day":21,"hour":2}
+{"time":20,"number":30,"name":"Ointment","cost":2501,"day":21,"hour":2}
+{"time":49,"number":10,"name":"Ointment","cost":768,"day":21,"hour":2}
+{"time":0,"number":10,"name":"Ointment","cost":768,"day":21,"hour":2}
+{"time":40,"number":1,"name":"Helmet of the Mercenary","cost":1001,"day":21,"hour":2}
+{"time":54,"number":1,"name":"Small standard","cost":131,"day":21,"hour":2}
+{"time":2,"number":1,"name":"Small standard","cost":131,"day":21,"hour":2}
+{"time":49,"number":50,"name":"Ointment","cost":5000,"day":21,"hour":2}
+{"time":0,"number":50,"name":"Ointment","cost":5000,"day":21,"hour":2}
+{"time":3,"number":10,"name":"Cage","cost":2001,"day":21,"hour":2}
+{"time":31,"number":1,"name":"Bucket","cost":7777,"day":21,"hour":2}
+{"time":24,"number":10,"name":"Ointment","cost":1513,"day":21,"hour":3}
+{"time":30,"number":1,"name":"Helmet of Awareness","cost":4000,"day":21,"hour":3}
+{"time":54,"number":30,"name":"Ointment","cost":2501,"day":21,"hour":3}
+{"time":6,"number":30,"name":"Ointment","cost":2501,"day":21,"hour":3}
+{"time":10,"number":1,"name":"Book of Wisdom","cost":891,"day":21,"hour":4}
+{"time":33,"number":5,"name":"Ointment","cost":445,"day":21,"hour":4}
+{"time":14,"number":5,"name":"Ointment","cost":445,"day":21,"hour":4}
+{"time":0,"number":5,"name":"Ointment","cost":445,"day":21,"hour":4}
+{"time":4,"number":30,"name":"Ointment","cost":3334,"day":21,"hour":4}
+{"time":52,"number":1,"name":"Helmet of the Gladiator","cost":10001,"day":21,"hour":5}
+{"time":0,"number":1,"name":"Helmet of the Gladiator","cost":10001,"day":21,"hour":5}
+{"time":10,"number":1,"name":"Light Breast-plate","cost":12153,"day":21,"hour":5}
+{"time":51,"number":5,"name":"Cage","cost":1000,"day":21,"hour":5}
+{"time":32,"number":5,"name":"Cage","cost":1000,"day":21,"hour":5}
+{"time":13,"number":10,"name":"Tablet of Law","cost":102,"day":21,"hour":5}
+{"time":40,"number":10,"name":"Scroll","cost":3502,"day":21,"hour":6}
+{"time":26,"number":10,"name":"Ointment","cost":1499,"day":21,"hour":6}
+{"time":35,"number":1,"name":"Armour of Regeneration","cost":10949,"day":21,"hour":6}
+{"time":23,"number":1,"name":"Book of Wisdom","cost":2238,"day":21,"hour":6}
+{"time":46,"number":1,"name":"Bucket","cost":6283,"day":21,"hour":6}
+{"time":56,"number":10,"name":"Ointment","cost":1334,"day":21,"hour":6}
+{"time":0,"number":10,"name":"Ointment","cost":1334,"day":21,"hour":6}
+{"time":32,"number":10,"name":"Ointment","cost":1445,"day":21,"hour":6}
+{"time":23,"number":5,"name":"Ointment","cost":778,"day":21,"hour":6}
+{"time":21,"number":10,"name":"Ointment","cost":1356,"day":21,"hour":6}
+{"time":44,"number":1,"name":"Spear of the Spearman","cost":3000,"day":21,"hour":7}
+{"time":2,"number":5,"name":"Ointment","cost":555,"day":21,"hour":7}
+{"time":35,"number":5,"name":"Ointment","cost":558,"day":21,"hour":7}
+{"time":46,"number":1,"name":"Walking-staff of the Druidrider","cost":4200,"day":21,"hour":7}
+{"time":20,"number":10,"name":"Ointment","cost":1200,"day":21,"hour":7}
+{"time":53,"number":10,"name":"Cage","cost":1621,"day":21,"hour":7}
+{"time":0,"number":10,"name":"Cage","cost":1621,"day":21,"hour":7}
+{"time":27,"number":5,"name":"Ointment","cost":588,"day":21,"hour":7}
+{"time":37,"number":30,"name":"Scroll","cost":17675,"day":21,"hour":8}
+{"time":47,"number":5,"name":"Ointment","cost":702,"day":21,"hour":8}
+{"time":47,"number":5,"name":"Cage","cost":1301,"day":21,"hour":8}
+{"time":42,"number":1,"name":"Small standard","cost":124,"day":21,"hour":8}
+{"time":48,"number":10,"name":"Cage","cost":2010,"day":21,"hour":9}
+{"time":15,"number":10,"name":"Ointment","cost":1989,"day":21,"hour":9}
+{"time":19,"number":1,"name":"Book of Wisdom","cost":4454,"day":21,"hour":9}
+{"time":52,"number":1,"name":"Short sword of the Imperian","cost":5555,"day":21,"hour":9}
+{"time":16,"number":10,"name":"Cage","cost":1977,"day":21,"hour":10}
+{"time":30,"number":10,"name":"Tablet of Law","cost":111,"day":21,"hour":10}
+{"time":46,"number":1,"name":"Artwork","cost":20001,"day":21,"hour":10}
+{"time":35,"number":1,"name":"Artwork","cost":20001,"day":21,"hour":10}
+{"time":23,"number":1,"name":"Artwork","cost":20001,"day":21,"hour":10}
+{"time":9,"number":1,"name":"Artwork","cost":20001,"day":21,"hour":10}
+{"time":56,"number":1,"name":"Light Breast-plate","cost":9703,"day":21,"hour":10}
+{"time":11,"number":10,"name":"Tablet of Law","cost":10,"day":21,"hour":10}
+{"time":19,"number":5,"name":"Small Bandage","cost":230,"day":21,"hour":10}
+{"time":36,"number":5,"name":"Tablet of Law","cost":5,"day":21,"hour":10}
+{"time":53,"number":10,"name":"Ointment","cost":1255,"day":21,"hour":10}
+{"time":0,"number":10,"name":"Ointment","cost":1255,"day":21,"hour":10}
+{"time":58,"number":10,"name":"Ointment","cost":1238,"day":21,"hour":10}
+{"time":9,"number":10,"name":"Ointment","cost":1238,"day":21,"hour":10}
+{"time":22,"number":5,"name":"Ointment","cost":481,"day":21,"hour":10}
+{"time":40,"number":1,"name":"Pouch of the Thief","cost":889,"day":21,"hour":11}
+{"time":33,"number":5,"name":"Cage","cost":1201,"day":21,"hour":11}
+{"time":7,"number":1,"name":"Short sword of the Teutonic Knight","cost":9950,"day":21,"hour":11}
+{"time":44,"number":1,"name":"Artwork","cost":16254,"day":21,"hour":11}
+{"time":35,"number":1,"name":"Artwork","cost":16254,"day":21,"hour":11}
+{"time":6,"number":1,"name":"Artwork","cost":16254,"day":21,"hour":11}
+{"time":42,"number":1,"name":"Light Segmented-armour","cost":9502,"day":21,"hour":11}
+{"time":32,"number":10,"name":"Scroll","cost":13001,"day":21,"hour":11}
+{"time":31,"number":10,"name":"Ointment","cost":2223,"day":21,"hour":11}
+{"time":7,"number":5,"name":"Cage","cost":1518,"day":21,"hour":12}
+{"time":39,"number":10,"name":"Ointment","cost":2200,"day":21,"hour":12}
+{"time":46,"number":10,"name":"Cage","cost":1700,"day":21,"hour":12}
+{"time":5,"number":1,"name":"Bucket","cost":6283,"day":21,"hour":12}
+{"time":6,"number":10,"name":"Scroll","cost":10001,"day":21,"hour":12}
+{"time":7,"number":1,"name":"Boots of the Mercenary","cost":2000,"day":21,"hour":12}
+{"time":8,"number":5,"name":"Tablet of Law","cost":52,"day":21,"hour":12}
+{"time":18,"number":5,"name":"Cage","cost":907,"day":21,"hour":12}
+{"time":6,"number":1,"name":"Book of Wisdom","cost":4445,"day":21,"hour":12}
+{"time":30,"number":1,"name":"Book of Wisdom","cost":3501,"day":21,"hour":12}
+{"time":44,"number":5,"name":"Ointment","cost":457,"day":21,"hour":12}
+{"time":32,"number":5,"name":"Ointment","cost":457,"day":21,"hour":12}
+{"time":20,"number":5,"name":"Ointment","cost":457,"day":21,"hour":12}
+{"time":52,"number":5,"name":"Cage","cost":1201,"day":21,"hour":12}
+{"time":29,"number":10,"name":"Ointment","cost":1200,"day":21,"hour":13}
+{"time":59,"number":5,"name":"Scroll","cost":5001,"day":21,"hour":13}
+{"time":5,"number":5,"name":"Scroll","cost":5001,"day":21,"hour":13}
+{"time":57,"number":5,"name":"Ointment","cost":800,"day":21,"hour":13}
+{"time":0,"number":5,"name":"Ointment","cost":800,"day":21,"hour":13}
+{"time":36,"number":5,"name":"Ointment","cost":599,"day":21,"hour":13}
+{"time":37,"number":5,"name":"Ointment","cost":500,"day":21,"hour":13}
+{"time":23,"number":5,"name":"Ointment","cost":505,"day":21,"hour":13}
+{"time":9,"number":30,"name":"Ointment","cost":3334,"day":21,"hour":14}
+{"time":28,"number":30,"name":"Ointment","cost":3289,"day":21,"hour":14}
+{"time":52,"number":10,"name":"Cage","cost":1714,"day":21,"hour":14}
+{"time":0,"number":10,"name":"Cage","cost":1714,"day":21,"hour":14}
+{"time":26,"number":10,"name":"Small Bandage","cost":351,"day":21,"hour":14}
+{"time":40,"number":5,"name":"Ointment","cost":701,"day":21,"hour":14}
+{"time":20,"number":10,"name":"Ointment","cost":888,"day":21,"hour":14}
+{"time":29,"number":1,"name":"Small pennant","cost":235,"day":21,"hour":14}
+{"time":14,"number":10,"name":"Ointment","cost":1255,"day":21,"hour":14}
+{"time":27,"number":5,"name":"Tablet of Law","cost":41,"day":21,"hour":15}
+{"time":25,"number":1,"name":"Helmet of Regeneration","cost":6001,"day":21,"hour":15}
+{"time":18,"number":5,"name":"Ointment","cost":1001,"day":21,"hour":15}
+{"time":43,"number":10,"name":"Cage","cost":1288,"day":21,"hour":15}
+{"time":0,"number":10,"name":"Cage","cost":1288,"day":21,"hour":15}
+{"time":21,"number":5,"name":"Ointment","cost":1031,"day":21,"hour":15}
+{"time":17,"number":10,"name":"Small Bandage","cost":478,"day":21,"hour":15}
+{"time":23,"number":10,"name":"Ointment","cost":1289,"day":21,"hour":15}
+{"time":30,"number":10,"name":"Ointment","cost":1888,"day":21,"hour":15}
+{"time":12,"number":10,"name":"Ointment","cost":2001,"day":21,"hour":15}
+{"time":55,"number":1,"name":"Book of Wisdom","cost":2000,"day":21,"hour":15}
+{"time":27,"number":1,"name":"Small standard","cost":146,"day":21,"hour":15}
+{"time":18,"number":10,"name":"Ointment","cost":628,"day":21,"hour":15}
+{"time":10,"number":10,"name":"Ointment","cost":628,"day":21,"hour":15}
+{"time":51,"number":1,"name":"Book of Wisdom","cost":1400,"day":21,"hour":16}
+{"time":29,"number":1,"name":"Book of Wisdom","cost":1400,"day":21,"hour":16}
+{"time":4,"number":1,"name":"Book of Wisdom","cost":1400,"day":21,"hour":16}
+{"time":24,"number":1,"name":"Bucket","cost":4745,"day":21,"hour":16}
+{"time":25,"number":10,"name":"Cage","cost":890,"day":21,"hour":16}
+{"time":55,"number":1,"name":"Artwork","cost":10715,"day":21,"hour":16}
+{"time":6,"number":1,"name":"Artwork","cost":10715,"day":21,"hour":16}
+{"time":6,"number":10,"name":"Ointment","cost":2323,"day":21,"hour":16}
+{"time":19,"number":5,"name":"Ointment","cost":590,"day":21,"hour":16}
+{"time":7,"number":10,"name":"Cage","cost":1590,"day":21,"hour":16}
+{"time":40,"number":5,"name":"Ointment","cost":598,"day":21,"hour":16}
+{"time":40,"number":10,"name":"Tablet of Law","cost":112,"day":21,"hour":16}
+{"time":16,"number":10,"name":"Ointment","cost":1790,"day":21,"hour":16}
+{"time":39,"number":10,"name":"Ointment","cost":2134,"day":21,"hour":17}
+{"time":25,"number":10,"name":"Ointment","cost":1268,"day":21,"hour":17}
+{"time":34,"number":1,"name":"Artwork","cost":9395,"day":21,"hour":17}
+{"time":39,"number":10,"name":"Ointment","cost":1878,"day":21,"hour":17}
+{"time":48,"number":1,"name":"Book of Wisdom","cost":3087,"day":21,"hour":17}
+{"time":44,"number":5,"name":"Ointment","cost":1395,"day":21,"hour":18}
+{"time":0,"number":5,"name":"Ointment","cost":1395,"day":21,"hour":18}
+{"time":38,"number":10,"name":"Cage","cost":2751,"day":21,"hour":18}
+{"time":31,"number":1,"name":"Artwork","cost":9670,"day":21,"hour":18}
+{"time":4,"number":5,"name":"Small Bandage","cost":667,"day":21,"hour":18}
+{"time":29,"number":1,"name":"Book of Wisdom","cost":4444,"day":21,"hour":19}

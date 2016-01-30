@@ -1,1 +1,4346 @@
-[{"coords":{"x":-16,"y":37},"tribe":"Romans","alliance":"[WW] GOD","owner":"Entreri","population":"200","pop":"213"},{"coords":{"x":-14,"y":37},"tribe":"Romans","alliance":"","owner":"Tiberius Septim","population":"7","pop":"7"},{"coords":{"x":-10,"y":37},"tribe":"Gauls","alliance":"","owner":"T1mb3","population":"131","pop":"131"},{"coords":{"x":-8,"y":37},"tribe":"Gauls","alliance":"K.O.W","owner":"Legaya","population":"175","pop":"183"},{"coords":{"x":-6,"y":37},"tribe":"Gauls","alliance":"First","owner":"U Turn","population":"271","pop":"284"},{"coords":{"x":-2,"y":37},"tribe":"Teutons","alliance":"","owner":"Xander Xalus","population":"190","pop":"198"},{"coords":{"x":5,"y":37},"tribe":"Gauls","alliance":"","owner":"JoshTheAspi","population":"150","pop":"168"},{"coords":{"x":10,"y":37},"tribe":"Teutons","alliance":"First","owner":"3noobs","population":"246","pop":"253"},{"coords":{"x":-20,"y":38},"tribe":"Gauls","alliance":"K.O.W","owner":"Motown","population":"235","pop":"247"},{"coords":{"x":-12,"y":38},"tribe":"Gauls","alliance":"","owner":"Karly","population":"20"},{"coords":{"x":1,"y":38},"tribe":"Gauls","alliance":"","owner":"Socks","population":"13"},{"coords":{"x":4,"y":38},"tribe":"Teutons","alliance":"","owner":"BlackDeff","population":"151"},{"coords":{"x":6,"y":38},"tribe":"Romans","alliance":"","owner":"Rogério Pedro","population":"39"},{"coords":{"x":-16,"y":39},"tribe":"Romans","alliance":"K.O.W","owner":"Amer","population":"195"},{"coords":{"x":-9,"y":37}}]
+[
+	{
+		"coords": {
+			"x": -12,
+			"y": 53
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "kellyelliott",
+		"population": 30,
+		"dist": 7.0710678118654755,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454068230877,
+		"active": true,
+		"lastFarm": 1454066379916,
+		"isFull": 0.064,
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 47
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "DPDG",
+		"population": 47,
+		"dist": 7.0710678118654755,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454091762453,
+		"isFull": 0.036,
+		"active": false,
+		"lastFarm": 1454087503228,
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 6,
+			"y": 59
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Aidis",
+		"population": 92,
+		"dist": 13.038404810405298,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454072564902,
+		"active": false,
+		"lastFarm": 1454069202332,
+		"isFull": 0.01,
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 4,
+			"y": 52
+		},
+		"tribe": "Teutons",
+		"alliance": "@RUS@",
+		"owner": "DimaUdacha",
+		"population": 273,
+		"dist": 9,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1453395898902,
+		"isFull": 1,
+		"active": true,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 54
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Darkendfiend",
+		"population": 52,
+		"dist": 8.246211251235321,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454093151011,
+		"isFull": 0.02,
+		"active": false,
+		"lastFarm": 1454088043958,
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 6,
+			"y": 48
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "T20",
+		"population": 269,
+		"dist": 11.704699910719626,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454096838011,
+		"lastFarm": 1454093821221,
+		"active": true,
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 1,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 5.165,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 54
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "mohammed jaz",
+		"population": 34,
+		"dist": 14.142135623730951,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454096278507,
+		"active": false,
+		"lastFarm": 1454064100505,
+		"isFull": 0.34,
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 4,
+			"y": 48
+		},
+		"tribe": "Teutons",
+		"alliance": "4K",
+		"owner": "brutalus",
+		"population": 103,
+		"dist": 9.848857801796104,
+		"troops": {
+			"0": null,
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"lostTroops": {
+			"0": 1,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1453747970211,
+		"isFull": 0.084,
+		"active": false,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 54
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "greengale",
+		"population": 66,
+		"dist": 10.198039027185569,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454088135661,
+		"isFull": 0.26,
+		"active": false,
+		"lastFarm": 1454062600030,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 58
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "TaiwanNo1",
+		"population": 157,
+		"dist": 9.219544457292887,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454085088614,
+		"isFull": 1,
+		"lastFarm": 1454082643753,
+		"active": false,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 52
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "JulietteB.",
+		"population": 101,
+		"dist": 6,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 2,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454021013710,
+		"isFull": 0.29,
+		"lastFarm": 1454016388194,
+		"active": false,
+		"farm": false
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 59
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 17,
+		"dist": 7.615773105863909,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454069714033,
+		"isFull": 0.04666666666666667,
+		"lastFarm": 1454065123918,
+		"active": true,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -1,
+			"y": 61
+		},
+		"tribe": "Gauls",
+		"alliance": "POW",
+		"owner": "Morgan",
+		"population": 222,
+		"dist": 9.848857801796104,
+		"troops": {
+			"0": null,
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1453829052887,
+		"active": true,
+		"lastFarm": 1453826515773,
+		"isFull": 1,
+		"farm": false
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 63
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 37,
+		"dist": 19.4164878389476,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454089244396,
+		"isFull": 0.043333333333333335,
+		"lastFarm": 1454087926515,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 49
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 149,
+		"dist": 5.830951894845301,
+		"farm": true,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastScout": 1454097138648,
+		"isFull": 0.4,
+		"lastFarm": 1454066142004,
+		"active": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 27
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "Minnie",
+		"population": 355,
+		"dist": 30.805843601498726,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": -16,
+			"y": 27
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "xmichalkx",
+		"population": 354,
+		"dist": 27.313000567495326,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 27
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "baconman",
+		"population": 323,
+		"dist": 26.248809496813376,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 27
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "MSK",
+		"population": 223,
+		"dist": 33.301651610693426,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 27
+		},
+		"tribe": "Romans",
+		"alliance": "DRAKE",
+		"owner": "Scary Fairy",
+		"population": 386,
+		"dist": 35.35533905932738,
+		"farm": true,
+		"active": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 28
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "Loki",
+		"population": 179,
+		"dist": 33.24154027718932,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 28
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "420trucker",
+		"population": 244,
+		"dist": 28.844410203711913,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 28
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "Trucker",
+		"population": 305,
+		"dist": 25,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": 18,
+			"y": 28
+		},
+		"tribe": "Romans",
+		"alliance": "GYSOT",
+		"owner": "Jack Burton",
+		"population": 467,
+		"dist": 33.24154027718932,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": -30,
+			"y": 29
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "Telamon",
+		"population": 166,
+		"dist": 33.97057550292606,
+		"farm": true,
+		"active": true
+	},
+	{
+		"coords": {
+			"x": -25,
+			"y": 29
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 43,
+		"dist": 30.479501308256342,
+		"farm": true,
+		"lastScout": 1454081215004,
+		"active": false,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.43333333333333335,
+		"lastFarm": 1454062479873
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 29
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "noscream",
+		"population": 397,
+		"dist": 27.459060435491963,
+		"farm": true,
+		"active": false
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 29
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "Trucker",
+		"population": 98,
+		"dist": 24.041630560342615,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 13,
+			"y": 29
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "ColonelNoot",
+		"population": 339,
+		"dist": 29.206163733020468,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 29
+		},
+		"tribe": "Gauls",
+		"alliance": "OUTCASTS",
+		"owner": "loco",
+		"population": 242,
+		"dist": 30.479501308256342,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 30
+		},
+		"tribe": "Teutons",
+		"alliance": "ViC",
+		"owner": "iClub",
+		"population": 76,
+		"dist": 31.11269837220809,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 30
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "noscream",
+		"population": 132,
+		"dist": 26.627053911388696,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 30
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "PoderosoChefao",
+		"population": 86,
+		"dist": 22,
+		"farm": true,
+		"lastScout": 1454074534196,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.94,
+		"lastFarm": 1454068841790
+	},
+	{
+		"coords": {
+			"x": 5,
+			"y": 30
+		},
+		"tribe": "Romans",
+		"alliance": "W.T.W.A",
+		"owner": "Crisp",
+		"population": 315,
+		"dist": 24.166091947189145,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 30
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "Squirrel",
+		"population": 423,
+		"dist": 25.553864678361276,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 19,
+			"y": 30
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "MSK",
+		"population": 448,
+		"dist": 32.55764119219941,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 31
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "nekas123",
+		"population": 89,
+		"dist": 31.144823004794873,
+		"farm": true,
+		"lastScout": 1454084615338
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 31
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "starplanter",
+		"population": 351,
+		"dist": 26.40075756488817,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 31
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Anthopy",
+		"population": 73,
+		"dist": 25.238858928247925,
+		"farm": true,
+		"lastScout": 1454095792201,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.24666666666666667,
+		"lastFarm": 1454089286291
+	},
+	{
+		"coords": {
+			"x": 1,
+			"y": 31
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Guntok",
+		"population": 55,
+		"dist": 21.840329667841555,
+		"farm": true,
+		"lastScout": 1454074943868,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.2866666666666667,
+		"lastFarm": 1454061822670
+	},
+	{
+		"coords": {
+			"x": 5,
+			"y": 31
+		},
+		"tribe": "Romans",
+		"alliance": "W.T.W.A",
+		"owner": "Crisp",
+		"population": 149,
+		"dist": 23.259406699226016,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 31
+		},
+		"tribe": "Romans",
+		"alliance": "W.T.W.A",
+		"owner": "JohnnyDK",
+		"population": 395,
+		"dist": 25.80697580112788,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 12,
+			"y": 31
+		},
+		"tribe": "Gauls",
+		"alliance": "DRAKE",
+		"owner": "Sqwrls",
+		"population": 444,
+		"dist": 27.018512172212592,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 32
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "anthgraham",
+		"population": 310,
+		"dist": 21.93171219946131,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 32
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Alexander",
+		"population": 164,
+		"dist": 20.8806130178211,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 32
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Valerius",
+		"population": 111,
+		"dist": 20.223748416156685,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 32
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Tath",
+		"population": 339,
+		"dist": 21.18962010041709,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 32
+		},
+		"tribe": "Romans",
+		"alliance": "FoD",
+		"owner": "Gmork",
+		"population": 473,
+		"dist": 23.853720883753127,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 32
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "The Emperor",
+		"population": 421,
+		"dist": 32.01562118716424,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 33
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "shelden4141",
+		"population": 80,
+		"dist": 29.832867780352597,
+		"farm": true,
+		"lastScout": 1454092281968,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.96
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 33
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Holmes",
+		"population": 273,
+		"dist": 23.600847442411894,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -16,
+			"y": 33
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Jaé",
+		"population": 105,
+		"dist": 21.95449840010015,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 33
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "anthgraham",
+		"population": 80,
+		"dist": 21.02379604162864,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 33
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Valerius",
+		"population": 278,
+		"dist": 19.4164878389476,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -4,
+			"y": 33
+		},
+		"tribe": "Teutons",
+		"alliance": "[WW] GOD",
+		"owner": "Fire Lord ozo",
+		"population": 322,
+		"dist": 19.026297590440446,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 33
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "hiyotomdude",
+		"population": 66,
+		"dist": 19.6468827043885,
+		"farm": true,
+		"lastScout": 1454075690178,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.11333333333333333,
+		"lastFarm": 1454063877068
+	},
+	{
+		"coords": {
+			"x": 6,
+			"y": 33
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Qyr",
+		"population": 68,
+		"dist": 21.95449840010015,
+		"farm": true,
+		"lastScout": 1454080413391
+	},
+	{
+		"coords": {
+			"x": 14,
+			"y": 33
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "john",
+		"population": 102,
+		"dist": 26.870057685088806,
+		"farm": true,
+		"lastScout": 1454085595087,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 1,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.57,
+		"lastFarm": 1454069441945
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 33
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "Pecktrus",
+		"population": 61,
+		"dist": 28.319604517012593,
+		"farm": true,
+		"lastScout": 1454080847324
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 33
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "The Emperor",
+		"population": 257,
+		"dist": 31.400636936215164,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -25,
+			"y": 34
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "gyozoka",
+		"population": 323,
+		"dist": 26.90724809414742,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -22,
+			"y": 34
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 32,
+		"dist": 24.758836806279895,
+		"farm": true,
+		"lastScout": 1454094282407,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.08
+	},
+	{
+		"coords": {
+			"x": -17,
+			"y": 34
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Zorro",
+		"population": 261,
+		"dist": 21.633307652783937,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 34
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "john1234",
+		"population": 339,
+		"dist": 19.313207915827967,
+		"farm": true,
+		"lastScout": 1454082253039,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 2,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastFarm": 1454071429454
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 34
+		},
+		"tribe": "Gauls",
+		"alliance": "OUTCASTS",
+		"owner": "MKcreation",
+		"population": 357,
+		"dist": 19.313207915827967,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 7,
+			"y": 34
+		},
+		"tribe": "Gauls",
+		"alliance": "DoT",
+		"owner": "Shock wave",
+		"population": 211,
+		"dist": 21.633307652783937,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 34
+		},
+		"tribe": "Romans",
+		"alliance": "GYSOT",
+		"owner": "your mama",
+		"population": 315,
+		"dist": 23.430749027719962,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 12,
+			"y": 34
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "UHTRED",
+		"population": 74,
+		"dist": 24.758836806279895,
+		"farm": true,
+		"lastScout": 1454095332768,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.075
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 35
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "Telamon",
+		"population": 373,
+		"dist": 29.410882339705484,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 35
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Aye Aye",
+		"population": 112,
+		"dist": 27.80287754891569,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 35
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 35,
+		"dist": 25.495097567963924,
+		"farm": true,
+		"lastScout": 1454097459349,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.05
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 35
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "markela",
+		"population": 275,
+		"dist": 19.72308292331602,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 35
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "drat",
+		"population": 348,
+		"dist": 17.72004514666935,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -4,
+			"y": 35
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "vbnm",
+		"population": 315,
+		"dist": 17.029386365926403,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 35
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 37,
+		"dist": 17.26267650163207,
+		"farm": true,
+		"lastScout": 1454095500870,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.045
+	},
+	{
+		"coords": {
+			"x": 1,
+			"y": 35
+		},
+		"tribe": "Teutons",
+		"alliance": "OUTCASTS",
+		"owner": "Kindred",
+		"population": 305,
+		"dist": 18.027756377319946,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 19,
+			"y": 35
+		},
+		"tribe": "Teutons",
+		"alliance": "ODD",
+		"owner": "Cronus",
+		"population": 133,
+		"dist": 29.410882339705484,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -18,
+			"y": 36
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 29,
+		"dist": 20.615528128088304,
+		"farm": true,
+		"lastScout": 1454068431584,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.495
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 36
+		},
+		"tribe": "Teutons",
+		"alliance": "[WW] GOD",
+		"owner": "Raider Clan",
+		"population": 338,
+		"dist": 16.492422502470642,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 0,
+			"y": 36
+		},
+		"tribe": "Teutons",
+		"alliance": "NS",
+		"owner": "Somebody Sends",
+		"population": 240,
+		"dist": 16.76305461424021,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 36
+		},
+		"tribe": "Teutons",
+		"alliance": "OUTCASTS",
+		"owner": "Crazy",
+		"population": 439,
+		"dist": 20.615528128088304,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 36
+		},
+		"tribe": "Teutons",
+		"alliance": "First",
+		"owner": "3noobs",
+		"population": 16,
+		"dist": 21.93171219946131,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -25,
+			"y": 37
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "vitalija",
+		"population": 94,
+		"dist": 25,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 37
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Jonce777",
+		"population": 352,
+		"dist": 24.20743687382041,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 37
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Jonce777",
+		"population": 205,
+		"dist": 23.430749027719962,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -16,
+			"y": 37
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "Entreri",
+		"population": 300,
+		"dist": 18.601075237738275,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 37
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "markela",
+		"population": 70,
+		"dist": 16.55294535724685,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 37
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "T1mb3",
+		"population": 131,
+		"dist": 15.811388300841896,
+		"farm": true,
+		"lastScout": 1454083303039,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 1,
+		"lastFarm": 1454073789753
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 37
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Legaya",
+		"population": 282,
+		"dist": 15.297058540778355,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 37
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 181,
+		"dist": 15.297058540778355,
+		"farm": true,
+		"lastScout": 1454088009157,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastFarm": 1454081384253
+	},
+	{
+		"coords": {
+			"x": 5,
+			"y": 37
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "JoshTheAspi",
+		"population": 270,
+		"dist": 18.027756377319946,
+		"farm": true,
+		"lastScout": 1454070392744,
+		"troops": {
+			"0": null,
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 1,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		}
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 37
+		},
+		"tribe": "Teutons",
+		"alliance": "First",
+		"owner": "3noobs",
+		"population": 282,
+		"dist": 21.213203435596427,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 12,
+			"y": 37
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "Brew Master",
+		"population": 378,
+		"dist": 22.67156809750927,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 14,
+			"y": 37
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Aratiri",
+		"population": 268,
+		"dist": 24.20743687382041,
+		"farm": true,
+		"lastScout": 1454088246246,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 3,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 1,
+		"lastFarm": 1454078862770
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 38
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Motown",
+		"population": 384,
+		"dist": 20.518284528683193,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 38
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 35,
+		"dist": 15.652475842498529,
+		"farm": true,
+		"lastScout": 1454071663068,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.275
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 38
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "Knight Templar",
+		"population": null,
+		"dist": 15.231546211727817,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 38
+		},
+		"tribe": "Teutons",
+		"alliance": "[WW] GOD",
+		"owner": "Raider Clan",
+		"population": null,
+		"dist": 14.866068747318506,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 38
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "Afern",
+		"population": 1,
+		"dist": 14.317821063276353,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 38
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "Mato",
+		"population": 343,
+		"dist": 24.413111231467404,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -6,
+			"y": 39
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Pista",
+		"population": 339,
+		"dist": 13.038404810405298,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -3,
+			"y": 39
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "puwelOus",
+		"population": 412,
+		"dist": 13.152946437965905,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 7,
+			"y": 39
+		},
+		"tribe": "Gauls",
+		"alliance": "OUTCASTS",
+		"owner": "Lunasea",
+		"population": 302,
+		"dist": 17.69180601295413,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 39
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "ted",
+		"population": 192,
+		"dist": 20.615528128088304,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 14,
+			"y": 39
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "iGoldfish",
+		"population": 125,
+		"dist": 23.021728866442675,
+		"farm": true,
+		"lastScout": 1454091032003,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 1,
+		"lastFarm": 1454077183857
+	},
+	{
+		"coords": {
+			"x": 18,
+			"y": 39
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "apispad",
+		"population": 59,
+		"dist": 26.419689627245813,
+		"farm": true,
+		"lastScout": 1454076179700,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.49
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 40
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 35,
+		"dist": 26.832815729997478,
+		"farm": true,
+		"lastScout": 1454077195760,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.47
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 40
+		},
+		"tribe": "Teutons",
+		"alliance": "NS",
+		"owner": "Zackbeam",
+		"population": 268,
+		"dist": 18.439088914585774,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 40
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Warthog2011",
+		"population": 264,
+		"dist": 15,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 40
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 35,
+		"dist": 13.416407864998739,
+		"farm": true,
+		"lastScout": 1454093767317,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.04,
+		"lastFarm": 1454090250724
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 40
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 30,
+		"dist": 12.36931687685298,
+		"farm": true,
+		"lastScout": 1454095357288,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastFarm": 1454091585085,
+		"isFull": 0.02
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 40
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "Afern",
+		"population": 376,
+		"dist": 12,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 40
+		},
+		"tribe": "Gauls",
+		"alliance": "PT",
+		"owner": "Maximmus I",
+		"population": 283,
+		"dist": 25.059928172283335,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 40
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 61,
+		"dist": 27.730849247724095,
+		"farm": true,
+		"lastScout": 1454078567301,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.045
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 41
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Soo Woo",
+		"population": 307,
+		"dist": 24.596747752497688,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -25,
+			"y": 41
+		},
+		"tribe": "Teutons",
+		"alliance": "NS",
+		"owner": "frizzikiello",
+		"population": 309,
+		"dist": 22.825424421026653,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 41
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "themurf",
+		"population": 266,
+		"dist": 21.095023109728988,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 41
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "Knight Templar",
+		"population": 359,
+		"dist": 13.601470508735444,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -4,
+			"y": 41
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Mvemjsunp",
+		"population": 282,
+		"dist": 11.045361017187261,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 41
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "JeffreyLebowski",
+		"population": 59,
+		"dist": 19.4164878389476,
+		"farm": true,
+		"lastScout": 1454077012020,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.8
+	},
+	{
+		"coords": {
+			"x": 14,
+			"y": 41
+		},
+		"tribe": "Gauls",
+		"alliance": "0UTCASTS",
+		"owner": "Madara",
+		"population": 249,
+		"dist": 21.95449840010015,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 41
+		},
+		"tribe": "Romans",
+		"alliance": "0UTCASTS",
+		"owner": "smoker",
+		"population": 375,
+		"dist": 23.706539182259394,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 42
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "kenrockwall",
+		"population": 309,
+		"dist": 13.45362404707371,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 42
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "shups",
+		"population": 139,
+		"dist": 12.206555615733702,
+		"farm": true,
+		"lastScout": 1454072912471
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 42
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 33,
+		"dist": 16.401219466856727,
+		"farm": true,
+		"lastScout": 1454077289832,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.18
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 42
+		},
+		"tribe": "Teutons",
+		"alliance": "OUTCASTS",
+		"owner": "DarkHorse",
+		"population": 358,
+		"dist": 18.027756377319946,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 43
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Severus",
+		"population": 200,
+		"dist": 24.698178070456937,
+		"farm": true,
+		"lastScout": 1454087148465,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastFarm": 1454080781864,
+		"isFull": 0.29
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 43
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Doc",
+		"population": 318,
+		"dist": 21.02379604162864,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 43
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Maxpan",
+		"population": 346,
+		"dist": 17.4928556845359,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 43
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "The Simpsons",
+		"population": 322,
+		"dist": 9,
+		"farm": true,
+		"lastScout": 1454075864393,
+		"troops": {
+			"0": null,
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 1,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		}
+	},
+	{
+		"coords": {
+			"x": 1,
+			"y": 43
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Kelectrast",
+		"population": 147,
+		"dist": 10.816653826391969,
+		"farm": true,
+		"lastScout": 1454079857829,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 1,
+		"lastFarm": 1454077061411
+	},
+	{
+		"coords": {
+			"x": 3,
+			"y": 43
+		},
+		"tribe": "Teutons",
+		"alliance": "0UTCASTS",
+		"owner": "sumsik",
+		"population": 271,
+		"dist": 12.041594578792296,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 43
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "trout",
+		"population": 57,
+		"dist": 16.64331697709324,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 43
+		},
+		"tribe": "Teutons",
+		"alliance": "PT",
+		"owner": "Bandit Queen",
+		"population": 58,
+		"dist": 18.35755975068582,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 43
+		},
+		"tribe": "Romans",
+		"alliance": "GYSOT",
+		"owner": "Jikininki",
+		"population": 322,
+		"dist": 21.93171219946131,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 44
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "evenflo",
+		"population": 343,
+		"dist": 25.298221281347036,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -21,
+			"y": 44
+		},
+		"tribe": "Gauls",
+		"alliance": "B4L",
+		"owner": "Evan6p3",
+		"population": 125,
+		"dist": 17.88854381999832,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 44
+		},
+		"tribe": "Teutons",
+		"alliance": "[WW] GOD",
+		"owner": "Raider Clan",
+		"population": 76,
+		"dist": 12.806248474865697,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -14,
+			"y": 44
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "Conman",
+		"population": 119,
+		"dist": 12.041594578792296,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 44
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "rbohac",
+		"population": null,
+		"dist": 11.313708498984761,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 44
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "ÉquitesssTeam",
+		"population": 139,
+		"dist": 10.63014581273465,
+		"farm": true,
+		"lastScout": 1454091803981,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.436,
+		"lastFarm": 1454085403677
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 44
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "Billybob626",
+		"population": 251,
+		"dist": 8.94427190999916,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 6,
+			"y": 44
+		},
+		"tribe": "Teutons",
+		"alliance": "0UTCASTS",
+		"owner": "sumsik",
+		"population": 77,
+		"dist": 13.601470508735444,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 44
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Jackass",
+		"population": 161,
+		"dist": 15.264337522473747,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 44
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "pathfinder",
+		"population": 174,
+		"dist": 17.88854381999832,
+		"farm": true,
+		"lastScout": 1454086962181,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 1,
+		"lastFarm": 1454082344646
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 44
+		},
+		"tribe": "Gauls",
+		"alliance": "0UTCASTS",
+		"owner": "Narumi",
+		"population": 297,
+		"dist": 23.40939982143925,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 45
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Sniperek",
+		"population": 304,
+		"dist": 20.248456731316587,
+		"farm": true,
+		"lastScout": 1454082590748,
+		"troops": {
+			"0": null,
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 1,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		}
+	},
+	{
+		"coords": {
+			"x": -13,
+			"y": 45
+		},
+		"tribe": "Romans",
+		"alliance": "[WW] GOD",
+		"owner": "Conman",
+		"population": 332,
+		"dist": 10.63014581273465,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 45
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Holmes",
+		"population": 40,
+		"dist": 8.06225774829855,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -6,
+			"y": 45
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "embw11",
+		"population": 264,
+		"dist": 7.0710678118654755,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -1,
+			"y": 45
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Lunatic24",
+		"population": 245,
+		"dist": 8.06225774829855,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 45
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Jackass",
+		"population": 356,
+		"dist": 14.7648230602334,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 45
+		},
+		"tribe": "Teutons",
+		"alliance": "OUTCASTS",
+		"owner": "DarkHorse",
+		"population": 209,
+		"dist": 15.652475842498529,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 11,
+			"y": 45
+		},
+		"tribe": "Teutons",
+		"alliance": "0UTCASTS",
+		"owner": "iTzLeo",
+		"population": 118,
+		"dist": 17.46424919657298,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 12,
+			"y": 45
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Aron",
+		"population": 71,
+		"dist": 18.384776310850235,
+		"farm": true,
+		"lastScout": 1454078915182
+	},
+	{
+		"coords": {
+			"x": -25,
+			"y": 46
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 61,
+		"dist": 20.8806130178211,
+		"farm": true,
+		"lastScout": 1454084087574,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.03
+	},
+	{
+		"coords": {
+			"x": -12,
+			"y": 46
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "rbohac",
+		"population": 316,
+		"dist": 9.219544457292887,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 46
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW] GOD",
+		"owner": "rbohac",
+		"population": 137,
+		"dist": 7.810249675906654,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -4,
+			"y": 46
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "klip",
+		"population": 275,
+		"dist": 6.082762530298219,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 4,
+			"y": 46
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "last hero",
+		"population": 54,
+		"dist": 10.816653826391969,
+		"farm": true,
+		"lastScout": 1454092149753,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 1,
+		"lastFarm": 1454085643642
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 46
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "trout",
+		"population": 313,
+		"dist": 16.15549442140351,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 47
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER-A",
+		"owner": "Ipswyth",
+		"population": 148,
+		"dist": 14.866068747318506,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 47
+		},
+		"tribe": "Romans",
+		"alliance": "SUPER",
+		"owner": "Toxic_Angel",
+		"population": 388,
+		"dist": 7.0710678118654755,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -6,
+			"y": 47
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Helga",
+		"population": 397,
+		"dist": 5.0990195135927845,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -3,
+			"y": 47
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "Ralmael",
+		"population": 242,
+		"dist": 5.385164807134504,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 47
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "Ralmael",
+		"population": 34,
+		"dist": 5.830951894845301,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 3,
+			"y": 47
+		},
+		"tribe": "Gauls",
+		"alliance": "PT",
+		"owner": "Atum",
+		"population": 330,
+		"dist": 9.433981132056603,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 14,
+			"y": 47
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 116,
+		"dist": 19.6468827043885,
+		"farm": true,
+		"lastScout": 1454096784533,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastFarm": 1454084985301
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 48
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "sadistic skink",
+		"population": 211,
+		"dist": 22.360679774997898,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 48
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "Veronika",
+		"population": 362,
+		"dist": 4,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -2,
+			"y": 48
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "cukrovar",
+		"population": 227,
+		"dist": 5,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 48
+		},
+		"tribe": "Gauls",
+		"alliance": "NS",
+		"owner": "ÇiÇi Han",
+		"population": 189,
+		"dist": 8.06225774829855,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 13,
+			"y": 48
+		},
+		"tribe": "Teutons",
+		"alliance": "GYSOT",
+		"owner": "Crasher05",
+		"population": 89,
+		"dist": 18.439088914585774,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 48
+		},
+		"tribe": "Teutons",
+		"alliance": "PT",
+		"owner": "Bandit Queen",
+		"population": 305,
+		"dist": 20.396078054371138,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 48
+		},
+		"tribe": "Romans",
+		"alliance": "0UTCASTS",
+		"owner": "MajkoM",
+		"population": 330,
+		"dist": 25.317977802344327,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -18,
+			"y": 49
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "MTZ",
+		"population": 263,
+		"dist": 13.341664064126334,
+		"farm": true,
+		"lastScout": 1454085234325,
+		"troops": {
+			"0": 101,
+			"1": 171,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 11,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		}
+	},
+	{
+		"coords": {
+			"x": -17,
+			"y": 49
+		},
+		"tribe": "Gauls",
+		"alliance": "SUPER",
+		"owner": "Motown",
+		"population": 74,
+		"dist": 12.36931687685298,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -15,
+			"y": 49
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 34,
+		"dist": 10.44030650891055,
+		"farm": true,
+		"lastScout": 1454090214811,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lastFarm": 1454087449992,
+		"isFull": 0.0033333333333333335
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 49
+		},
+		"tribe": "Teutons",
+		"alliance": "0UTCASTS",
+		"owner": "iTzLeo",
+		"population": 368,
+		"dist": 14.317821063276353,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 19,
+			"y": 49
+		},
+		"tribe": "Romans",
+		"alliance": "0UTCASTS",
+		"owner": "MajkoM",
+		"population": 39,
+		"dist": 24.186773244895647,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 50
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "andnp",
+		"population": 39,
+		"dist": 22.090722034374522,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": 50
+		},
+		"tribe": "Teutons",
+		"alliance": "NS",
+		"owner": "Dewa",
+		"population": 312,
+		"dist": 5.385164807134504,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 50
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 33,
+		"dist": 21.095023109728988,
+		"farm": true,
+		"lastScout": 1454090232536,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.44
+	},
+	{
+		"coords": {
+			"x": -25,
+			"y": 51
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Cowboy29",
+		"population": 79,
+		"dist": 20.024984394500787,
+		"farm": true,
+		"lastScout": 1454090350394,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.34,
+		"lastFarm": 1454090627368
+	},
+	{
+		"coords": {
+			"x": -19,
+			"y": 51
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW]",
+		"owner": "Rollo",
+		"population": 294,
+		"dist": 14.035668847618199,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 2,
+			"y": 51
+		},
+		"tribe": "Romans",
+		"alliance": "TA",
+		"owner": "LittleBunnyFuFu",
+		"population": 451,
+		"dist": 7.0710678118654755,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 6,
+			"y": 51
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "hunnyology",
+		"population": 268,
+		"dist": 11.045361017187261,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 8,
+			"y": 51
+		},
+		"tribe": "Teutons",
+		"alliance": "0UTCASTS",
+		"owner": "Shadowchaser",
+		"population": 207,
+		"dist": 13.038404810405298,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 12,
+			"y": 51
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 17,
+		"dist": 17.029386365926403,
+		"farm": true,
+		"lastScout": 1454090224095,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.01
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 51
+		},
+		"tribe": "Romans",
+		"alliance": "GYSOT",
+		"owner": "Yolo",
+		"population": 296,
+		"dist": 22.02271554554524,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 18,
+			"y": 51
+		},
+		"tribe": "Gauls",
+		"alliance": "GYSOT",
+		"owner": "Sleeping Giant",
+		"population": 102,
+		"dist": 23.021728866442675,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 19,
+			"y": 51
+		},
+		"tribe": "Gauls",
+		"alliance": "GYSOT",
+		"owner": "Sleeping Giant",
+		"population": 319,
+		"dist": 24.020824298928627,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 52
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Herman",
+		"population": 172,
+		"dist": 24,
+		"farm": true,
+		"lastScout": 1454092007216,
+		"troops": {
+			"0": 21,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		}
+	},
+	{
+		"coords": {
+			"x": -26,
+			"y": 52
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "kph101wizard",
+		"population": 10,
+		"dist": 21,
+		"farm": true,
+		"lastScout": 1454091465352,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.465
+	},
+	{
+		"coords": {
+			"x": -20,
+			"y": 52
+		},
+		"tribe": "Teutons",
+		"alliance": "",
+		"owner": "Anathor",
+		"population": 83,
+		"dist": 15,
+		"farm": true,
+		"lastScout": 1454091627243,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.465
+	},
+	{
+		"coords": {
+			"x": -5,
+			"y": 52
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "andnp",
+		"population": 268,
+		"dist": 0,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 16,
+			"y": 52
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "slain1412",
+		"population": 55,
+		"dist": 21,
+		"farm": true,
+		"lastScout": 1454093606757,
+		"troops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 0.605
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 52
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "ppp",
+		"population": 69,
+		"dist": 22,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 20,
+			"y": 52
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "larker",
+		"population": 165,
+		"dist": 25,
+		"farm": true,
+		"lastScout": 1454088815386
+	},
+	{
+		"coords": {
+			"x": -23,
+			"y": 53
+		},
+		"population": null,
+		"dist": 18.027756377319946,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -18,
+			"y": 53
+		},
+		"tribe": "Gauls",
+		"alliance": "Durex",
+		"owner": "black",
+		"population": 307,
+		"dist": 13.038404810405298,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -16,
+			"y": 53
+		},
+		"tribe": "Teutons",
+		"alliance": "SUPER",
+		"owner": "Ikson",
+		"population": 245,
+		"dist": 11.045361017187261,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 10,
+			"y": 53
+		},
+		"tribe": "Gauls",
+		"alliance": "OUTCASTS",
+		"owner": "jesse",
+		"population": 370,
+		"dist": 15.033296378372908,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 15,
+			"y": 53
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Sagomone",
+		"population": 172,
+		"dist": 20.024984394500787,
+		"farm": true,
+		"lastScout": 1454089415125
+	},
+	{
+		"coords": {
+			"x": 17,
+			"y": 53
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "axa",
+		"population": 248,
+		"dist": 22.02271554554524,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -30,
+			"y": 54
+		},
+		"population": null,
+		"dist": 25.079872407968907,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -28,
+			"y": 54
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "INeedNoSympathy",
+		"population": 122,
+		"dist": 23.08679276123039,
+		"farm": true,
+		"lastScout": 1454095387747,
+		"troops": {
+			"0": 22,
+			"1": 7,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"isFull": 107.7
+	},
+	{
+		"coords": {
+			"x": -24,
+			"y": 54
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "wfuzduv",
+		"population": 191,
+		"dist": 19.1049731745428,
+		"farm": true,
+		"lastScout": 1454095367089,
+		"troops": {
+			"0": null,
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"lostTroops": {
+			"0": 0,
+			"1": 0,
+			"2": 0,
+			"3": 1,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		}
+	},
+	{
+		"coords": {
+			"x": -22,
+			"y": 54
+		},
+		"tribe": "Gauls",
+		"alliance": "[GW]God2",
+		"owner": "Thunorr",
+		"population": 259,
+		"dist": 17.11724276862369,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -11,
+			"y": 54
+		},
+		"tribe": "Romans",
+		"alliance": "NS",
+		"owner": "Stalking Butler",
+		"population": 259,
+		"dist": 6.324555320336759,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 54
+		},
+		"tribe": "Gauls",
+		"alliance": "[WW]",
+		"owner": "Smitho",
+		"population": 360,
+		"dist": 4.47213595499958,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 1,
+			"y": 54
+		},
+		"tribe": "Romans",
+		"alliance": "OUTCASTS",
+		"owner": "Talyn",
+		"population": 303,
+		"dist": 6.324555320336759,
+		"farm": true
+	},
+	{
+		"coords": {
+			"x": 9,
+			"y": 54
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Chanetsv",
+		"population": 159,
+		"dist": 14.142135623730951,
+		"farm": true,
+		"lastScout": 1454092659676
+	},
+	{
+		"coords": {
+			"x": 13,
+			"y": 54
+		},
+		"tribe": "Gauls",
+		"alliance": "",
+		"owner": "Rabiaan",
+		"population": 177,
+		"dist": 18.110770276274835,
+		"farm": true,
+		"lastScout": 1454093133215
+	},
+	{
+		"coords": {
+			"x": -29,
+			"y": 55
+		},
+		"tribe": "Romans",
+		"alliance": "",
+		"owner": "Malevich",
+		"population": 215,
+		"dist": 24.186773244895647,
+		"farm": true,
+		"lastScout": 1454093579732
+	},
+	{
+		"coords": {
+			"x": -27,
+			"y": 55
+		},
+		"tribe": "Natars",
+		"alliance": "",
+		"owner": "Natars",
+		"population": 10,
+		"dist": 22.20360331117452,
+		"farm": true,
+		"lastScout": 1454094150707
+	}
+]
