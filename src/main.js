@@ -1,9 +1,12 @@
 //-------Global Variables--------
 
-global.server = process.argv[2] || "http://ts2.travian.us";
-global.serverName = process.argv[3] || "ts2";
-var dateString = process.argv[4] || "Jan 8, 2016";
+global.server = process.argv[2] || "http://ts20.travian.us";
+global.serverName = process.argv[3] || "ts20";
+var dateString = process.argv[4] || "Mar 15, 2017";
 global.tribe = process.argv[5] || "Romans";
+
+global.farmCollection = [];
+global.completedFarms = [];
 
 //---------Required--------------
 global.serverStart = new Date(dateString);
@@ -18,44 +21,62 @@ require('./browser/troops.js')(client);
 require('./browser/navigation.js')(client);
 require('./browser/reports.js')(client);
 require('./browser/map.js')(client);
+require('./browser/villages.js')(client);
+require('./browser/village.js')(client);
+var Village = require('./data/state.js');
 
 
 //---------Local Vars------------
 var taskQueue = [];
-global.done = true;
 
 var villageList = [];
+var ownVillages = [];
 var oasisList = [];
 var troopList = [];
-var center ={x: -5, y: 52};
+var center ={x: -12, y: 64};  // NEED TO FIX THIS
 var lastCommand = Date.now();
 
 //---------On Start--------------
 
-client.login().then(function(){
+var execHandle = null;
+client.login().then(async function(){
 	// begin execution of tasks in queue
-	function executor(){
-		if(taskQueue.length > 0 && global.done){
-			global.done = false;
-			taskQueue.shift()();
+	async function executor(){
+		if(taskQueue.length > 0){
+			try {
+				await taskQueue.shift()();
+			} catch (e) {
+				console.log(e);
+			}
 			lastCommand = Date.now();
 		}
-		// console.log(global.done)
-		setTimeout(executor, ((Math.random() * 2) + 1) * 1000);
+		execHandle = setTimeout(executor, ((Math.random() * 2) + 3) * 1000);
 	}
 
 	function checkBotDeath(){
-		if(Date.now() - lastCommand > 5 * 60 * 1000)
-			global.done = true;
-	}
-	setInterval(checkBotDeath, 60 * 1000);
+		if(Date.now() - lastCommand > 2 * 60 * 1000) {
+			clearTimeout(execHandle);
+			console.log('bot death');
+			taskQueue = [];
+			executor();
 
-	// client.placeAuctionBid(7, 500);
+		}
+	}
+
+	let vs = await client.listVillages();
+
+	for (let i = 0; i < vs.length - 2; ++i) {
+		ownVillages.push(new Village.Village(vs[i], i+1, client, taskQueue, villageList, oasisList));
+		await ownVillages[i].update();
+	}
+
 	require('./controllers/reportMonitor.js')(client, taskQueue, villageList, oasisList, center);
-	taskQueue.push(function(){require('./controllers/mapScanner.js')(client, taskQueue, villageList, oasisList, center); global.done = true;});
+	// await require('./controllers/mapScanner.js')(client, taskQueue, villageList, oasisList, center);
 	require('./controllers/auctionMarket.js')(client, taskQueue);
 	require('./controllers/farmer.js')(client, taskQueue, villageList, oasisList, troopList, center);
+	// require('./controllers/villageChooser.js')(client, taskQueue);
 
+	setInterval(checkBotDeath, 60 * 1000);
 	executor();
 });
 
@@ -80,6 +101,7 @@ fs.readFile('../'+global.serverName+'/oasis.json', function(err, res){
 function cleanup(){
 	fs.writeFileSync('../'+global.serverName+'/villages.json', JSON.stringify(villageList,null, '\t'));
 	fs.writeFileSync('../'+global.serverName+'/oasis.json', JSON.stringify(oasisList,null,'\t'));
+	fs.writeFileSync('../'+global.serverName+'/farm_data.json', JSON.stringify(global.completedFarms,null,'\t'));
 	process.exit();
 }
 

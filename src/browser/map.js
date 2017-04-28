@@ -45,6 +45,52 @@ function addVillage(x, y, villageList, center){
 	});
 }
 
+function updateVillage(x, y, villageList){
+	var owner, pop, tribe, alliance;
+	return this.url(global.server + '/position_details.php?x='+x+'&y='+y)
+	.getText('//*[@id="village_info"]/tbody/tr[1]/td', function(err, res){
+		tribe = res;
+	})
+	.getText('//*[@id="village_info"]/tbody/tr[2]/td', function(err,res){
+		alliance = res;
+	})
+	.getText('//*[@id="village_info"]/tbody/tr[3]/td', function(err, res){
+		owner = res;
+	})
+	.getText('//*[@id="village_info"]/tbody/tr[4]/td', function(err, res){
+		pop = parseInt(res);
+		var exists = false;
+		for(var i = 0; i < villageList.length; i++){
+			if(villageList[i].coords.x == x && villageList[i].coords.y == y){
+				exists = true;
+				villageList[i].alliance = alliance;
+				villageList[i].owner = owner;
+				villageList[i].tribe = tribe;
+				if(villageList[i].population != pop)
+					villageList[i].active = true;
+				else
+					villageList[i].active = false;
+				villageList[i].population = pop;
+				if(villageList[i].farm == undefined)
+					villageList[i].farm = true;
+				
+				return villageList[i];
+			}
+		}
+		if(!exists){
+			var village = {
+				coords: {x: x, y: y},
+				tribe: tribe,
+				alliance: alliance,
+				owner: owner,
+				population: pop,
+				farm: true
+			};
+			return village;
+		}
+	});
+}
+
 function addOasis(x, y, oasisList, center){
 	var oasis;
 	return this.getText('//*[@id="troop_info"]', function(err, res){
@@ -72,6 +118,10 @@ function addOasis(x, y, oasisList, center){
 	});
 }
 
+function openMap() {
+	return this.click('//*[@id="n3"]/a');
+}
+
 function checkForFarm(coords){
 	return this.url(global.server + '/position_details.php?x='+coords.x+'&y='+coords.y)
 	.getText('//*[@id="village_info"]/tbody/tr[2]/td', function(err, alliance){
@@ -86,4 +136,6 @@ function checkForFarm(coords){
 module.exports = function(client){
 	client.addCommand('addVillage', addVillage);
 	client.addCommand('addOasis', addOasis);
+	client.addCommand('openMap', openMap);
+	client.addCommand('updateVillage', updateVillage);
 }

@@ -1,9 +1,9 @@
 var openAuctionPage = function(){
-	return this.url(global.server + '/hero_auction.php?action=buy');
+	return this.url(global.server + '/hero.php?t=4');
 }
 
 var openBidsPage = function(){
-	return this.url(global.server + '/hero_auction.php?action=bids');
+	return this.url(global.server + '/hero.php?t=4&action=bids');
 }
 
 var getAuctionsTable = function(){

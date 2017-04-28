@@ -5,5 +5,10 @@
   "private": true,
   "dependencies": {
     "webdriverio": "^3.4.0"
+  },
+  "devDependencies": {
+    "wdio-cucumber-framework": "^0.2.16",
+    "wdio-junit-reporter": "^0.3.0",
+    "wdio-selenium-standalone-service": "0.0.8"
   }
 }

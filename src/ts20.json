@@ -1,0 +1,32 @@
+{
+    "villages": [
+        {"buildings": [
+            {"name": "Heros Mansion", "level": 20},
+            {"name": "Marketplace", "level": 20},
+            {"name": "Warehouse", "level": 20},
+            {"name": "Stable", "level": 20},
+            {"name": "Flour Mill", "level": 5},
+            {"name": "City Wall", "level": 20},
+            {"name": "Barracks", "level": 20},
+            {"name": "Granary", "level": 20},
+            {"name": "Main Building", "level": 20},
+            {"name": "Rally Point", "level": 20}
+        ]},
+        {"buildings": [
+            {"name": "Heros Mansion", "level": 20},
+            {"name": "Granary", "level": 20},
+            {"name": "Stable", "level": 20},
+            {"name": "Flour Mill", "level": 5},
+            {"name": "City Wall", "level": 20},
+            {"name": "Barracks", "level": 20}
+        ]},
+        {"buildings": [
+            {"name": "Heros Mansion", "level": 20},
+            {"name": "Marketplace", "level": 5},
+            {"name": "Stable", "level": 20},
+            {"name": "Flour Mill", "level": 5},
+            {"name": "City Wall", "level": 20},
+            {"name": "Barracks", "level": 20}
+        ]}
+    ]
+}

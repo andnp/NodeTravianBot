@@ -1,5 +1,21 @@
 var troopEnum = require('../enums/troops.js');
 
+function addPercentResToDataCollection(coords, percent) {
+	let index = -1;
+	for (let i = 0; i < global.farmCollection.length; ++i) {
+		let farm = Object.assign({}, global.farmCollection[i]);
+		if (farm.coords.x === coords.x && farm.coords.y === coords.y) {
+			farm.lastScout = (Date.now() - farm.lastScout) / 1000;
+			farm.lastFarm = (Date.now() - farm.lastFarm) / 1000;
+			farm.isFull = percent;
+			global.completedFarms.push(farm);
+			index = i;
+		}
+	}
+	if(index >= 0)
+		global.farmCollection.splice(index, 1);
+}
+
 function controller(client, taskQueue, villageList, oasisList, center){
 	console.log('Start up report monitor');
 	setInterval(function(){
@@ -8,9 +24,9 @@ function controller(client, taskQueue, villageList, oasisList, center){
 		var percent;
 		var isOasis;
 		client.checkForReport(function(err, res){
-			if(res && global.done){
-				taskQueue.push(function(){
-					client.openReports()
+			if(res){
+				taskQueue.push(async function(){
+					return client.openReports()
 					.openFirstUnreadReport()
 					.getLostTroopsFromReport(function(err, lostData){
 						console.log(lostData)
@@ -20,22 +36,20 @@ function controller(client, taskQueue, villageList, oasisList, center){
 						troops = tdata;
 					})
 					.getPercentResourcesFromReport(function(err, resData){
-						percent = resData;
+						percent = resData || 0;
 						console.log("percent: " + percent);
 					})
 					.getIsOasis(function(err, oasisRes){
 						isOasis = oasisRes;
 					})
-					.getCoordsFromOpenReport(function(err, coords){
+					.getCoordsFromOpenReport(async function(err, coords){
 						if(err){
 							console.log("Report monitor err: ");
 							console.log(err);
-							global.done = true;
 							return;
 						}
 						if(coords == null){
 							console.log('null coords');
-							global.done = true;
 							return;
 						}
 						var exists = false;
@@ -48,17 +62,17 @@ function controller(client, taskQueue, villageList, oasisList, center){
 										village.lostTroops = lostTroops;
 									}
 									village.lastScout = Date.now();
-									if(percent)
+									if(percent !== null || percent !== undefined)
 										village.isFull = percent;
 									exists = true;
+									addPercentResToDataCollection(coords, percent);
 									break;
 								}
 							}
 							if(!exists){
-								client.addVillage(coords.x, coords.y, villageList, center, function(err, village){
+								await client.addVillage(coords.x, coords.y, villageList, center, function(err, village){
 									if(err){
 										console.log(err);
-										global.done = true;
 										return;
 									}
 									village.troops = troops;
@@ -67,13 +81,9 @@ function controller(client, taskQueue, villageList, oasisList, center){
 									if(percent)
 										village.isFull = percent;
 									villageList.push(village);
-									global.done = true;
+									addPercentResToDataCollection(coords, percent);
 									return;
 								});
-							}
-							else {
-								global.done = true;
-								return;
 							}
 						} else {
 							for(var i = 0; i < oasisList.length; i++){
@@ -92,10 +102,9 @@ function controller(client, taskQueue, villageList, oasisList, center){
 								}
 							}
 							if(!exists){
-								client.addOasis(coords.x, coords.y, oasisList, center, function(err, oasis){
+								await client.addOasis(coords.x, coords.y, oasisList, center, function(err, oasis){
 									if(err) {
 										console.log(err);
-										global.done = true;
 										return;
 									}
 									oasis.troops = troops;
@@ -104,19 +113,15 @@ function controller(client, taskQueue, villageList, oasisList, center){
 									if(percent)
 										oasis.isFull = percent;
 									oasisList.push(oasis);
-									global.done = true;
 									return;
 								})
-							} else {
-								global.done = true;
-								return;
 							}
 						}
 					});
 				});
 			}
 		});
-	}, 5000);
+	}, 10 * 1000);
 }
 
 module.exports = controller;

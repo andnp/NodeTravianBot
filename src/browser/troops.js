@@ -4,6 +4,21 @@ function openRallySpot(){
 	return this.url(global.server + '/build.php?tt=1&id=39');
 }
 
+function getNextIncoming() {
+	return this.openRallySpot()
+	.getText('//*[@id="build"]/div[4]/table[1]/tbody/tr/td/div[1]/span[contains(@class, "timer")]', function(err, res) {
+		if (err) {
+			return {hour: 100, min: 100, sec: 100};
+		}
+		let s = res.split(':')
+		let hour = parseInt(s[0]);
+		let min = parseInt(s[1]);
+		let sec = parseInt(s[2]);
+		let time = {hour, min, sec};
+		return time;
+	});
+}
+
 function getTroops(){
 	var troopList = {};
 	var nums = [];
@@ -11,8 +26,14 @@ function getTroops(){
 	return this.openMain()
 	.getText('//*[@id="troops"]/tbody/tr/td[3]',function(err, res){
 		names = res;
+		if (typeof(res) === 'string') {
+			names = [res];
+		}
 	})
 	.getText('//*[@id="troops"]/tbody/tr/td[2]', function(err, res){
+		if (typeof(res) === 'string') {
+			res = [res]
+		}
 		for(var i = 0; i < res.length; i++){
 			troopList[troopEnum.getTroopNumber(names[i])] = parseInt(res[i]);	
 		}
@@ -41,6 +62,7 @@ function raid(coords, troops){
 	return this.url(global.server + '/position_details.php?newdid=3327&x='+coords.x+'&y='+coords.y)
 	.getText('//*[@id="content"]/h1', function(err, title){
 		if(title.indexOf('Abandoned') == -1){
+			try {
 			return this.click('//*[@id="tileDetails"]/div[1]/div/div[2]/a')
 			.setValue('//*[@id="troops"]/tbody/tr[1]/td[2]/input', troops[3] || 0)
 			.setValue('//*[@id="troops"]/tbody/tr[1]/td[1]/input', troops[0] || 0)
@@ -64,6 +86,9 @@ function raid(coords, troops){
 					.click('//*[@id="btn_ok"]')
 					.click('//*[@id="btn_ok"]');
 			});
+			} catch (err) {
+				return false;
+			}
 		} else {
 			return false;
 		}
@@ -75,4 +100,5 @@ module.exports = function(client){
 	client.addCommand('getTroops', getTroops);
 	client.addCommand('scout', scout);
 	client.addCommand('raid', raid);
+	client.addCommand('getNextIncoming', getNextIncoming);
 }
